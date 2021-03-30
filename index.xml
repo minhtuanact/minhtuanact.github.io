@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>minhtuanact | Blog</title>
+    <link>https://minhtuanact.github.io/</link>
+    <description>Recent content on minhtuanact | Blog</description>
+    <image>
+      <url>https://minhtuanact.github.io/papermod-cover.png</url>
+      <link>https://minhtuanact.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 26 Jan 2021 07:13:18 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laravel &lt;= v8.4.2 debug mode: Remote code execution</title>
+      <link>https://minhtuanact.github.io/content/post/laravel-v8.4.2-debug-mode-remote-code-execution/</link>
+      <pubDate>Tue, 26 Jan 2021 07:13:18 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/content/post/laravel-v8.4.2-debug-mode-remote-code-execution/</guid>
+      <description>Tản mạn &amp;ldquo;Hằng năm cứ vào cuối đông, lá ngoài đường rụng nhiều và trên không có những đám mây bàng bạc, lòng tôi lại nao nức những kỷ niệm hoang mang.
+Tôi không thể nào quên được những cảm giác trong sáng ấy nảy nở trong lòng tôi như mấy cành hoa tươi mỉm cười giữa bầu trời quang đãng.
+Những ý tưởng ấy tôi chưa lần nào ghi lên giấy, vì hồi ấy tôi không biết ghi và ngày nay tôi không nhớ hết.</description>
+    </item>
+    
+    <item>
+      <title>[Pentest Android] Cài đặt Android Emulator sao cho ngầu :-?</title>
+      <link>https://minhtuanact.github.io/content/post/cai-dat-android-emulator-sao-cho-ngau/</link>
+      <pubDate>Mon, 26 Oct 2020 11:14:29 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/content/post/cai-dat-android-emulator-sao-cho-ngau/</guid>
+      <description>Tự sự một chút Cuối tuần hơi rảnh lại sắp rủ bạn gái đi ăn, nên mình có download 1 app android của 1 chuỗi cửa hàng có tiếng ở Hà Nội về để xem có khuyến mại gì không. Với một pentester thì khi mình dùng cái app này mình đã ngửi thấy mùi sai sai gì rồi. Khổ nỗi 1 điều là môi trường lại config hết trên máy công ty rồi, máy ở nhà mình trước có cài mà gỡ đi mất rồi.</description>
+    </item>
+    
+    <item>
+      <title>Reflected XSS in ATutor 2.2.4</title>
+      <link>https://minhtuanact.github.io/content/post/reflected-xss-in-atutor-2.2.4/</link>
+      <pubDate>Fri, 05 Jun 2020 10:41:01 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/content/post/reflected-xss-in-atutor-2.2.4/</guid>
+      <description>Reflected XSS in ATutor 2.2.4 Software Link: https://atutor.github.io/atutor/downloads.html
+Date: 05-06-2020
+Exploit Author: cm0s
+Version &amp;lt;= 2.2.4
+Vulnerability analysis The program displays data without performing data encode. This has resulted in the Reflected XSS error. themes/default/include/header.tmpl.php line &amp;lt;?php global $msg; $msg-&amp;gt;printAll(); $_base_href;?&amp;gt; Exploit Send payload:
+http://&amp;lt;target&amp;gt;/browse.php?search=%3Cscript%3Ealert(1)%3C%2fscript%3E </description>
+    </item>
+    
+    <item>
+      <title>Writeup Htb Registry</title>
+      <link>https://minhtuanact.github.io/content/post/writeup-htb-registry/</link>
+      <pubDate>Mon, 10 Feb 2020 15:52:14 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/content/post/writeup-htb-registry/</guid>
+      <description>Tả thực Vào một ngày đẹp trời (à thực ra thì cũng không đẹp lắm, trời vừa mưa vừa rét chả đi chơi được đâu) thì có người bạn mình trong team bảo chơi hackthebox và đang có lỗi. Được cái mình cũng nhiệt tình + phá hoại nên vào giúp tý cho vui.
+Start Recon ➜ ~ ./nmapAutomator.sh 10.10.10.159 all Running a all scan on 10.10.10.159 Host is likely running Linux ---------------------Starting Nmap Quick Scan--------------------- Starting Nmap 7.</description>
+    </item>
+    
+    <item>
+      <title>[Writeup] Whitehat Grand Prix 06 - 2020</title>
+      <link>https://minhtuanact.github.io/content/post/writeup-whitehat-2020/</link>
+      <pubDate>Fri, 10 Jan 2020 13:25:48 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/content/post/writeup-whitehat-2020/</guid>
+      <description>Misc 01 (Point: 360) File các bạn có thể download tại đây File
+Đầu tiên thì đây là file png, sử dụng zsteg xem bên trong này có gì không. Thấy có 1 file ảnh nữa và 1 đoạn Comment Find the password to get the colors using stego tool. Extract file ảnh ra xem có gì bên trong
+➜ misc01 zsteg -e &amp;#34;extradata:0&amp;#34; Trip_to_Hoi_An.png &amp;gt; qr.png Ta extract ra được 1 file qr.</description>
+    </item>
+    
+    <item>
+      <title>Tạo Vô Vàn Lệnh Shell Chiếm Quyền Truy Cập Bằng Công Cụ Shellpop Trên Linux</title>
+      <link>https://minhtuanact.github.io/content/post/tao-vo-van-lenh-shell-chiem-quyen-truy-cap-bang-cong-cu-shellpop-tren-linux/</link>
+      <pubDate>Thu, 29 Aug 2019 16:44:19 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/content/post/tao-vo-van-lenh-shell-chiem-quyen-truy-cap-bang-cong-cu-shellpop-tren-linux/</guid>
+      <description>Bạn đã chán cảnh lưu lại các lệnh shell trên máy tính của mình, và bạn đã mệt mỏi khi đi tìm chúng ở đâu mỗi khi mình cần. Để giải quyết việc này, Shellpop được sinh ra với vô vàn các tiện ích mà nó đem lại, giờ đây bạn sẽ không cần phải lưu lại và đi tìm các lệnh shell mỗi khi cần nữa.
+About Công cụ này được phát triển bởi Andre Marques và đây là một mã nguồn mở nên ai có bất kỳ ý tưởng nào hay ho thì tham gia vào cùng phát triển nhé</description>
+    </item>
+    
+    <item>
+      <title>Sử Dụng Công Cụ SQLMAP với Blind SQL Injection Cho 1 Bài CTF</title>
+      <link>https://minhtuanact.github.io/content/post/su-dung-cong-cu-sqlmap-voi-blind-sql-injection-cho-1-bai-ctf/</link>
+      <pubDate>Thu, 29 Aug 2019 14:18:35 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/content/post/su-dung-cong-cu-sqlmap-voi-blind-sql-injection-cho-1-bai-ctf/</guid>
+      <description>Mở đầu  Vừa rồi có 1 cuộc thi KMA CTF dành cho sinh viên. Mình cũng được tiếp xúc với 1 bài Web dính SQL Injection  Đề bài &amp;lt;?php include &amp;#34;config.php&amp;#34;; function check_input($input) { $charset = &amp;#34;~0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#$%&amp;amp;\()*+,-./:;&amp;lt;=&amp;gt;?@[]^_`{|}&amp;#34;; if (empty($input)) return false; for ($i = 0 ; $i &amp;lt; strlen($input); $i++) if(!strpos($charset,$input[$i])) return false; return true; } if(isset($_POST[&amp;#34;search_user_exist&amp;#34;])) { $username = $_POST[&amp;#34;username&amp;#34;]; $name = $_POST[&amp;#34;name&amp;#34;]; &amp;#34;hl_lines=5-6&amp;#34; if ( check_input($username) === false || check_input($name) === false) { die(&amp;#34;h4x0r detected&amp;#34;); } $sql = &amp;#34;SELECT id FROM users WHERE username=&amp;#39;$username&amp;#39; or name=&amp;#39;$name&amp;#39;&amp;#34;; $result = $conn-&amp;gt;query($sql); if ($result-&amp;gt;num_rows &amp;gt; 0) { die(&amp;#34;User exist&amp;#34;); } die(&amp;#34;No user&amp;#34;); } else { highlight_file(__FILE__); } ?</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://minhtuanact.github.io/content/about/</link>
+      <pubDate>Thu, 29 Aug 2019 13:24:23 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/content/about/</guid>
+      <description>About Me Học vấn  Sinh viên năm 5 tại Học viện Kỹ thuật Mật Mã (KMA)  Quê Quán  Sinh ra và lớn lên tại miền quê Bắc Giang yêu dấu  Sở thích  Thích rất nhiều thứ mỗi thứ 1 chút Thích ăn nhiều thứ (thành ra giờ mới béo vậy nầy T_T) Thích đi đây đi đó Thích đi xem phim nhưng k thích đi xem phim 1 mình Thích nghe nhạc: pop ballad, indie, rock ballad, &amp;hellip; Thích tự do  </description>
+    </item>
+    
+  </channel>
+</rss>

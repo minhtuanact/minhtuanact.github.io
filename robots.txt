@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://minhtuanact.github.io/sitemap.xml
