@@ -2,37 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minhtuanact.github.io/content/</loc>
-    <lastmod>2021-01-26T07:13:18+07:00</lastmod>
-  </url><url>
-    <loc>https://minhtuanact.github.io/content/post/laravel-v8.4.2-debug-mode-remote-code-execution/</loc>
+    <loc>https://minhtuanact.github.io/post/laravel-v8.4.2-debug-mode-remote-code-execution/</loc>
     <lastmod>2021-01-26T07:13:18+07:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.github.io/</loc>
     <lastmod>2021-01-26T07:13:18+07:00</lastmod>
   </url><url>
-    <loc>https://minhtuanact.github.io/content/post/cai-dat-android-emulator-sao-cho-ngau/</loc>
+    <loc>https://minhtuanact.github.io/post/</loc>
+    <lastmod>2021-01-26T07:13:18+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/post/cai-dat-android-emulator-sao-cho-ngau/</loc>
     <lastmod>2020-10-26T11:14:29+07:00</lastmod>
   </url><url>
-    <loc>https://minhtuanact.github.io/content/post/reflected-xss-in-atutor-2.2.4/</loc>
+    <loc>https://minhtuanact.github.io/post/reflected-xss-in-atutor-2.2.4/</loc>
     <lastmod>2020-06-05T10:41:01+07:00</lastmod>
   </url><url>
-    <loc>https://minhtuanact.github.io/content/post/writeup-htb-registry/</loc>
+    <loc>https://minhtuanact.github.io/post/writeup-htb-registry/</loc>
     <lastmod>2020-02-10T15:52:14+07:00</lastmod>
   </url><url>
-    <loc>https://minhtuanact.github.io/content/post/writeup-whitehat-2020/</loc>
+    <loc>https://minhtuanact.github.io/post/writeup-whitehat-2020/</loc>
     <lastmod>2020-01-10T13:25:48+07:00</lastmod>
   </url><url>
-    <loc>https://minhtuanact.github.io/content/post/tao-vo-van-lenh-shell-chiem-quyen-truy-cap-bang-cong-cu-shellpop-tren-linux/</loc>
+    <loc>https://minhtuanact.github.io/post/tao-vo-van-lenh-shell-chiem-quyen-truy-cap-bang-cong-cu-shellpop-tren-linux/</loc>
     <lastmod>2019-08-29T16:44:19+07:00</lastmod>
   </url><url>
-    <loc>https://minhtuanact.github.io/content/post/su-dung-cong-cu-sqlmap-voi-blind-sql-injection-cho-1-bai-ctf/</loc>
+    <loc>https://minhtuanact.github.io/post/su-dung-cong-cu-sqlmap-voi-blind-sql-injection-cho-1-bai-ctf/</loc>
     <lastmod>2019-08-29T14:18:35+07:00</lastmod>
   </url><url>
-    <loc>https://minhtuanact.github.io/content/about/</loc>
+    <loc>https://minhtuanact.github.io/about/</loc>
     <lastmod>2019-08-29T13:24:23+07:00</lastmod>
   </url><url>
+    <loc>https://minhtuanact.github.io/archives/</loc>
+  </url><url>
     <loc>https://minhtuanact.github.io/categories/</loc>
+  </url><url>
+    <loc>https://minhtuanact.github.io/search/</loc>
   </url><url>
     <loc>https://minhtuanact.github.io/series/</loc>
   </url><url>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>minhtuanact | Blog</title>
-    <link>https://minhtuanact.github.io/</link>
-    <description>Recent content on minhtuanact | Blog</description>
+    <title>Posts on minhtuanact | Blog</title>
+    <link>https://minhtuanact.github.io/post/</link>
+    <description>Recent content in Posts on minhtuanact | Blog</description>
     <image>
       <url>https://minhtuanact.github.io/papermod-cover.png</url>
       <link>https://minhtuanact.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 26 Jan 2021 07:13:18 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 07:13:18 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Laravel &lt;= v8.4.2 debug mode: Remote code execution</title>
       <link>https://minhtuanact.github.io/post/laravel-v8.4.2-debug-mode-remote-code-execution/</link>
@@ -83,17 +83,6 @@ About Công cụ này được phát triển bởi Andre Marques và đây là m
       <guid>https://minhtuanact.github.io/post/su-dung-cong-cu-sqlmap-voi-blind-sql-injection-cho-1-bai-ctf/</guid>
       <description>Mở đầu  Vừa rồi có 1 cuộc thi KMA CTF dành cho sinh viên. Mình cũng được tiếp xúc với 1 bài Web dính SQL Injection  Đề bài &amp;lt;?php include &amp;#34;config.php&amp;#34;; function check_input($input) { $charset = &amp;#34;~0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#$%&amp;amp;\()*+,-./:;&amp;lt;=&amp;gt;?@[]^_`{|}&amp;#34;; if (empty($input)) return false; for ($i = 0 ; $i &amp;lt; strlen($input); $i++) if(!strpos($charset,$input[$i])) return false; return true; } if(isset($_POST[&amp;#34;search_user_exist&amp;#34;])) { $username = $_POST[&amp;#34;username&amp;#34;]; $name = $_POST[&amp;#34;name&amp;#34;]; &amp;#34;hl_lines=5-6&amp;#34; if ( check_input($username) === false || check_input($name) === false) { die(&amp;#34;h4x0r detected&amp;#34;); } $sql = &amp;#34;SELECT id FROM users WHERE username=&amp;#39;$username&amp;#39; or name=&amp;#39;$name&amp;#39;&amp;#34;; $result = $conn-&amp;gt;query($sql); if ($result-&amp;gt;num_rows &amp;gt; 0) { die(&amp;#34;User exist&amp;#34;); } die(&amp;#34;No user&amp;#34;); } else { highlight_file(__FILE__); } ?</description>
     </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://minhtuanact.github.io/about/</link>
-      <pubDate>Thu, 29 Aug 2019 13:24:23 +0700</pubDate>
-      
-      <guid>https://minhtuanact.github.io/about/</guid>
-      <description>About Me Học vấn  Sinh viên năm 5 tại Học viện Kỹ thuật Mật Mã (KMA)  Quê Quán  Sinh ra và lớn lên tại miền quê Bắc Giang yêu dấu  Sở thích  Thích rất nhiều thứ mỗi thứ 1 chút Thích ăn nhiều thứ (thành ra giờ mới béo vậy nầy T_T) Thích đi đây đi đó Thích đi xem phim nhưng k thích đi xem phim 1 mình Thích nghe nhạc: pop ballad, indie, rock ballad, &amp;hellip; Thích tự do  </description>
-    </item>
-    
-    
     
   </channel>
 </rss>
