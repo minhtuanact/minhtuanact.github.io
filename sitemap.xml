@@ -2,44 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minhtuanact.github.io/post/laravel-v8.4.2-debug-mode-remote-code-execution/</loc>
-    <lastmod>2021-01-26T07:13:18+07:00</lastmod>
+    <loc>https://minhtuanact.ml/posts/cach-an-du-lieu-bi-mat-trong-tep-hinh-anh-hoac-am-thanh-chi-mat-vai-giay-va-vo-cung-an-toan/</loc>
+    <lastmod>2019-02-07T07:10:14+07:00</lastmod>
   </url><url>
-    <loc>https://minhtuanact.github.io/</loc>
-    <lastmod>2021-01-26T07:13:18+07:00</lastmod>
+    <loc>https://minhtuanact.ml/</loc>
+    <lastmod>2019-02-07T07:10:14+07:00</lastmod>
   </url><url>
-    <loc>https://minhtuanact.github.io/post/</loc>
-    <lastmod>2021-01-26T07:13:18+07:00</lastmod>
+    <loc>https://minhtuanact.ml/posts/</loc>
+    <lastmod>2019-02-07T07:10:14+07:00</lastmod>
   </url><url>
-    <loc>https://minhtuanact.github.io/post/cai-dat-android-emulator-sao-cho-ngau/</loc>
-    <lastmod>2020-10-26T11:14:29+07:00</lastmod>
+    <loc>https://minhtuanact.ml/posts/ban-thich-dung-windows-nhung-lai-muon-co-cam-giac-go-code-tren-linux-naqzr4xq5vx/</loc>
   </url><url>
-    <loc>https://minhtuanact.github.io/post/reflected-xss-in-atutor-2.2.4/</loc>
-    <lastmod>2020-06-05T10:41:01+07:00</lastmod>
+    <loc>https://minhtuanact.ml/posts/cac-cau-hinh-sai-nginx-pho-bien-khien-web-server-cua-ban-gap-nguy-hiem-part-1-6j3zgnxlkmb/</loc>
   </url><url>
-    <loc>https://minhtuanact.github.io/post/writeup-htb-registry/</loc>
-    <lastmod>2020-02-10T15:52:14+07:00</lastmod>
+    <loc>https://minhtuanact.ml/posts/dnsstager-cong-cu-giup-ban-an-payload-trong-dns-3p0lp6b8kox/</loc>
   </url><url>
-    <loc>https://minhtuanact.github.io/post/writeup-whitehat-2020/</loc>
-    <lastmod>2020-01-10T13:25:48+07:00</lastmod>
+    <loc>https://minhtuanact.ml/posts/doc-medium-khi-bi-nha-mang-chan-bwrznwxylxw/</loc>
   </url><url>
-    <loc>https://minhtuanact.github.io/post/tao-vo-van-lenh-shell-chiem-quyen-truy-cap-bang-cong-cu-shellpop-tren-linux/</loc>
-    <lastmod>2019-08-29T16:44:19+07:00</lastmod>
+    <loc>https://minhtuanact.ml/posts/go-terminal-tren-windows-10-tai-sao-khong-do754g24lm6/</loc>
   </url><url>
-    <loc>https://minhtuanact.github.io/post/su-dung-cong-cu-sqlmap-voi-blind-sql-injection-cho-1-bai-ctf/</loc>
-    <lastmod>2019-08-29T14:18:35+07:00</lastmod>
+    <loc>https://minhtuanact.ml/posts/ha-dhanush-zip-privilege-escalation-1-bai-labs-thu-nghiem-nang-cao-dac-quyen-kha-hay-cua-hacking-articles-4p856ovrky3/</loc>
   </url><url>
-    <loc>https://minhtuanact.github.io/about/</loc>
-    <lastmod>2019-08-29T13:24:23+07:00</lastmod>
+    <loc>https://minhtuanact.ml/posts/hackthebox-writeup-book-4dbznjgqzym/</loc>
   </url><url>
-    <loc>https://minhtuanact.github.io/archives/</loc>
+    <loc>https://minhtuanact.ml/posts/hackthebox-writeup-cascade-magk7jox5j2/</loc>
   </url><url>
-    <loc>https://minhtuanact.github.io/categories/</loc>
+    <loc>https://minhtuanact.ml/posts/hackthebox-writeup-registry-wayk82rnlxx/</loc>
   </url><url>
-    <loc>https://minhtuanact.github.io/search/</loc>
+    <loc>https://minhtuanact.ml/posts/hackthebox-writeup-remote-eb85olq2k2g/</loc>
   </url><url>
-    <loc>https://minhtuanact.github.io/series/</loc>
+    <loc>https://minhtuanact.ml/posts/hay-de-viec-fuzzing-don-gian-hon-voi-nuclei-awj53bpol6m/</loc>
   </url><url>
-    <loc>https://minhtuanact.github.io/tags/</loc>
+    <loc>https://minhtuanact.ml/posts/huong-dan-cai-dat-vpn-cho-vps-outline-vpn-bjzkmxvr59n/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/lam-moi-desktop-linux-cua-ban-voi-tasksel-4p856avlly3/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/lam-the-nao-de-chuyen-doi-tai-khoan-tren-windows-how-do-i-switch-users-in-windows-ywozrqppkq0/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/lam-the-nao-de-rce-tren-windows-tu-linux-3p0lpqym5ox/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/laravel-v842-debug-mode-remote-code-execution-chiem-quyen-dieu-khien-may-thang-ban-dang-code-php-6j3zgn8pkmb/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-1-service-exploits-vydzo7qozwj/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-2-stored-credentials-kernel-exploits-scheduled-tasks-lzd5dvvwzjy/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/linux-broken-permission-and-object-lifetime-handling-for-ptrace-traceme-chiem-quyen-root-hau-het-cac-may-chay-linux-4p8564m3zy3/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/lo-hong-php-fpm-cve-2019-11043-voi-may-chu-nginx-khien-nhieu-trang-web-bi-anh-huong-3q75wxxmkwb/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite-grlzdgowkk0/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite-phan-2-grlzd1a2lk0/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/mot-vai-thu-minh-dang-chay-tren-raspberrypi-tai-nha-cua-minh-ywozrv2pzq0/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/os-command-injection-la-gi-command-injection-co-nguy-hiem-khong-can-cuc-ky-than-trong-doi-voi-cac-lenh-os-goi-tu-website-cua-ban-oevkb3pezkw/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/pdf-export-can-than-voi-nhung-input-co-the-truyen-vao-naqzryyqkvx/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/pentest-android-cai-dat-android-emulator-sao-cho-ngau-ymnkmjkaz7p/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/phan-5-html-injection-3p0lp4pglox/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/phan-9-sql-injection-ljy5vynmlra/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/ssh-tunneling-local-port-forwarding-va-remote-port-forwarding-07lkxj3plv4/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/su-dung-burp-intruder-sao-cho-hieu-qua-phan-2-gam5ygbvzdb/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/su-dung-burp-suite-intruder-sao-cho-hieu-qua-phan-1-1vgzvgg2law/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/su-dung-php-query-string-parser-de-qua-mat-ids-ips-va-waf-3p0lp9yo5ox/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/tan-cong-csrf-va-cac-van-de-xung-quanh-djez1pgjkwz/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/tao-vo-van-lenh-shell-chiem-quyen-truy-cap-bang-cong-cu-shellpop-tren-linux-4dbznqjlkym/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/tim-kiem-cac-loi-idor-chua-bao-gio-lai-de-den-the-voi-extension-autorize-gdvk2z02klj/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/tong-hop-cac-cau-hoi-phong-van-pentest-kien-thuc-chung-p1-3p0lp4rblox/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/tong-hop-cac-cau-hoi-phong-van-pentest-kien-thuc-chung-p2-awj53n08l6m/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/vulnhub-ctf-dc-2-cuop-5-flags-va-cai-ket-4p856dbbzy3/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/vulnhub-ctf-dc-3-walkthrough-cuoc-phieu-luu-ky-thu-gam5yxeeldb/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/vulnhub-ctf-raven-2-walkthrough-van-la-chiem-quyen-root-lan-nay-la-mysql-ggj59z2rkx2/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/vulnhub-ctf-silky-ctf-0x02-loi-buffer-overflow-xl6lanad5ek/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/vulnhub-ctf-symfonos-1-van-la-mot-vai-plugin-cua-wordpress-can-than-khi-su-dung-plugin-ben-wordpress-smtp-tu-lfi-cho-den-remote-code-excecution-byezkwxazq0/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/win-kex-keo-windows-va-kali-hoa-lam-mot-07lkxbb4lv4/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/wireguard-mot-tac-pham-nghe-thuat-3q75w1oezwb/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/xu-ly-van-de-port-already-in-use-tren-linux-va-windows-qbq5qenz5d8/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/categories/</loc>
+  </url><url>
+    <loc>https://minhtuanact.ml/tags/</loc>
   </url>
 </urlset>
