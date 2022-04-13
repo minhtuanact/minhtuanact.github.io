@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cmd on minhtuanact|Blog</title>
+    <link>https://minhtuanact.ml/tags/cmd/</link>
+    <description>Recent content in cmd on minhtuanact|Blog</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 17 Nov 2019 20:41:33 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/cmd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gõ Terminal trên Windows 10. Tại sao không?</title>
+      <link>https://minhtuanact.ml/posts/go-terminal-tren-windows-10-tai-sao-khong-do754g24lm6/</link>
+      <pubDate>Sun, 17 Nov 2019 20:41:33 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/go-terminal-tren-windows-10-tai-sao-khong-do754g24lm6/</guid>
+      <description>Bạn đã quen gõ Terminal trên Ubuntu hay các bản phân phối khác của Linux. Bạn chê Windows không có cơ chế dòng lệnh &amp;ldquo;xịn xò&amp;rdquo; như Linux. Hay bạn chỉ là những người &amp;ldquo;đam mê&amp;rdquo; những dòng lệnh trên Linux thôi nhưng bạn đang thất vọng vì Windows không có. Nhưng bạn hãy thử xem video này xem Windows đã và đang làm được những gì nhé. {@youtube: https://www.youtube.com/watch?v=8gw0rXPMMPE} Đẹp đúng không ạ, bạn có thể mở Windows 10 lên và nhấp vào link store Windows Terminal để tải về và dùng thử.</description>
+    </item>
+    
+  </channel>
+</rss>

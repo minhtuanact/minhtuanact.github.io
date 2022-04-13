@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>KhaiButDauXuan on minhtuanact|Blog</title>
+    <link>https://minhtuanact.ml/tags/khaibutdauxuan/</link>
+    <description>Recent content in KhaiButDauXuan on minhtuanact|Blog</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 11 Feb 2022 19:20:29 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/khaibutdauxuan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phân tích CVE-2021-22941, RCE Citrix Sharefile &lt; 5.11.20</title>
+      <link>https://minhtuanact.ml/posts/phan-tich-cve-2021-22941-rce-citrix-sharefile-51120-ew65gb0aldo/</link>
+      <pubDate>Fri, 11 Feb 2022 19:20:29 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/phan-tich-cve-2021-22941-rce-citrix-sharefile-51120-ew65gb0aldo/</guid>
+      <description>Cái bài này mình định lên từ năm ngoái rồi, mà phân tích xong lại để đấy, thật ra là lười viết lại nên tồn đọng đến bây giờ chưa viết bài phân tích lên blog 🥲. Thôi thì ngồi viết lại vừa để có chỗ lưu lại, vừa để nhớ xem mình đã phân tích những cái gì, biết đâu sau này lại sử dụng lại thì sao :D</description>
+    </item>
+    
+  </channel>
+</rss>

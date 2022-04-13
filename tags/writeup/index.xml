@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WriteUp on minhtuanact|Blog</title>
+    <link>https://minhtuanact.ml/tags/writeup/</link>
+    <description>Recent content in WriteUp on minhtuanact|Blog</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Jul 2020 10:16:19 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/writeup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Hackthebox - Writeup] Cascade</title>
+      <link>https://minhtuanact.ml/posts/hackthebox-writeup-cascade-magk7jox5j2/</link>
+      <pubDate>Mon, 27 Jul 2020 10:16:19 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/hackthebox-writeup-cascade-magk7jox5j2/</guid>
+      <description>Cascade là bài thứ mấy mình chơi với machine Windows trên hackthebox cũng không nhớ nữa, chỉ nhớ là bài này mình làm vào đúng tối sinh nhật năm nay của mình. Là một bài khá hay với LDAP, mình đã học hỏi được rất nhiều thứ từ bài này. Nhìn lượt vote cũng thấy được bài này chủ yếu sử dụng kỹ thuật Enumeration. Hi vọng writeup này giúp ích gì được cho các bạn đọc bài này :P.</description>
+    </item>
+    
+    <item>
+      <title>[Hackthebox- Writeup] Book</title>
+      <link>https://minhtuanact.ml/posts/hackthebox-writeup-book-4dbznjgqzym/</link>
+      <pubDate>Sun, 12 Jul 2020 07:30:42 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/hackthebox-writeup-book-4dbznjgqzym/</guid>
+      <description>Mở đầu Trở lại với series Writeup Hackthebox, ngày hôm qua Hackthebox đã cho retired bài Book này, được đánh giá là Medium. Bài này được mình làm từ 24/03 nhưng đến giờ mới được public. Hãy cùng mình tìm hiểu xem bài này chơi thế nào nha.
+Get User Quét nmap thấy server này có trang web tại cổng 80. Thực hiện đăng ký thì vào ổn k có vấn đề gì, thực hiện đăng ký theo mail admin@book.</description>
+    </item>
+    
+  </channel>
+</rss>

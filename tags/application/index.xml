@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>application on minhtuanact|Blog</title>
+    <link>https://minhtuanact.ml/tags/application/</link>
+    <description>Recent content in application on minhtuanact|Blog</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 22 Oct 2021 14:22:04 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/application/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proxifier - Hỗ trợ kết nối proxy cho các ứng dụng không hỗ trợ proxy</title>
+      <link>https://minhtuanact.ml/posts/proxifier-ho-tro-ket-noi-proxy-cho-cac-ung-dung-khong-ho-tro-proxy-ew65gb3rldo/</link>
+      <pubDate>Fri, 22 Oct 2021 14:22:04 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/proxifier-ho-tro-ket-noi-proxy-cho-cac-ung-dung-khong-ho-tro-proxy-ew65gb3rldo/</guid>
+      <description>Root case Dạo gần đây mình có dính 1 case liên quan đến application trên Windows, việc check connect network rất quan trọng trong pentest, nó sẽ giúp các bạn có thể biết được application đó đang gửi những gì, kết nối tới đâu trên internet. Tuy nhiên dở một cái là application này KHÔNG HỖ TRỢ KẾT NỐI PROXY để capture request qua BurpSuite. Vậy ở đây chúng ta sẽ có nhiều cách để pentest case này:</description>
+    </item>
+    
+  </channel>
+</rss>

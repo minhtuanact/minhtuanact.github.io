@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>nginx on minhtuanact|Blog</title>
+    <link>https://minhtuanact.ml/tags/nginx/</link>
+    <description>Recent content in nginx on minhtuanact|Blog</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 04 Jan 2021 10:44:52 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/nginx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Các cấu hình sai Nginx phổ biến khiến web server của bạn gặp nguy hiểm (Part 1)</title>
+      <link>https://minhtuanact.ml/posts/cac-cau-hinh-sai-nginx-pho-bien-khien-web-server-cua-ban-gap-nguy-hiem-part-1-6j3zgnxlkmb/</link>
+      <pubDate>Mon, 04 Jan 2021 10:44:52 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/cac-cau-hinh-sai-nginx-pho-bien-khien-web-server-cua-ban-gap-nguy-hiem-part-1-6j3zgnxlkmb/</guid>
+      <description>Intro Nginx được sử dụng làm web server, reverse proxy mạnh mẽ, nginx được cài đặt cho khoảng 1/3 số web site trên thế giới này. Trong bài viết này sẽ là một số cấu hình sai Nginx phổ biến mà với các cấu hình như vậy, web server của bạn sẽ dễ dàng bị tấn công
+ Bài viết này được tham khảo blog của Detectify Crowdsource tại https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/</description>
+    </item>
+    
+  </channel>
+</rss>

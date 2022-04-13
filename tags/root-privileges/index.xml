@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>root privileges on minhtuanact|Blog</title>
+    <link>https://minhtuanact.ml/tags/root-privileges/</link>
+    <description>Recent content in root privileges on minhtuanact|Blog</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 Jul 2019 09:08:58 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/root-privileges/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux: broken permission and object lifetime handling for PTRACE_TRACEME - Chiếm quyền root hầu hết các máy chạy Linux</title>
+      <link>https://minhtuanact.ml/posts/linux-broken-permission-and-object-lifetime-handling-for-ptrace-traceme-chiem-quyen-root-hau-het-cac-may-chay-linux-4p8564m3zy3/</link>
+      <pubDate>Fri, 26 Jul 2019 09:08:58 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/linux-broken-permission-and-object-lifetime-handling-for-ptrace-traceme-chiem-quyen-root-hau-het-cac-may-chay-linux-4p8564m3zy3/</guid>
+      <description>Mở đầu  Ngày hôm qua, 1 thành viên trong đội của tôi đã gửi cho tôi 1 bài post trên facebook nói về con CVE-2019-13272 này. Sau một hồi tìm hiểu thì con CVE này cực kì nghiêm trọng. Nó có thể chiếm quyền root máy của bạn chỉ sau đúng một nốt nhạc. Bài viết này chỉ mang tính giới thiệu, bạn nào muốn tìm hiểu về cách thức hoạt động của con CVE-2019-13272 thì bạn có thể tìm hiểu trên mạng nhé ^^.</description>
+    </item>
+    
+  </channel>
+</rss>

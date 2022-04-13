@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>zip on minhtuanact|Blog</title>
+    <link>https://minhtuanact.ml/tags/zip/</link>
+    <description>Recent content in zip on minhtuanact|Blog</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 07 Dec 2019 16:35:41 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/zip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HA: Dhanush (ZIP Privilege Escalation), 1 bài labs thử nghiệm nâng cao đặc quyền khá hay của Hacking Articles</title>
+      <link>https://minhtuanact.ml/posts/ha-dhanush-zip-privilege-escalation-1-bai-labs-thu-nghiem-nang-cao-dac-quyen-kha-hay-cua-hacking-articles-4p856ovrky3/</link>
+      <pubDate>Sat, 07 Dec 2019 16:35:41 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/ha-dhanush-zip-privilege-escalation-1-bai-labs-thu-nghiem-nang-cao-dac-quyen-kha-hay-cua-hacking-articles-4p856ovrky3/</guid>
+      <description>Giới thiệu Hôm nay trời khá là lạnh, hình như là lạnh nhất từ lúc mùa đông ghé qua thủ đô Hà Nội. Sáng quấn chăn đến 7h sáng mới dậy. Dậy chơi vài tựa game 8-bit ngày xưa khá là kỷ niệm. Lâu rồi cũng không build bài lab nào lên làm thử. Thử tải 1 bài về chơi xem sao. Lần này vẫn là bài trên https://www.vulnhub.com/. Chọn ngẫu nhiên 1 bài thử xem trình độ mình đến đâu :joy::joy::joy:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docker on minhtuanact|Blog</title>
+    <link>https://minhtuanact.ml/tags/docker/</link>
+    <description>Recent content in Docker on minhtuanact|Blog</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 25 Mar 2022 16:45:17 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phải làm gì khi &#34;Ports are not available&#34; trên Docker/các service khác 🤧</title>
+      <link>https://minhtuanact.ml/posts/phai-lam-gi-khi-ports-are-not-available-tren-dockercac-service-khac-ljy5vrw95ra/</link>
+      <pubDate>Fri, 25 Mar 2022 16:45:17 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/phai-lam-gi-khi-ports-are-not-available-tren-dockercac-service-khac-ljy5vrw95ra/</guid>
+      <description>Mở đầu Chào các bạn, sau cái bài Xử lý vấn đề &amp;ldquo;Port Already in Use&amp;rdquo; trên Linux và Windows  thì mình lại gặp 1 trường hợp nữa, cái trường hợp này nó xảy ra quá lâu rồi và do mình lười fix nên nó vẫn còn đó, cách đây khoảng 10 ngày thì mình fix được rồi. Chính vì thế mình viết lên đây vừa là chia sẻ, vừa là note lại cho bản thân để sau này lỡ bị lại thì có lệnh xài luôn cho nhanh :joy:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IDOR on minhtuanact|Blog</title>
+    <link>https://minhtuanact.ml/tags/idor/</link>
+    <description>Recent content in IDOR on minhtuanact|Blog</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 16 Dec 2019 11:14:13 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/idor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tìm kiếm các lỗi IDOR, chưa bao giờ lại dễ đến thế với extension Autorize</title>
+      <link>https://minhtuanact.ml/posts/tim-kiem-cac-loi-idor-chua-bao-gio-lai-de-den-the-voi-extension-autorize-gdvk2z02klj/</link>
+      <pubDate>Mon, 16 Dec 2019 11:14:13 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/tim-kiem-cac-loi-idor-chua-bao-gio-lai-de-den-the-voi-extension-autorize-gdvk2z02klj/</guid>
+      <description>Chắc hẳn việc tìm lỗi IDOR luôn là công việc thường xuyên của những pentester hay các hunters. Nhưng mà lỗi IDOR ở đây là gì nhỉ :-?
+What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên thấy dữ liệu cá nhân của mình bị thay đổi. Bạn nghi ngờ quản trị viên nào đã chọc ngoáy vào dữ liệu cá nhân của mình. Hay là 1 hacker nào đấy đang thử chức năng =)).</description>
+    </item>
+    
+  </channel>
+</rss>

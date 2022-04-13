@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linux on minhtuanact|Blog</title>
+    <link>https://minhtuanact.ml/tags/linux/</link>
+    <description>Recent content in Linux on minhtuanact|Blog</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 14 Apr 2021 17:08:10 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Làm mới desktop linux của bạn với tasksel</title>
+      <link>https://minhtuanact.ml/posts/lam-moi-desktop-linux-cua-ban-voi-tasksel-4p856avlly3/</link>
+      <pubDate>Wed, 14 Apr 2021 17:08:10 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/lam-moi-desktop-linux-cua-ban-voi-tasksel-4p856avlly3/</guid>
+      <description>Giới thiệu Lý do bài này ra đời cũng chỉ vì 1 người bạn của mình kêu bị lỗi mất desktop, chỉ còn gõ được mỗi terminal :(. Thôi thì âu cũng là cái số, anh em nhảy vào cứu nét thôi =))
+Tasksel Cài đặt Trước hết, đối mặt với cái màn hình Ubuntu mà có mỗi terminal mà không có giao diện, các bạn đừng hoảng mà gõ theo những command sau</description>
+    </item>
+    
+    <item>
+      <title>Làm thế nào để RCE trên Windows từ Linux?</title>
+      <link>https://minhtuanact.ml/posts/lam-the-nao-de-rce-tren-windows-tu-linux-3p0lpqym5ox/</link>
+      <pubDate>Sun, 17 May 2020 19:06:28 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/lam-the-nao-de-rce-tren-windows-tu-linux-3p0lpqym5ox/</guid>
+      <description>Các Pentester có thể họ rất quen thuộc với hệ điều hành Linux với những command line trên terminal, tuy nhiên nếu gặp phải server chạy Windows thì họ lại khá lúng túng trong việc RCE. Bài viết này mình sẽ chỉ ra vài cách có thể RCE trên Windows từ Linux.
+Sử dụng Impacket Impacket là gì?
+ Impacket is a collection of Python classes for working with network protocols.</description>
+    </item>
+    
+    <item>
+      <title>Bạn thích dùng Windows nhưng lại muốn có cảm giác gõ code trên Linux</title>
+      <link>https://minhtuanact.ml/posts/ban-thich-dung-windows-nhung-lai-muon-co-cam-giac-go-code-tren-linux-naqzr4xq5vx/</link>
+      <pubDate>Tue, 31 Mar 2020 09:04:55 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/ban-thich-dung-windows-nhung-lai-muon-co-cam-giac-go-code-tren-linux-naqzr4xq5vx/</guid>
+      <description>Lưu ý: Bài viết có đưa ra nhiều ý kiến cá nhân, mọi người cùng đọc và tham khảo.
+ Hiện nay, việc sử dụng Window và Linux (ở đây mình không nói đến macOS) là khá phổ biến đối với các lập trình viên. Và có rất nhiều lập trình viên đam mê khá nhiều game. Như ở công ty mình thì dùng ubuntu (do công ty tiết kiệm vì mua Windows bản quyền khá tốn kém), việc dùng Linux cũng có rất nhiều cái hay, nhưng vấn đề Linux vẫn chưa xử lý tốt đó là chơi game, việc chơi game thì Windows nói số 2 không ai dám đứng nhất từ trước đến nay.</description>
+    </item>
+    
+    <item>
+      <title>Gõ Terminal trên Windows 10. Tại sao không?</title>
+      <link>https://minhtuanact.ml/posts/go-terminal-tren-windows-10-tai-sao-khong-do754g24lm6/</link>
+      <pubDate>Sun, 17 Nov 2019 20:41:33 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/go-terminal-tren-windows-10-tai-sao-khong-do754g24lm6/</guid>
+      <description>Bạn đã quen gõ Terminal trên Ubuntu hay các bản phân phối khác của Linux. Bạn chê Windows không có cơ chế dòng lệnh &amp;ldquo;xịn xò&amp;rdquo; như Linux. Hay bạn chỉ là những người &amp;ldquo;đam mê&amp;rdquo; những dòng lệnh trên Linux thôi nhưng bạn đang thất vọng vì Windows không có. Nhưng bạn hãy thử xem video này xem Windows đã và đang làm được những gì nhé. {@youtube: https://www.youtube.com/watch?v=8gw0rXPMMPE} Đẹp đúng không ạ, bạn có thể mở Windows 10 lên và nhấp vào link store Windows Terminal để tải về và dùng thử.</description>
+    </item>
+    
+    <item>
+      <title>Tạo vô vàn lệnh shell chiếm quyền truy cập bằng công cụ Shellpop trên Linux</title>
+      <link>https://minhtuanact.ml/posts/tao-vo-van-lenh-shell-chiem-quyen-truy-cap-bang-cong-cu-shellpop-tren-linux-4dbznqjlkym/</link>
+      <pubDate>Mon, 05 Aug 2019 10:06:41 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/tao-vo-van-lenh-shell-chiem-quyen-truy-cap-bang-cong-cu-shellpop-tren-linux-4dbznqjlkym/</guid>
+      <description>Bạn đã chán cảnh lưu lại các lệnh shell trên máy tính của mình, và bạn đã mệt mỏi khi đi tìm chúng ở đâu mỗi khi mình cần. Để giải quyết việc này, Shellpop được sinh ra với vô vàn các tiện ích mà nó đem lại, giờ đây bạn sẽ không cần phải lưu lại và đi tìm các lệnh shell mỗi khi cần nữa.
+About Công cụ này được phát triển bởi Andre Marques và đây là một mã nguồn mở nên ai có bất kỳ ý tưởng nào hay ho thì tham gia vào cùng phát triển nhé</description>
+    </item>
+    
+    <item>
+      <title>Linux: broken permission and object lifetime handling for PTRACE_TRACEME - Chiếm quyền root hầu hết các máy chạy Linux</title>
+      <link>https://minhtuanact.ml/posts/linux-broken-permission-and-object-lifetime-handling-for-ptrace-traceme-chiem-quyen-root-hau-het-cac-may-chay-linux-4p8564m3zy3/</link>
+      <pubDate>Fri, 26 Jul 2019 09:08:58 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/linux-broken-permission-and-object-lifetime-handling-for-ptrace-traceme-chiem-quyen-root-hau-het-cac-may-chay-linux-4p8564m3zy3/</guid>
+      <description>Mở đầu  Ngày hôm qua, 1 thành viên trong đội của tôi đã gửi cho tôi 1 bài post trên facebook nói về con CVE-2019-13272 này. Sau một hồi tìm hiểu thì con CVE này cực kì nghiêm trọng. Nó có thể chiếm quyền root máy của bạn chỉ sau đúng một nốt nhạc. Bài viết này chỉ mang tính giới thiệu, bạn nào muốn tìm hiểu về cách thức hoạt động của con CVE-2019-13272 thì bạn có thể tìm hiểu trên mạng nhé ^^.</description>
+    </item>
+    
+    <item>
+      <title>VulnHub CTF - Raven 2 Walkthrough - Vẫn là chiếm quyền root, lần này là Mysql</title>
+      <link>https://minhtuanact.ml/posts/vulnhub-ctf-raven-2-walkthrough-van-la-chiem-quyen-root-lan-nay-la-mysql-ggj59z2rkx2/</link>
+      <pubDate>Thu, 20 Jun 2019 15:51:23 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/vulnhub-ctf-raven-2-walkthrough-van-la-chiem-quyen-root-lan-nay-la-mysql-ggj59z2rkx2/</guid>
+      <description>Mở đầu  Dạo này mình rất có hứng thú với mấy bài lab trên VulnHub.com. Lần này lại là một bài nữa, có thể chọc ngoáy khá nhiều vấn đề ở bài này. Bạn nào muốn build lên làm thử thì qua link này Raven: 2 Thôi thì bắt đầu vào chiến thôi. Bài này có tất cả là 4 cờ. Mình đi theo hướng tìm lần lượt 4 cờ luôn nhé.</description>
+    </item>
+    
+    <item>
+      <title>VulnHub CTF - DC-2 - Cướp 5 flags và cái kết</title>
+      <link>https://minhtuanact.ml/posts/vulnhub-ctf-dc-2-cuop-5-flags-va-cai-ket-4p856dbbzy3/</link>
+      <pubDate>Mon, 17 Jun 2019 08:02:36 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/vulnhub-ctf-dc-2-cuop-5-flags-va-cai-ket-4p856dbbzy3/</guid>
+      <description>Mở đầu  Tiếp tục là mình đây, sau khi viết xong bài DC-3 Walkthrough - Cuộc phiêu lưu kỳ thú thì mình lại build lên lab nữa cho nhóm thử sức xem sao. Cụ thể là lab DC-2. Bài này có tất cả là 5 cờ, tính cả cờ cuối. Chúng ta phải tìm đủ 5 cờ đó mới hoàn thành bài lab này. Mọi người theo mình nhé.  Tấn công   Vẫn như các bài khác, đầu tiên mình phải dùng nmap quét tất cả các IP trong dải mạng của mình để tìm ra IP của lab.</description>
+    </item>
+    
+  </channel>
+</rss>

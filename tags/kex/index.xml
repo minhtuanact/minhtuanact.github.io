@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>kex on minhtuanact|Blog</title>
+    <link>https://minhtuanact.ml/tags/kex/</link>
+    <description>Recent content in kex on minhtuanact|Blog</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 24 Sep 2020 15:00:28 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/kex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Win-KeX - kéo Windows và Kali hoà làm một</title>
+      <link>https://minhtuanact.ml/posts/win-kex-keo-windows-va-kali-hoa-lam-mot-07lkxbb4lv4/</link>
+      <pubDate>Thu, 24 Sep 2020 15:00:28 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/win-kex-keo-windows-va-kali-hoa-lam-mot-07lkxbb4lv4/</guid>
+      <description>Overview Vào ngày 18-08-2020, Kali Linux release phiên bản 2020.3 với nhiều cải tiến như thay thế Bash truyền thống sang ZSH,&amp;hellip; nhưng đối với mình, ấn tượng hơn cả là Win-KeX (Windows + Kali Desktop EXperience) được Kali hỗ trợ để sử dụng giao diện đồ hoạ với WSL2 trên Windows.
+Có thể thấy rằng việc bạn sử dụng Windows nhưng vẫn muốn hacking trên Kali Linux mà không muốn bật VMWare lên hay Dual-boot thì đây chính là giải pháp cho bạn, quá trình khởi động cũng rất nhanh nữa :D.</description>
+    </item>
+    
+  </channel>
+</rss>

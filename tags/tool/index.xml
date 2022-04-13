@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tool on minhtuanact|Blog</title>
+    <link>https://minhtuanact.ml/tags/tool/</link>
+    <description>Recent content in Tool on minhtuanact|Blog</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 04 Dec 2020 08:08:43 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/tool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hãy để việc fuzzing đơn giản hơn với Nuclei</title>
+      <link>https://minhtuanact.ml/posts/hay-de-viec-fuzzing-don-gian-hon-voi-nuclei-awj53bpol6m/</link>
+      <pubDate>Fri, 04 Dec 2020 08:08:43 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/hay-de-viec-fuzzing-don-gian-hon-voi-nuclei-awj53bpol6m/</guid>
+      <description>Intro Dạo gần đây mình hay sử dụng các tool tự động recon khai thác các lỗi, phần vì để đơn giản hoá, phần vì mình đỡ bỏ qua các lỗi cơ bản không đáng có, nhất là với lượng sub-domain khá lớn, hay scope rộng của các program.
+Trong khoảng thời gian tìm kiếm tools tự động có thể đơn giản hoá việc recon website thì người anh ngồi cạnh mình suggest cho mình một tool khá hay.</description>
+    </item>
+    
+  </channel>
+</rss>

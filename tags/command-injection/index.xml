@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>command injection on minhtuanact|Blog</title>
+    <link>https://minhtuanact.ml/tags/command-injection/</link>
+    <description>Recent content in command injection on minhtuanact|Blog</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Aug 2019 10:52:12 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/command-injection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OS Command Injection là gì, Command Injection có nguy hiểm không?, cần cực kỳ thận trọng đối với các lệnh OS gọi từ Website của bạn</title>
+      <link>https://minhtuanact.ml/posts/os-command-injection-la-gi-command-injection-co-nguy-hiem-khong-can-cuc-ky-than-trong-doi-voi-cac-lenh-os-goi-tu-website-cua-ban-oevkb3pezkw/</link>
+      <pubDate>Tue, 06 Aug 2019 10:52:12 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/os-command-injection-la-gi-command-injection-co-nguy-hiem-khong-can-cuc-ky-than-trong-doi-voi-cac-lenh-os-goi-tu-website-cua-ban-oevkb3pezkw/</guid>
+      <description>OS Command Injection là gì? OS Command Injection (hay còn được gọi là shell injection) là một lỗ hổng bảo mật web cho phép kẻ tấn công thực thi các lệnh hệ điều hành (OS) tùy ý trên máy chủ đang chạy service nào đó. Kẻ tấn công có thể tận dụng lỗ hổng này để khai thác, lấy thông tin, chuyển cuộc tấn công sang hệ thống khác bên trong tổ chức Thực hiện các lệnh tùy ý Ví dụ: https://insecure-website.</description>
+    </item>
+    
+  </channel>
+</rss>

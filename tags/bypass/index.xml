@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>bypass on minhtuanact|Blog</title>
+    <link>https://minhtuanact.ml/tags/bypass/</link>
+    <description>Recent content in bypass on minhtuanact|Blog</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 09 Jul 2019 14:46:26 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/bypass/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sử dụng PHP query string parser để qua mặt IDS, IPS và WAF</title>
+      <link>https://minhtuanact.ml/posts/su-dung-php-query-string-parser-de-qua-mat-ids-ips-va-waf-3p0lp9yo5ox/</link>
+      <pubDate>Tue, 09 Jul 2019 14:46:26 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/su-dung-php-query-string-parser-de-qua-mat-ids-ips-va-waf-3p0lp9yo5ox/</guid>
+      <description>Mở đầu  Như bạn đã biết, PHP converts query string (trong URL hoặc body) thành một mảng bên trong $_GET hoặc $_POST. Ví dụ: /?foo=bar sẽ trở thành Array([foo] =&amp;gt; &amp;quot;bar&amp;quot;). Query string parsing sẽ loại bỏ hoặc thay thế một số ký tự trong tên đối số bằng dấu gạch dưới. Ví dụ: /?%20news[id%00=42 sẽ được chuyển thành Array([news_id] =&amp;gt; 42). Nếu IDS/IPS hoặc WAF có rules chặn hoặc ghi nhật ký các giá trị không phải là số trong tham số news_id thì có thể bỏ qua bằng cách sử dụng parsing process với nội dung như sau: 1  /news.</description>
+    </item>
+    
+  </channel>
+</rss>

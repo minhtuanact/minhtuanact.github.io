@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PowerToys on minhtuanact|Blog</title>
+    <link>https://minhtuanact.ml/tags/powertoys/</link>
+    <description>Recent content in PowerToys on minhtuanact|Blog</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 19 Oct 2021 16:28:46 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/powertoys/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chia màn hình Workspace và đủ trò khác với PowerToys</title>
+      <link>https://minhtuanact.ml/posts/chia-man-hinh-workspace-va-du-tro-khac-voi-powertoys-oovlyvqo58w/</link>
+      <pubDate>Tue, 19 Oct 2021 16:28:46 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/chia-man-hinh-workspace-va-du-tro-khac-voi-powertoys-oovlyvqo58w/</guid>
+      <description>Root case Hi, dạo gần đây chắc hẳn các bạn, anh em đang làm việc tại nhà do dịch (chắc cũng có các bạn đã làm offline rồi). Mình thì cũng vẫn đang làm việc tại nhà, cũng dành 1 ít để upgrade cái workspace của mình lên một tý. Mình thấy có 1 vấn đề là khi mình nâng cấp sử dụng màn hình FHD lên màn hình QHD (2K), do cái màn 2K nó to hơn, và nhiều không gian hiển thị hơn nên mình không thể nhìn thấy hết toàn bộ nội dung hiển thị trên màn hình được (mở trình duyệt full màn hình là không thể nhìn hết hoặc có những phần bị thừa, rất phí)</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>desktop on minhtuanact|Blog</title>
+    <link>https://minhtuanact.ml/tags/desktop/</link>
+    <description>Recent content in desktop on minhtuanact|Blog</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 14 Apr 2021 17:08:10 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/desktop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Làm mới desktop linux của bạn với tasksel</title>
+      <link>https://minhtuanact.ml/posts/lam-moi-desktop-linux-cua-ban-voi-tasksel-4p856avlly3/</link>
+      <pubDate>Wed, 14 Apr 2021 17:08:10 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/lam-moi-desktop-linux-cua-ban-voi-tasksel-4p856avlly3/</guid>
+      <description>Giới thiệu Lý do bài này ra đời cũng chỉ vì 1 người bạn của mình kêu bị lỗi mất desktop, chỉ còn gõ được mỗi terminal :(. Thôi thì âu cũng là cái số, anh em nhảy vào cứu nét thôi =))
+Tasksel Cài đặt Trước hết, đối mặt với cái màn hình Ubuntu mà có mỗi terminal mà không có giao diện, các bạn đừng hoảng mà gõ theo những command sau</description>
+    </item>
+    
+  </channel>
+</rss>

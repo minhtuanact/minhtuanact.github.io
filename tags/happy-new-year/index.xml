@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Happy New Year on minhtuanact|Blog</title>
+    <link>https://minhtuanact.ml/tags/happy-new-year/</link>
+    <description>Recent content in Happy New Year on minhtuanact|Blog</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 15 Mar 2021 10:45:23 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/happy-new-year/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Đọc Medium khi bị nhà mạng chặn</title>
+      <link>https://minhtuanact.ml/posts/doc-medium-khi-bi-nha-mang-chan-bwrznwxylxw/</link>
+      <pubDate>Mon, 15 Mar 2021 10:45:23 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/doc-medium-khi-bi-nha-mang-chan-bwrznwxylxw/</guid>
+      <description>Intro Dạo gần đây nhà mạng VN cứ chặn medium làm mình không load được, làm mọi cách rồi nhưng mà vẫn không truy cập được medium ngoài bật VPN sang nước khác :sleepy:, tuy nhiên mình lại có con VPS bên Châu Âu nên thành ra chạy khá chậm. Ban đầu mình định config allow các IP của medium mới chạy qua VPN, tuy nhiên Medium lắm IP nên việc này khả thi nhưng mất thời gian =)).</description>
+    </item>
+    
+    <item>
+      <title>PDF Export, cẩn thận với những input có thể truyền vào</title>
+      <link>https://minhtuanact.ml/posts/pdf-export-can-than-voi-nhung-input-co-the-truyen-vao-naqzryyqkvx/</link>
+      <pubDate>Mon, 22 Feb 2021 10:02:43 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/pdf-export-can-than-voi-nhung-input-co-the-truyen-vao-naqzryyqkvx/</guid>
+      <description>Giới thiệu Dạo gần đây mình tình cờ gặp rất nhiều lỗi XSS, tuy nhiên trang đó lại có sử dụng dữ liệu người dùng input vào để export ra PDF. Vậy làm sao để có thể nâng impact lên mức cao hơn, mình cũng đã gặp nhiều case dễ dàng có, khó khăn cũng có, hi vọng bài biết này của mình sẽ giúp bạn đọc hiểu rõ vấn đề khi code hoặc pentest 1 tính năng export PDF.</description>
+    </item>
+    
+    <item>
+      <title>Laravel &lt;= v8.4.2 debug mode: Remote code execution - Chiếm quyền điều khiển máy thằng bạn đang code PHP</title>
+      <link>https://minhtuanact.ml/posts/laravel-v842-debug-mode-remote-code-execution-chiem-quyen-dieu-khien-may-thang-ban-dang-code-php-6j3zgn8pkmb/</link>
+      <pubDate>Thu, 14 Jan 2021 08:59:20 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/laravel-v842-debug-mode-remote-code-execution-chiem-quyen-dieu-khien-may-thang-ban-dang-code-php-6j3zgn8pkmb/</guid>
+      <description>Tản mạn &amp;ldquo;Hằng năm cứ vào cuối đông, lá ngoài đường rụng nhiều và trên không có những đám mây bàng bạc, lòng tôi lại nao nức những kỷ niệm hoang mang.
+Tôi không thể nào quên được những cảm giác trong sáng ấy nảy nở trong lòng tôi như mấy cành hoa tươi mỉm cười giữa bầu trời quang đãng.
+Những ý tưởng ấy tôi chưa lần nào ghi lên giấy, vì hồi ấy tôi không biết ghi và ngày nay tôi không nhớ hết.</description>
+    </item>
+    
+    <item>
+      <title>Các cấu hình sai Nginx phổ biến khiến web server của bạn gặp nguy hiểm (Part 1)</title>
+      <link>https://minhtuanact.ml/posts/cac-cau-hinh-sai-nginx-pho-bien-khien-web-server-cua-ban-gap-nguy-hiem-part-1-6j3zgnxlkmb/</link>
+      <pubDate>Mon, 04 Jan 2021 10:44:52 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/cac-cau-hinh-sai-nginx-pho-bien-khien-web-server-cua-ban-gap-nguy-hiem-part-1-6j3zgnxlkmb/</guid>
+      <description>Intro Nginx được sử dụng làm web server, reverse proxy mạnh mẽ, nginx được cài đặt cho khoảng 1/3 số web site trên thế giới này. Trong bài viết này sẽ là một số cấu hình sai Nginx phổ biến mà với các cấu hình như vậy, web server của bạn sẽ dễ dàng bị tấn công
+ Bài viết này được tham khảo blog của Detectify Crowdsource tại https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/</description>
+    </item>
+    
+  </channel>
+</rss>

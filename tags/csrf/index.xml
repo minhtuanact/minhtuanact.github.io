@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CSRF on minhtuanact|Blog</title>
+    <link>https://minhtuanact.ml/tags/csrf/</link>
+    <description>Recent content in CSRF on minhtuanact|Blog</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Jan 2020 09:16:32 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/csrf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tấn công CSRF và các vấn đề xung quanh</title>
+      <link>https://minhtuanact.ml/posts/tan-cong-csrf-va-cac-van-de-xung-quanh-djez1pgjkwz/</link>
+      <pubDate>Thu, 09 Jan 2020 09:16:32 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/tan-cong-csrf-va-cac-van-de-xung-quanh-djez1pgjkwz/</guid>
+      <description>Giới thiệu một chút về Web Cookies Do HTTP là giao thức không trạng thái, các request trước và sau không hề liên quan đến nhau. HTTP không thể phân biệt người dùng này với người dùng khác được. Để giải quyết vấn đề này, cookie được ra đời để phân biệt các người dùng với nhau. Các server sẽ set-cookie cho trình duyệt lưu lại, sau đó mỗi khi gửi request thì trình duyệt sẽ thêm mã cookie này rồi gửi đến server.</description>
+    </item>
+    
+  </channel>
+</rss>

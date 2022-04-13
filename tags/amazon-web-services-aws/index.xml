@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Amazon Web Services (AWS) on minhtuanact|Blog</title>
+    <link>https://minhtuanact.ml/tags/amazon-web-services-aws/</link>
+    <description>Recent content in Amazon Web Services (AWS) on minhtuanact|Blog</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 22 Feb 2021 10:02:43 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/amazon-web-services-aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PDF Export, cẩn thận với những input có thể truyền vào</title>
+      <link>https://minhtuanact.ml/posts/pdf-export-can-than-voi-nhung-input-co-the-truyen-vao-naqzryyqkvx/</link>
+      <pubDate>Mon, 22 Feb 2021 10:02:43 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/pdf-export-can-than-voi-nhung-input-co-the-truyen-vao-naqzryyqkvx/</guid>
+      <description>Giới thiệu Dạo gần đây mình tình cờ gặp rất nhiều lỗi XSS, tuy nhiên trang đó lại có sử dụng dữ liệu người dùng input vào để export ra PDF. Vậy làm sao để có thể nâng impact lên mức cao hơn, mình cũng đã gặp nhiều case dễ dàng có, khó khăn cũng có, hi vọng bài biết này của mình sẽ giúp bạn đọc hiểu rõ vấn đề khi code hoặc pentest 1 tính năng export PDF.</description>
+    </item>
+    
+  </channel>
+</rss>
