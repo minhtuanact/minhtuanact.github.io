@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>portswigger on minhtuanact|Blog - Keep a flame in the rain!</title>
+    <link>https://minhtuanact.ml/tags/portswigger/</link>
+    <description>Recent content in portswigger on minhtuanact|Blog - Keep a flame in the rain!</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 10 May 2022 11:00:29 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/portswigger/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code Exploit Server như Portswigger để khai thác web</title>
+      <link>https://minhtuanact.ml/posts/code-exploit-server-nhu-portswigger-de-khai-thac-web-do754ro3zm6/</link>
+      <pubDate>Tue, 10 May 2022 11:00:29 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/code-exploit-server-nhu-portswigger-de-khai-thac-web-do754ro3zm6/</guid>
+      <description>Nếu có bạn nào đã từng làm lab với Portswigger thì chắc hẳn cũng biết Exploit Server của Portswigger hoạt động như nào.
+Nếu bạn nào chưa biết về Exploit Server này thì mình có thể mô tả nó 1 chút, cũng khá đơn giản thôi :D.
+Đầu tiên Exploit Server có 4 phần
+ HTTPS: Sử dụng HTTPS hay không File: nó chính là URI đó Head: Phần đầu của response mà bạn muốn server trả về Body: Phần thân của response mà bạn muốn server trả về  Ví dụ với setting như hình trên, khi truy cập vào URL ta sẽ được response như sau</description>
+    </item>
+    
+  </channel>
+</rss>
