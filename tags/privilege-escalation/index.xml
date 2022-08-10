@@ -9,23 +9,23 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 03 Aug 2020 09:01:12 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/privilege-escalation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Aug 2020 09:01:12 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/privilege-escalation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leo thang đặc quyền trong Windows - Windows Privilege Escalation #2: Stored Credentials, Kernel Exploits, Scheduled Tasks, ...</title>
-      <link>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-2-stored-credentials-kernel-exploits-scheduled-tasks-lzd5dvvwzjy/</link>
-      <pubDate>Mon, 03 Aug 2020 09:01:12 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-2-stored-credentials-kernel-exploits-scheduled-tasks/</link>
+      <pubDate>Mon, 03 Aug 2020 09:01:12 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-2-stored-credentials-kernel-exploits-scheduled-tasks-lzd5dvvwzjy/</guid>
+      <guid>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-2-stored-credentials-kernel-exploits-scheduled-tasks/</guid>
       <description>Giới thiệu Gần một tháng trước mình có public 1 bài Leo thang đặc quyền trong Windows - Windows Privilege Escalation #1: Service Exploits . Để tiếp tục series này, nay mình viết tiếp các cách khai thác đặc quyền trên Windows.
  Bài viết hướng đến cho mọi người cách nhìn tổng quan về leo quyền trên Windows, các bạn có thể gặp nó trong các cuộc thi như OSCP, OSWE, các labs trên hackthebox.</description>
     </item>
     
     <item>
       <title>Leo thang đặc quyền trong Windows - Windows Privilege Escalation #1: Service Exploits</title>
-      <link>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-1-service-exploits-vydzo7qozwj/</link>
-      <pubDate>Thu, 09 Jul 2020 08:10:29 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-1-service-exploits/</link>
+      <pubDate>Thu, 09 Jul 2020 08:10:29 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-1-service-exploits-vydzo7qozwj/</guid>
+      <guid>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-1-service-exploits/</guid>
       <description>Giới thiệu Ngày trước trong team mình cũng đã có @kongaconggo103 viết series leo thang đặc quyền trong Linux, các bạn có thể đọc tại
 Leo thang đặc quyền trong Linux - Linux Privilege Escalation #0: Using Sudo Rights 
 Leo thang đặc quyền trong Linux - Linux Privilege Escalation #1: Using SUID bit 
@@ -34,10 +34,10 @@ Leo thang đặc quyền trong Linux - Linux Privilege Escalation #2: Using PATH
     
     <item>
       <title>HA: Dhanush (ZIP Privilege Escalation), 1 bài labs thử nghiệm nâng cao đặc quyền khá hay của Hacking Articles</title>
-      <link>https://minhtuanact.ml/posts/ha-dhanush-zip-privilege-escalation-1-bai-labs-thu-nghiem-nang-cao-dac-quyen-kha-hay-cua-hacking-articles-4p856ovrky3/</link>
-      <pubDate>Sat, 07 Dec 2019 16:35:41 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/ha-dhanush-zip-privilege-escalation-1-bai-labs-thu-nghiem-nang-cao-dac-quyen-kha-hay-cua-hacking-articles/</link>
+      <pubDate>Sat, 07 Dec 2019 16:35:41 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/ha-dhanush-zip-privilege-escalation-1-bai-labs-thu-nghiem-nang-cao-dac-quyen-kha-hay-cua-hacking-articles-4p856ovrky3/</guid>
+      <guid>https://minhtuanact.ml/posts/ha-dhanush-zip-privilege-escalation-1-bai-labs-thu-nghiem-nang-cao-dac-quyen-kha-hay-cua-hacking-articles/</guid>
       <description>Giới thiệu Hôm nay trời khá là lạnh, hình như là lạnh nhất từ lúc mùa đông ghé qua thủ đô Hà Nội. Sáng quấn chăn đến 7h sáng mới dậy. Dậy chơi vài tựa game 8-bit ngày xưa khá là kỷ niệm. Lâu rồi cũng không build bài lab nào lên làm thử. Thử tải 1 bài về chơi xem sao. Lần này vẫn là bài trên https://www.vulnhub.com/. Chọn ngẫu nhiên 1 bài thử xem trình độ mình đến đâu :joy::joy::joy:</description>
     </item>
     

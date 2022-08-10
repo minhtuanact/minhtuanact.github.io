@@ -9,23 +9,23 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 09 Oct 2020 16:32:00 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/kernel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Oct 2020 16:32:00 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/kernel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wireguard, một tác phẩm nghệ thuật</title>
-      <link>https://minhtuanact.ml/posts/wireguard-mot-tac-pham-nghe-thuat-3q75w1oezwb/</link>
-      <pubDate>Fri, 09 Oct 2020 16:32:00 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/wireguard-mot-tac-pham-nghe-thuat/</link>
+      <pubDate>Fri, 09 Oct 2020 16:32:00 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/wireguard-mot-tac-pham-nghe-thuat-3q75w1oezwb/</guid>
+      <guid>https://minhtuanact.ml/posts/wireguard-mot-tac-pham-nghe-thuat/</guid>
       <description>Giới thiệu Nếu bạn đã từng sử dụng Facebook vào những năm thứ 10 của thế kỷ 21, bạn đã trải qua khoảng thời gian khó khăn của những dân chơi Facebook hồi đó - sử dụng VPN, vì nhà mạng của Việt Nam chặn IP của Facebook. Vậy VPN là gì mà nó lại có thể bypass được rule của nhà mạng như vậy nhỉ :scream:
 VPN (Virtual Private Network - mạng riêng ảo) cho phép người dùng tạo một đường hầm (tunnel) để kết nối với một mạng khác trên Internet.</description>
     </item>
     
     <item>
       <title>Linux: broken permission and object lifetime handling for PTRACE_TRACEME - Chiếm quyền root hầu hết các máy chạy Linux</title>
-      <link>https://minhtuanact.ml/posts/linux-broken-permission-and-object-lifetime-handling-for-ptrace-traceme-chiem-quyen-root-hau-het-cac-may-chay-linux-4p8564m3zy3/</link>
-      <pubDate>Fri, 26 Jul 2019 09:08:58 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/linux-broken-permission-and-object-lifetime-handling-for-ptrace-traceme-chiem-quyen-root-hau-het-cac-may-chay-linux/</link>
+      <pubDate>Fri, 26 Jul 2019 09:08:58 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/linux-broken-permission-and-object-lifetime-handling-for-ptrace-traceme-chiem-quyen-root-hau-het-cac-may-chay-linux-4p8564m3zy3/</guid>
+      <guid>https://minhtuanact.ml/posts/linux-broken-permission-and-object-lifetime-handling-for-ptrace-traceme-chiem-quyen-root-hau-het-cac-may-chay-linux/</guid>
       <description>Mở đầu  Ngày hôm qua, 1 thành viên trong đội của tôi đã gửi cho tôi 1 bài post trên facebook nói về con CVE-2019-13272 này. Sau một hồi tìm hiểu thì con CVE này cực kì nghiêm trọng. Nó có thể chiếm quyền root máy của bạn chỉ sau đúng một nốt nhạc. Bài viết này chỉ mang tính giới thiệu, bạn nào muốn tìm hiểu về cách thức hoạt động của con CVE-2019-13272 thì bạn có thể tìm hiểu trên mạng nhé ^^.</description>
     </item>
     

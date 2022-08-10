@@ -9,23 +9,23 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 20 Jun 2021 22:04:09 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/burpsuite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jun 2021 22:04:09 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/burpsuite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Một vài mẹo mà mình sử dụng với Burp Suite (phần 2)</title>
-      <link>https://minhtuanact.ml/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite-phan-2-grlzd1a2lk0/</link>
-      <pubDate>Sun, 20 Jun 2021 22:04:09 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite-phan-2/</link>
+      <pubDate>Sun, 20 Jun 2021 22:04:09 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite-phan-2-grlzd1a2lk0/</guid>
+      <guid>https://minhtuanact.ml/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite-phan-2/</guid>
       <description>Bài này là bài nối tiếp về một bài mà mình đã viết tại Một vài mẹo mà mình sử dụng với Burp Suite. Bài đầu tiên mình đã viết về một vài tips và trick mình hay sử dụng với Burp Suite mặc định rồi, bài này mình sẽ viết về một vài extensions của Burp Suite mà mình hay dùng nhé ;)
 Burp Extensions Đây là một hình chụp nhanh các extension trong Burp Suite của mình, hiện tại thì vài cái thì hay dùng, vài cái thì xài rồi thôi không xài nữa, mình chỉ điểm qua những cái mà mình cảm thấy hay và mọi người có thể dùng nó nhé :D</description>
     </item>
     
     <item>
       <title>Một vài mẹo mà mình sử dụng với Burp Suite</title>
-      <link>https://minhtuanact.ml/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite-grlzdgowkk0/</link>
-      <pubDate>Fri, 21 May 2021 11:11:40 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite/</link>
+      <pubDate>Fri, 21 May 2021 11:11:40 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite-grlzdgowkk0/</guid>
+      <guid>https://minhtuanact.ml/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite/</guid>
       <description>Tự sự Chuyện là có mấy thằng em hỏi mình về cách sử dụng Burp Suite như thế nào, rồi có tips and tricks nào hay hay không cho chúng nó học, tiện đây mình cũng chia sẻ kinh nghiệm của một người sử dụng BurpSuite cũng được một khoảng thời gian rồi. Hi vọng những chia sẻ này sẽ giúp ích được cho bạn đọc :v:
 Burp Suite là gì?</description>
     </item>

@@ -9,13 +9,13 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 18 Jun 2019 11:21:04 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jun 2019 11:21:04 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>VulnHub CTF - Silky-CTF: 0x02 - Lỗi Buffer OverFlow</title>
-      <link>https://minhtuanact.ml/posts/vulnhub-ctf-silky-ctf-0x02-loi-buffer-overflow-xl6lanad5ek/</link>
-      <pubDate>Tue, 18 Jun 2019 11:21:04 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/vulnhub-ctf-silky-ctf-0x02-loi-buffer-overflow/</link>
+      <pubDate>Tue, 18 Jun 2019 11:21:04 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/vulnhub-ctf-silky-ctf-0x02-loi-buffer-overflow-xl6lanad5ek/</guid>
+      <guid>https://minhtuanact.ml/posts/vulnhub-ctf-silky-ctf-0x02-loi-buffer-overflow/</guid>
       <description>Mở đầu  Lại là mình đây, vẫn là cái serie vào /root để lấy cờ :joy_cat::joy_cat::joy_cat:. Vẫn là mấy bài lab trên VulnHub.com. Lần này sẽ là một bài khá đơn giản về lỗi Buffer OverFlow. Silky-CTF: 0x02, Link bài lab, các bạn có thể tải về và build nó lên rồi làm thử nhé. Nếu mà chưa làm được hay bí bách chỗ nào thì kéo xuống dưới nè.</description>
     </item>
     

@@ -9,13 +9,13 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 27 Jul 2020 10:16:19 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/cascade/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jul 2020 10:16:19 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/cascade/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Hackthebox - Writeup] Cascade</title>
-      <link>https://minhtuanact.ml/posts/hackthebox-writeup-cascade-magk7jox5j2/</link>
-      <pubDate>Mon, 27 Jul 2020 10:16:19 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/hackthebox-writeup-cascade/</link>
+      <pubDate>Mon, 27 Jul 2020 10:16:19 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/hackthebox-writeup-cascade-magk7jox5j2/</guid>
+      <guid>https://minhtuanact.ml/posts/hackthebox-writeup-cascade/</guid>
       <description>Cascade là bài thứ mấy mình chơi với machine Windows trên hackthebox cũng không nhớ nữa, chỉ nhớ là bài này mình làm vào đúng tối sinh nhật năm nay của mình. Là một bài khá hay với LDAP, mình đã học hỏi được rất nhiều thứ từ bài này. Nhìn lượt vote cũng thấy được bài này chủ yếu sử dụng kỹ thuật Enumeration. Hi vọng writeup này giúp ích gì được cho các bạn đọc bài này :P.</description>
     </item>
     

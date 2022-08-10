@@ -9,13 +9,13 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 01 May 2020 06:22:04 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/ssh-tunnel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 May 2020 06:22:04 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/ssh-tunnel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SSH Tunneling - Local Port Forwarding và Remote Port Forwarding</title>
-      <link>https://minhtuanact.ml/posts/ssh-tunneling-local-port-forwarding-va-remote-port-forwarding-07lkxj3plv4/</link>
-      <pubDate>Fri, 01 May 2020 06:22:04 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/ssh-tunneling-local-port-forwarding-va-remote-port-forwarding/</link>
+      <pubDate>Fri, 01 May 2020 06:22:04 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/ssh-tunneling-local-port-forwarding-va-remote-port-forwarding-07lkxj3plv4/</guid>
+      <guid>https://minhtuanact.ml/posts/ssh-tunneling-local-port-forwarding-va-remote-port-forwarding/</guid>
       <description>SSH Tunneling Giao thức SSH hiện nay là một trong những giao thức phổ biến nhất để tunneling và port forwarding. SSH Tunnel cho phép trao đổi dữ liệu thông qua một kênh mã hoá. Với việc thiết lập SSH Tunnel cực kỳ đơn giản và nhiều ứng dụng nên giao thức này ngày càng phổ biến. Ở bài viết này mình sẽ nói về một số ứng dụng của SSH Tunnel.</description>
     </item>
     

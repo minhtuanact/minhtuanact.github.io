@@ -9,13 +9,13 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 11 Jul 2019 10:25:07 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/local-file-inclusion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Jul 2019 10:25:07 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/local-file-inclusion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>VulnHub CTF - symfonos: 1 - Vẫn là một vài plugin của Wordpress, cẩn thận khi sử dụng plugin bên Wordpress - SMTP - Từ LFI cho đến Remote Code Excecution</title>
-      <link>https://minhtuanact.ml/posts/vulnhub-ctf-symfonos-1-van-la-mot-vai-plugin-cua-wordpress-can-than-khi-su-dung-plugin-ben-wordpress-smtp-tu-lfi-cho-den-remote-code-excecution-byezkwxazq0/</link>
-      <pubDate>Thu, 11 Jul 2019 10:25:07 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/vulnhub-ctf-symfonos-1-van-la-mot-vai-plugin-cua-wordpress-can-than-khi-su-dung-plugin-ben-wordpress-smtp-tu-lfi-cho-den-remote-code-excecution/</link>
+      <pubDate>Thu, 11 Jul 2019 10:25:07 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/vulnhub-ctf-symfonos-1-van-la-mot-vai-plugin-cua-wordpress-can-than-khi-su-dung-plugin-ben-wordpress-smtp-tu-lfi-cho-den-remote-code-excecution-byezkwxazq0/</guid>
+      <guid>https://minhtuanact.ml/posts/vulnhub-ctf-symfonos-1-van-la-mot-vai-plugin-cua-wordpress-can-than-khi-su-dung-plugin-ben-wordpress-smtp-tu-lfi-cho-den-remote-code-excecution/</guid>
       <description>Mở đầu  Lại là mình đây, vào mấy hôm rảnh rỗi lại mò vào vulhub.com để kiếm mấy bài lab để học hỏi, kiếm được bài Difficulty: Beginner nên build lên làm luôn xem nó có Beginner không :v: Đây là một bài lab khá mới của tác giả Zayotic trong series symfonos. Link bài lab nếu ai muốn khám phá: symfonos: 1  Tấn công   Việc đầu tiên vẫn như thường ngày, build bài lab lên rồi quét địa chỉ ip của nó.</description>
     </item>
     

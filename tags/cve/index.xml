@@ -9,22 +9,22 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 01 Nov 2019 09:15:42 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/cve/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Nov 2019 09:15:42 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/cve/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lỗ hổng PHP-FPM (CVE-2019-11043) với máy chủ NGINX khiến nhiều trang web bị ảnh hưởng</title>
-      <link>https://minhtuanact.ml/posts/lo-hong-php-fpm-cve-2019-11043-voi-may-chu-nginx-khien-nhieu-trang-web-bi-anh-huong-3q75wxxmkwb/</link>
-      <pubDate>Fri, 01 Nov 2019 09:15:42 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/lo-hong-php-fpm-cve-2019-11043-voi-may-chu-nginx-khien-nhieu-trang-web-bi-anh-huong/</link>
+      <pubDate>Fri, 01 Nov 2019 09:15:42 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/lo-hong-php-fpm-cve-2019-11043-voi-may-chu-nginx-khien-nhieu-trang-web-bi-anh-huong-3q75wxxmkwb/</guid>
+      <guid>https://minhtuanact.ml/posts/lo-hong-php-fpm-cve-2019-11043-voi-may-chu-nginx-khien-nhieu-trang-web-bi-anh-huong/</guid>
       <description>Một lỗ hổng được báo cáo gần đây, có mã là CVE-2019-11043, có thể ảnh hưởng đến các trang web sử dụng PHP-FPM để thực thi các trang PHP. Việc sử dụng PHP-FPM đặc biệt phổ biến tại các trang web sử dụng NGINX vì NGINX không có thời gian chạy PHP trong tiến trình. Thay vào đó, NGINX hoạt động như một Reverse Proxy cho các máy chủ ứng dụng và trình quản lý tiến trình như PHP-FPM.</description>
     </item>
     
     <item>
       <title>Linux: broken permission and object lifetime handling for PTRACE_TRACEME - Chiếm quyền root hầu hết các máy chạy Linux</title>
-      <link>https://minhtuanact.ml/posts/linux-broken-permission-and-object-lifetime-handling-for-ptrace-traceme-chiem-quyen-root-hau-het-cac-may-chay-linux-4p8564m3zy3/</link>
-      <pubDate>Fri, 26 Jul 2019 09:08:58 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/linux-broken-permission-and-object-lifetime-handling-for-ptrace-traceme-chiem-quyen-root-hau-het-cac-may-chay-linux/</link>
+      <pubDate>Fri, 26 Jul 2019 09:08:58 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/linux-broken-permission-and-object-lifetime-handling-for-ptrace-traceme-chiem-quyen-root-hau-het-cac-may-chay-linux-4p8564m3zy3/</guid>
+      <guid>https://minhtuanact.ml/posts/linux-broken-permission-and-object-lifetime-handling-for-ptrace-traceme-chiem-quyen-root-hau-het-cac-may-chay-linux/</guid>
       <description>Mở đầu  Ngày hôm qua, 1 thành viên trong đội của tôi đã gửi cho tôi 1 bài post trên facebook nói về con CVE-2019-13272 này. Sau một hồi tìm hiểu thì con CVE này cực kì nghiêm trọng. Nó có thể chiếm quyền root máy của bạn chỉ sau đúng một nốt nhạc. Bài viết này chỉ mang tính giới thiệu, bạn nào muốn tìm hiểu về cách thức hoạt động của con CVE-2019-13272 thì bạn có thể tìm hiểu trên mạng nhé ^^.</description>
     </item>
     

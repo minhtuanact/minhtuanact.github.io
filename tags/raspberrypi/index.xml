@@ -9,13 +9,13 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 07 May 2021 13:59:56 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/raspberrypi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 May 2021 13:59:56 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/raspberrypi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Một vài thứ mình đang chạy trên RaspberryPi tại nhà của mình</title>
-      <link>https://minhtuanact.ml/posts/mot-vai-thu-minh-dang-chay-tren-raspberrypi-tai-nha-cua-minh-ywozrv2pzq0/</link>
-      <pubDate>Fri, 07 May 2021 13:59:56 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/mot-vai-thu-minh-dang-chay-tren-raspberrypi-tai-nha-cua-minh/</link>
+      <pubDate>Fri, 07 May 2021 13:59:56 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/mot-vai-thu-minh-dang-chay-tren-raspberrypi-tai-nha-cua-minh-ywozrv2pzq0/</guid>
+      <guid>https://minhtuanact.ml/posts/mot-vai-thu-minh-dang-chay-tren-raspberrypi-tai-nha-cua-minh/</guid>
       <description>Tự sự Hồi đầu năm 2020, mình mới có order Taobao về được một em RaspberryPi 4 để phục vụ công việc của mình (thực ra hồi đó mua chơi thôi, mang về nghịch cho vui). Em Pi 4 này khá mạnh, làm được đủ thứ trò, Ram 4GB DDR4, sử dụng nguồn 15W, chạy kiến trúc ARM 64-bit (Raspberry Pi OS bản chính thức vẫn đang chạy 32-bit, nếu bạn muốn sử dụng hết sức mạnh của con Pi 4 từ 4GB trở lên thì phải cài OS nào hỗ trợ 64-bit nhé).</description>
     </item>
     

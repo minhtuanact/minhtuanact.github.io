@@ -9,22 +9,22 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 08 Apr 2022 08:20:21 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/emulator/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Apr 2022 08:20:21 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/emulator/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cài đặt WSA (Windows Subsystem for Android) để sử dụng Android trên Windows - Cài đặt Android Emulator sao cho ngầu (part 2)</title>
-      <link>https://minhtuanact.ml/posts/cai-dat-wsa-windows-subsystem-for-android-de-su-dung-android-tren-windows-cai-dat-android-emulator-sao-cho-ngau-part-2-oevkbr3jkkw/</link>
-      <pubDate>Fri, 08 Apr 2022 08:20:21 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/cai-dat-wsa-windows-subsystem-for-android-de-su-dung-android-tren-windows-cai-dat-android-emulator-sao-cho-ngau-part-2/</link>
+      <pubDate>Fri, 08 Apr 2022 08:20:21 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/cai-dat-wsa-windows-subsystem-for-android-de-su-dung-android-tren-windows-cai-dat-android-emulator-sao-cho-ngau-part-2-oevkbr3jkkw/</guid>
+      <guid>https://minhtuanact.ml/posts/cai-dat-wsa-windows-subsystem-for-android-de-su-dung-android-tren-windows-cai-dat-android-emulator-sao-cho-ngau-part-2/</guid>
       <description>Ngày xửa ngày xưa mình có 1 ước ao &amp;ldquo;làm thế nào để Windows + Linux hoà vào làm một nhỉ&amp;rdquo;, và rồi WSL được sinh ra vào hồi 5 năm trước. Tuy còn khá sida và lắm lỗi, tuy nhiên vào năm 2019 WSL2 ra đời cùng với sử dụng kernel linux chính ngạch cùng với các thay đổi gần đây đã làm WSL2 hoàn thiện hơn (nhất là mới có tính năng Run Linux GUI apps sử dụng X11 trên Windows 11 Run Linux GUI apps with WSL | Microsoft Docs)</description>
     </item>
     
     <item>
       <title>[Pentest Android] Cài đặt Android Emulator sao cho ngầu :-?</title>
-      <link>https://minhtuanact.ml/posts/pentest-android-cai-dat-android-emulator-sao-cho-ngau-ymnkmjkaz7p/</link>
-      <pubDate>Mon, 26 Oct 2020 11:14:55 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/pentest-android-cai-dat-android-emulator-sao-cho-ngau/</link>
+      <pubDate>Mon, 26 Oct 2020 11:14:55 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/pentest-android-cai-dat-android-emulator-sao-cho-ngau-ymnkmjkaz7p/</guid>
+      <guid>https://minhtuanact.ml/posts/pentest-android-cai-dat-android-emulator-sao-cho-ngau/</guid>
       <description>Tự sự một chút Cuối tuần hơi rảnh lại sắp rủ bạn gái đi ăn, nên mình có download 1 app android của 1 chuỗi cửa hàng có tiếng ở Hà Nội về để xem có khuyến mại gì không. Với một pentester thì khi mình dùng cái app này mình đã ngửi thấy mùi sai sai gì rồi. Khổ nỗi 1 điều là môi trường lại config hết trên máy công ty rồi, máy ở nhà mình trước có cài mà gỡ đi mất rồi.</description>
     </item>
     

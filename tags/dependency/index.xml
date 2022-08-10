@@ -9,13 +9,13 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 18 May 2022 10:55:34 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/dependency/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 May 2022 10:55:34 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/dependency/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RCE với Dependency Confusion</title>
-      <link>https://minhtuanact.ml/posts/rce-voi-dependency-confusion-l4x5xaxrkbm/</link>
-      <pubDate>Wed, 18 May 2022 10:55:34 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/rce-voi-dependency-confusion/</link>
+      <pubDate>Wed, 18 May 2022 10:55:34 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/rce-voi-dependency-confusion-l4x5xaxrkbm/</guid>
+      <guid>https://minhtuanact.ml/posts/rce-voi-dependency-confusion/</guid>
       <description>Bài viết này được dịch và viết theo ý hiểu của người viết thông qua nhiều nguồn
  Kể từ khi bạn mới học code Python, bạn có sử dụng mấy package rất tiện lợi install trên pip không
 1  pip install &amp;lt;package_name&amp;gt;   Như mình thì mình cứ thế install, không cần biết là package đó có đủ tin tưởng hay không, cũng chẳng thèm đọc source của cái package đó nữa, cứ install được việc của mình đã :D, đến khi mình đọc được cái bài viết này, thì mình vẫn cứ tin tưởng package đó thôi, vẫn chẳng mảy may suy nghĩ gì :frowning:</description>

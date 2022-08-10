@@ -9,13 +9,13 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 23 Aug 2021 07:24:08 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/dnsstager/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Aug 2021 07:24:08 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/dnsstager/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DNSStager - Công cụ giúp bạn ẩn payload trong DNS</title>
-      <link>https://minhtuanact.ml/posts/dnsstager-cong-cu-giup-ban-an-payload-trong-dns-3p0lp6b8kox/</link>
-      <pubDate>Mon, 23 Aug 2021 07:24:08 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/dnsstager-cong-cu-giup-ban-an-payload-trong-dns/</link>
+      <pubDate>Mon, 23 Aug 2021 07:24:08 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/dnsstager-cong-cu-giup-ban-an-payload-trong-dns-3p0lp6b8kox/</guid>
+      <guid>https://minhtuanact.ml/posts/dnsstager-cong-cu-giup-ban-an-payload-trong-dns/</guid>
       <description>Ví dụ luôn cho nó uy tín (nguồn https://shells.systems)
 Mở đầu Đối với các bạn redteam, việc đi sâu nhất vào trong hệ thống của khách hàng là điều luôn cần đạt được, để đảm bảo an toàn cho những khách hàng của mình. Hay với 1 bug bounty hunter cần nâng severity của lỗ hổng mình tìm ra lên cao nhất để nhận được số tiền hậu hĩnh. Có thể các bạn redteam/pentester cũng gặp phải trường hợp payload của mình bị AV xoá/chặn như thế nào, công cụ này giúp các bạn có thể ẩn payload của mình và truyền nó với từng phần, giúp AV không phát hiện ra.</description>
     </item>

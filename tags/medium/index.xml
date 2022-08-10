@@ -9,13 +9,13 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 15 Mar 2021 10:45:23 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/medium/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Mar 2021 10:45:23 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/medium/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Đọc Medium khi bị nhà mạng chặn</title>
-      <link>https://minhtuanact.ml/posts/doc-medium-khi-bi-nha-mang-chan-bwrznwxylxw/</link>
-      <pubDate>Mon, 15 Mar 2021 10:45:23 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/doc-medium-khi-bi-nha-mang-chan/</link>
+      <pubDate>Mon, 15 Mar 2021 10:45:23 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/doc-medium-khi-bi-nha-mang-chan-bwrznwxylxw/</guid>
+      <guid>https://minhtuanact.ml/posts/doc-medium-khi-bi-nha-mang-chan/</guid>
       <description>Intro Dạo gần đây nhà mạng VN cứ chặn medium làm mình không load được, làm mọi cách rồi nhưng mà vẫn không truy cập được medium ngoài bật VPN sang nước khác :sleepy:, tuy nhiên mình lại có con VPS bên Châu Âu nên thành ra chạy khá chậm. Ban đầu mình định config allow các IP của medium mới chạy qua VPN, tuy nhiên Medium lắm IP nên việc này khả thi nhưng mất thời gian =)).</description>
     </item>
     

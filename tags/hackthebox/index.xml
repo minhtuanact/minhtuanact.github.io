@@ -9,42 +9,42 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Sep 2020 17:08:05 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/hackthebox/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Sep 2020 17:08:05 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/hackthebox/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Hackthebox - Writeup] Remote</title>
-      <link>https://minhtuanact.ml/posts/hackthebox-writeup-remote-eb85olq2k2g/</link>
-      <pubDate>Sun, 06 Sep 2020 17:08:05 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/hackthebox-writeup-remote/</link>
+      <pubDate>Sun, 06 Sep 2020 17:08:05 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/hackthebox-writeup-remote-eb85olq2k2g/</guid>
+      <guid>https://minhtuanact.ml/posts/hackthebox-writeup-remote/</guid>
       <description>Recon Nmap Việc sử dụng nmap để quét toàn bộ cổng của machine là 1 việc làm bất di bất dịch nếu các bạn muốn tấn công lên machine đó.
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57  PORT STATE SERVICE VERSION 21/tcp open ftp Microsoft ftpd |_ftp-anon: Anonymous FTP login allowed (FTP code 230) | ftp-syst: |_ SYST: Windows_NT 80/tcp open http Microsoft HTTPAPI httpd 2.</description>
     </item>
     
     <item>
       <title>[Hackthebox - Writeup] Cascade</title>
-      <link>https://minhtuanact.ml/posts/hackthebox-writeup-cascade-magk7jox5j2/</link>
-      <pubDate>Mon, 27 Jul 2020 10:16:19 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/hackthebox-writeup-cascade/</link>
+      <pubDate>Mon, 27 Jul 2020 10:16:19 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/hackthebox-writeup-cascade-magk7jox5j2/</guid>
+      <guid>https://minhtuanact.ml/posts/hackthebox-writeup-cascade/</guid>
       <description>Cascade là bài thứ mấy mình chơi với machine Windows trên hackthebox cũng không nhớ nữa, chỉ nhớ là bài này mình làm vào đúng tối sinh nhật năm nay của mình. Là một bài khá hay với LDAP, mình đã học hỏi được rất nhiều thứ từ bài này. Nhìn lượt vote cũng thấy được bài này chủ yếu sử dụng kỹ thuật Enumeration. Hi vọng writeup này giúp ích gì được cho các bạn đọc bài này :P.</description>
     </item>
     
     <item>
       <title>[Hackthebox- Writeup] Book</title>
-      <link>https://minhtuanact.ml/posts/hackthebox-writeup-book-4dbznjgqzym/</link>
-      <pubDate>Sun, 12 Jul 2020 07:30:42 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/hackthebox-writeup-book/</link>
+      <pubDate>Sun, 12 Jul 2020 07:30:42 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/hackthebox-writeup-book-4dbznjgqzym/</guid>
+      <guid>https://minhtuanact.ml/posts/hackthebox-writeup-book/</guid>
       <description>Mở đầu Trở lại với series Writeup Hackthebox, ngày hôm qua Hackthebox đã cho retired bài Book này, được đánh giá là Medium. Bài này được mình làm từ 24/03 nhưng đến giờ mới được public. Hãy cùng mình tìm hiểu xem bài này chơi thế nào nha.
 Get User Quét nmap thấy server này có trang web tại cổng 80. Thực hiện đăng ký thì vào ổn k có vấn đề gì, thực hiện đăng ký theo mail admin@book.</description>
     </item>
     
     <item>
       <title>[Hackthebox Writeup] Registry</title>
-      <link>https://minhtuanact.ml/posts/hackthebox-writeup-registry-wayk82rnlxx/</link>
-      <pubDate>Fri, 01 May 2020 06:55:47 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/hackthebox-writeup-registry/</link>
+      <pubDate>Fri, 01 May 2020 06:55:47 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/hackthebox-writeup-registry-wayk82rnlxx/</guid>
+      <guid>https://minhtuanact.ml/posts/hackthebox-writeup-registry/</guid>
       <description>Recon 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50  ➜ ~ ./nmapAutomator.sh 10.10.10.159 all Running a all scan on 10.10.10.159 Host is likely running Linux ---------------------Starting Nmap Quick Scan--------------------- Starting Nmap 7.</description>
     </item>
     

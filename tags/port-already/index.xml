@@ -9,13 +9,13 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 12 May 2021 10:04:30 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/port-already/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 May 2021 10:04:30 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/port-already/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Xử lý vấn đề &#34;Port Already in Use&#34; trên Linux và Windows</title>
-      <link>https://minhtuanact.ml/posts/xu-ly-van-de-port-already-in-use-tren-linux-va-windows-qbq5qenz5d8/</link>
-      <pubDate>Wed, 12 May 2021 10:04:30 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/xu-ly-van-de-port-already-in-use-tren-linux-va-windows/</link>
+      <pubDate>Wed, 12 May 2021 10:04:30 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/xu-ly-van-de-port-already-in-use-tren-linux-va-windows-qbq5qenz5d8/</guid>
+      <guid>https://minhtuanact.ml/posts/xu-ly-van-de-port-already-in-use-tren-linux-va-windows/</guid>
       <description>Hi chào các bạn, dạo này mình hay gặp vấn đề Port Already in Use trên Windows do mình sử dụng hơi nhiều chương trình cùng một lúc, tức là mình không thể mở chương trình vì đang có chương trình khác chiếm port đó rồi. Cái này khá là khó chịu, đôi khi bạn không biết chương trình nào đang sử dụng port đấy để mà tắt đi. Nay mình sẽ hướng dẫn các bạn xử lý vấn đề này nhé</description>
     </item>
     

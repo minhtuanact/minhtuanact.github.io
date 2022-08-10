@@ -9,13 +9,13 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 20 Jun 2019 15:51:23 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jun 2019 15:51:23 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>VulnHub CTF - Raven 2 Walkthrough - Vẫn là chiếm quyền root, lần này là Mysql</title>
-      <link>https://minhtuanact.ml/posts/vulnhub-ctf-raven-2-walkthrough-van-la-chiem-quyen-root-lan-nay-la-mysql-ggj59z2rkx2/</link>
-      <pubDate>Thu, 20 Jun 2019 15:51:23 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/vulnhub-ctf-raven-2-walkthrough-van-la-chiem-quyen-root-lan-nay-la-mysql/</link>
+      <pubDate>Thu, 20 Jun 2019 15:51:23 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/vulnhub-ctf-raven-2-walkthrough-van-la-chiem-quyen-root-lan-nay-la-mysql-ggj59z2rkx2/</guid>
+      <guid>https://minhtuanact.ml/posts/vulnhub-ctf-raven-2-walkthrough-van-la-chiem-quyen-root-lan-nay-la-mysql/</guid>
       <description>Mở đầu  Dạo này mình rất có hứng thú với mấy bài lab trên VulnHub.com. Lần này lại là một bài nữa, có thể chọc ngoáy khá nhiều vấn đề ở bài này. Bạn nào muốn build lên làm thử thì qua link này Raven: 2 Thôi thì bắt đầu vào chiến thôi. Bài này có tất cả là 4 cờ. Mình đi theo hướng tìm lần lượt 4 cờ luôn nhé.</description>
     </item>
     

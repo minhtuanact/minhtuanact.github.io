@@ -9,13 +9,13 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 24 May 2019 10:48:44 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/hijack/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 May 2019 10:48:44 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/hijack/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tổng hợp các câu hỏi phỏng vấn pentest - kiến thức chung (P2)</title>
-      <link>https://minhtuanact.ml/posts/tong-hop-cac-cau-hoi-phong-van-pentest-kien-thuc-chung-p2-awj53n08l6m/</link>
-      <pubDate>Fri, 24 May 2019 10:48:44 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/tong-hop-cac-cau-hoi-phong-van-pentest-kien-thuc-chung-p2/</link>
+      <pubDate>Fri, 24 May 2019 10:48:44 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/tong-hop-cac-cau-hoi-phong-van-pentest-kien-thuc-chung-p2-awj53n08l6m/</guid>
+      <guid>https://minhtuanact.ml/posts/tong-hop-cac-cau-hoi-phong-van-pentest-kien-thuc-chung-p2/</guid>
       <description>Hỏi: Answer true or false and explain your answer: two-factor authentication protects against session hijacking? Trả lời:  Về câu trả lời này, mình vẫn chưa biết nên trả lời là đúng hay sai. Có 2 trường hợp xảy ra ở đây:  Trước khi bạn nhập mã xác minh gửi đến điện thoại hay ứng dụng hay đại loại là 1 mã OTP nào đó mà bên Server gửi cho bạn để xác minh đó đúng là bạn đăng nhập vào tài khoản của bạn.</description>
     </item>
     

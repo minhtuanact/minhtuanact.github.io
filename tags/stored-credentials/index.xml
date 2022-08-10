@@ -9,13 +9,13 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 03 Aug 2020 09:01:12 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/stored-credentials/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Aug 2020 09:01:12 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/stored-credentials/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leo thang đặc quyền trong Windows - Windows Privilege Escalation #2: Stored Credentials, Kernel Exploits, Scheduled Tasks, ...</title>
-      <link>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-2-stored-credentials-kernel-exploits-scheduled-tasks-lzd5dvvwzjy/</link>
-      <pubDate>Mon, 03 Aug 2020 09:01:12 +0700</pubDate>
+      <link>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-2-stored-credentials-kernel-exploits-scheduled-tasks/</link>
+      <pubDate>Mon, 03 Aug 2020 09:01:12 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-2-stored-credentials-kernel-exploits-scheduled-tasks-lzd5dvvwzjy/</guid>
+      <guid>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-2-stored-credentials-kernel-exploits-scheduled-tasks/</guid>
       <description>Giới thiệu Gần một tháng trước mình có public 1 bài Leo thang đặc quyền trong Windows - Windows Privilege Escalation #1: Service Exploits . Để tiếp tục series này, nay mình viết tiếp các cách khai thác đặc quyền trên Windows.
  Bài viết hướng đến cho mọi người cách nhìn tổng quan về leo quyền trên Windows, các bạn có thể gặp nó trong các cuộc thi như OSCP, OSWE, các labs trên hackthebox.</description>
     </item>
