@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://minhtuanact.ml/tags/contentcreator/</loc>
+    <lastmod>2022-08-01T10:13:27+00:00</lastmod>
+  </url><url>
     <loc>https://minhtuanact.ml/tags/flipperzero/</loc>
     <lastmod>2022-08-01T10:13:27+00:00</lastmod>
   </url><url>
@@ -390,6 +393,9 @@
     <lastmod>2020-05-01T06:22:04+00:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.ml/posts/ssh-tunneling-local-port-forwarding-va-remote-port-forwarding/</loc>
+    <lastmod>2020-05-01T06:22:04+00:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/ssh-tunneling-local-port-forwarding-va-remote-port-forwarding-update-dynamic-port-forwarding/</loc>
     <lastmod>2020-05-01T06:22:04+00:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.ml/posts/ban-thich-dung-windows-nhung-lai-muon-co-cam-giac-go-code-tren-linux/</loc>
