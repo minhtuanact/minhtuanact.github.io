@@ -9,11 +9,21 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 01 Aug 2022 10:13:27 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/contentcreator/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Sep 2022 07:02:12 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/contentcreator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cùng tìm hiểu về RFID, công nghệ &#34;tiên tiến&#34; Việt Nam đang sử dụng với ETC (thu phí không dừng)</title>
+      <link>https://minhtuanact.ml/posts/cung-tim-hieu-ve-rfid-cong-nghe-tien-tien-viet-nam-dang-su-dung-voi-etc-thu-phi-khong-dung/</link>
+      <pubDate>Thu, 22 Sep 2022 07:02:12 +0000</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/cung-tim-hieu-ve-rfid-cong-nghe-tien-tien-viet-nam-dang-su-dung-voi-etc-thu-phi-khong-dung/</guid>
+      <description>Bữa lâu lâu rồi mình có đọc được thông tin này từ 1 page có tích xanh Thông tin real nó ở đây, các bạn có thể vào đọc :D https://www.facebook.com/thongtinchinhphu/posts/pfbid0Uuqh9DKGVVES7T5ApQDepxa6WNw3YMuDtsMxFKERc5QttHWgBNvVJvVNVRZUNkxpl
+Ờ thì mình cũng có tính tò mò, sao cái công nghệ RFID Việt Nam đang áp dụng cho thu phí không dừng (ETC) nó lại tiên tiến thế, hơn cả Sing (thật ra là mình biết nó cũng cách đây mấy năm, hồi còn clone thẻ nhân viên để dùng, vì tiền đền thẻ nhân viên khi mất mặn quá, tận 200k lận :&amp;lt;)</description>
+    </item>
+    
     <item>
       <title>FlipperZero - Trợ thủ đắc lực cho pentesters và geeks</title>
       <link>https://minhtuanact.ml/posts/flipperzero-tro-thu-dac-luc-cho-pentesters-va-geeks/</link>
-      <pubDate>Mon, 01 Aug 2022 10:13:27 +0000</pubDate>
+      <pubDate>Mon, 01 Aug 2022 03:13:27 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/flipperzero-tro-thu-dac-luc-cho-pentesters-va-geeks/</guid>
       <description>Dạo gần đây mình lên Twitter thấy mọi người share 1 tool (gần như là 1 đồ chơi) thú vị quá, nên mình share lên đây cho mọi người biết và tiếp cận đến nó :D
@@ -25,7 +35,7 @@
     <item>
       <title>RCE với Dependency Confusion</title>
       <link>https://minhtuanact.ml/posts/rce-voi-dependency-confusion/</link>
-      <pubDate>Wed, 18 May 2022 10:55:34 +0000</pubDate>
+      <pubDate>Wed, 18 May 2022 03:55:34 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/rce-voi-dependency-confusion/</guid>
       <description>Bài viết này được dịch và viết theo ý hiểu của người viết thông qua nhiều nguồn
@@ -36,7 +46,7 @@
     <item>
       <title>SSH Tunneling - Local Port Forwarding và Remote Port Forwarding (update Dynamic Port Forwarding)</title>
       <link>https://minhtuanact.ml/posts/ssh-tunneling-local-port-forwarding-va-remote-port-forwarding-update-dynamic-port-forwarding/</link>
-      <pubDate>Fri, 01 May 2020 06:22:04 +0000</pubDate>
+      <pubDate>Thu, 30 Apr 2020 23:22:04 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/ssh-tunneling-local-port-forwarding-va-remote-port-forwarding-update-dynamic-port-forwarding/</guid>
       <description>SSH Tunneling Giao thức SSH hiện nay là một trong những giao thức phổ biến nhất để tunneling và port forwarding. SSH Tunnel cho phép trao đổi dữ liệu thông qua một kênh mã hoá. Với việc thiết lập SSH Tunnel cực kỳ đơn giản và nhiều ứng dụng nên giao thức này ngày càng phổ biến. Ở bài viết này mình sẽ nói về một số ứng dụng của SSH Tunnel.</description>
@@ -45,7 +55,7 @@
     <item>
       <title>Tìm kiếm các lỗi IDOR, chưa bao giờ lại dễ đến thế với extension Autorize</title>
       <link>https://minhtuanact.ml/posts/tim-kiem-cac-loi-idor-chua-bao-gio-lai-de-den-the-voi-extension-autorize/</link>
-      <pubDate>Mon, 16 Dec 2019 11:14:13 +0000</pubDate>
+      <pubDate>Mon, 16 Dec 2019 04:14:13 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/tim-kiem-cac-loi-idor-chua-bao-gio-lai-de-den-the-voi-extension-autorize/</guid>
       <description>Chắc hẳn việc tìm lỗi IDOR luôn là công việc thường xuyên của những pentester hay các hunters. Nhưng mà lỗi IDOR ở đây là gì nhỉ :-?

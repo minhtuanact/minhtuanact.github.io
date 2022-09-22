@@ -9,11 +9,11 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 05 Aug 2019 10:06:41 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Aug 2019 03:06:41 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/shell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tạo vô vàn lệnh shell chiếm quyền truy cập bằng công cụ Shellpop trên Linux</title>
       <link>https://minhtuanact.ml/posts/tao-vo-van-lenh-shell-chiem-quyen-truy-cap-bang-cong-cu-shellpop-tren-linux/</link>
-      <pubDate>Mon, 05 Aug 2019 10:06:41 +0000</pubDate>
+      <pubDate>Mon, 05 Aug 2019 03:06:41 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/tao-vo-van-lenh-shell-chiem-quyen-truy-cap-bang-cong-cu-shellpop-tren-linux/</guid>
       <description>Bạn đã chán cảnh lưu lại các lệnh shell trên máy tính của mình, và bạn đã mệt mỏi khi đi tìm chúng ở đâu mỗi khi mình cần. Để giải quyết việc này, Shellpop được sinh ra với vô vàn các tiện ích mà nó đem lại, giờ đây bạn sẽ không cần phải lưu lại và đi tìm các lệnh shell mỗi khi cần nữa.

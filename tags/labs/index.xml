@@ -9,11 +9,11 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Sep 2020 17:08:05 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/labs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Sep 2020 10:08:05 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/labs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Hackthebox - Writeup] Remote</title>
       <link>https://minhtuanact.ml/posts/hackthebox-writeup-remote/</link>
-      <pubDate>Sun, 06 Sep 2020 17:08:05 +0000</pubDate>
+      <pubDate>Sun, 06 Sep 2020 10:08:05 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/hackthebox-writeup-remote/</guid>
       <description>Recon Nmap Việc sử dụng nmap để quét toàn bộ cổng của machine là 1 việc làm bất di bất dịch nếu các bạn muốn tấn công lên machine đó.
@@ -23,7 +23,7 @@
     <item>
       <title>VulnHub CTF - symfonos: 1 - Vẫn là một vài plugin của Wordpress, cẩn thận khi sử dụng plugin bên Wordpress - SMTP - Từ LFI cho đến Remote Code Excecution</title>
       <link>https://minhtuanact.ml/posts/vulnhub-ctf-symfonos-1-van-la-mot-vai-plugin-cua-wordpress-can-than-khi-su-dung-plugin-ben-wordpress-smtp-tu-lfi-cho-den-remote-code-excecution/</link>
-      <pubDate>Thu, 11 Jul 2019 10:25:07 +0000</pubDate>
+      <pubDate>Thu, 11 Jul 2019 03:25:07 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/vulnhub-ctf-symfonos-1-van-la-mot-vai-plugin-cua-wordpress-can-than-khi-su-dung-plugin-ben-wordpress-smtp-tu-lfi-cho-den-remote-code-excecution/</guid>
       <description>Mở đầu  Lại là mình đây, vào mấy hôm rảnh rỗi lại mò vào vulhub.com để kiếm mấy bài lab để học hỏi, kiếm được bài Difficulty: Beginner nên build lên làm luôn xem nó có Beginner không :v: Đây là một bài lab khá mới của tác giả Zayotic trong series symfonos. Link bài lab nếu ai muốn khám phá: symfonos: 1  Tấn công   Việc đầu tiên vẫn như thường ngày, build bài lab lên rồi quét địa chỉ ip của nó.</description>

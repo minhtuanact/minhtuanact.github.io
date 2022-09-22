@@ -9,11 +9,11 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Oct 2021 14:22:04 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/proxifier/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Oct 2021 07:22:04 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/proxifier/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Proxifier - Hỗ trợ kết nối proxy cho các ứng dụng không hỗ trợ proxy</title>
       <link>https://minhtuanact.ml/posts/proxifier-ho-tro-ket-noi-proxy-cho-cac-ung-dung-khong-ho-tro-proxy/</link>
-      <pubDate>Fri, 22 Oct 2021 14:22:04 +0000</pubDate>
+      <pubDate>Fri, 22 Oct 2021 07:22:04 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/proxifier-ho-tro-ket-noi-proxy-cho-cac-ung-dung-khong-ho-tro-proxy/</guid>
       <description>Root case Dạo gần đây mình có dính 1 case liên quan đến application trên Windows, việc check connect network rất quan trọng trong pentest, nó sẽ giúp các bạn có thể biết được application đó đang gửi những gì, kết nối tới đâu trên internet. Tuy nhiên dở một cái là application này KHÔNG HỖ TRỢ KẾT NỐI PROXY để capture request qua BurpSuite. Vậy ở đây chúng ta sẽ có nhiều cách để pentest case này:</description>

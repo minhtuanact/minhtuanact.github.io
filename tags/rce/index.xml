@@ -9,11 +9,11 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 11 Feb 2022 19:20:29 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/rce/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Feb 2022 12:20:29 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/rce/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Phân tích CVE-2021-22941, RCE Citrix Sharefile &lt; 5.11.20</title>
       <link>https://minhtuanact.ml/posts/phan-tich-cve-2021-22941-rce-citrix-sharefile-51120/</link>
-      <pubDate>Fri, 11 Feb 2022 19:20:29 +0000</pubDate>
+      <pubDate>Fri, 11 Feb 2022 12:20:29 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/phan-tich-cve-2021-22941-rce-citrix-sharefile-51120/</guid>
       <description>Cái bài này mình định lên từ năm ngoái rồi, mà phân tích xong lại để đấy, thật ra là lười viết lại nên tồn đọng đến bây giờ chưa viết bài phân tích lên blog 🥲. Thôi thì ngồi viết lại vừa để có chỗ lưu lại, vừa để nhớ xem mình đã phân tích những cái gì, biết đâu sau này lại sử dụng lại thì sao :D</description>
@@ -22,7 +22,7 @@
     <item>
       <title>Phân tích lỗ hổng uploadfile trên Apache Ofbiz (CVE-2021-37608 bypass)</title>
       <link>https://minhtuanact.ml/posts/phan-tich-lo-hong-uploadfile-tren-apache-ofbiz-cve-2021-37608-bypass/</link>
-      <pubDate>Tue, 14 Sep 2021 14:38:55 +0000</pubDate>
+      <pubDate>Tue, 14 Sep 2021 07:38:55 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/phan-tich-lo-hong-uploadfile-tren-apache-ofbiz-cve-2021-37608-bypass/</guid>
       <description>Gần đây mình thấy có 1 CVE với Apache Ofbiz CVE-2021-37608, các bạn có thể đọc thêm issue tại đây https://issues.apache.org/jira/browse/OFBIZ-12297, tuy nhiên mình cảm thấy bản patch hơi ảo ma 1 chút
@@ -33,7 +33,7 @@ Hoặc cũng có thể là do mình gà nên chưa tìm được endpoint unauth
     <item>
       <title>Laravel &lt;= v8.4.2 debug mode: Remote code execution - Chiếm quyền điều khiển máy thằng bạn đang code PHP</title>
       <link>https://minhtuanact.ml/posts/laravel-v842-debug-mode-remote-code-execution-chiem-quyen-dieu-khien-may-thang-ban-dang-code-php/</link>
-      <pubDate>Thu, 14 Jan 2021 08:59:20 +0000</pubDate>
+      <pubDate>Thu, 14 Jan 2021 01:59:20 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/laravel-v842-debug-mode-remote-code-execution-chiem-quyen-dieu-khien-may-thang-ban-dang-code-php/</guid>
       <description>Tản mạn &amp;ldquo;Hằng năm cứ vào cuối đông, lá ngoài đường rụng nhiều và trên không có những đám mây bàng bạc, lòng tôi lại nao nức những kỷ niệm hoang mang.
@@ -44,7 +44,7 @@ Những ý tưởng ấy tôi chưa lần nào ghi lên giấy, vì hồi ấy t
     <item>
       <title>Làm thế nào để RCE trên Windows từ Linux?</title>
       <link>https://minhtuanact.ml/posts/lam-the-nao-de-rce-tren-windows-tu-linux/</link>
-      <pubDate>Sun, 17 May 2020 19:06:28 +0000</pubDate>
+      <pubDate>Sun, 17 May 2020 12:06:28 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/lam-the-nao-de-rce-tren-windows-tu-linux/</guid>
       <description>Các Pentester có thể họ rất quen thuộc với hệ điều hành Linux với những command line trên terminal, tuy nhiên nếu gặp phải server chạy Windows thì họ lại khá lúng túng trong việc RCE. Bài viết này mình sẽ chỉ ra vài cách có thể RCE trên Windows từ Linux.
@@ -55,7 +55,7 @@ Sử dụng Impacket Impacket là gì?
     <item>
       <title>Lỗ hổng PHP-FPM (CVE-2019-11043) với máy chủ NGINX khiến nhiều trang web bị ảnh hưởng</title>
       <link>https://minhtuanact.ml/posts/lo-hong-php-fpm-cve-2019-11043-voi-may-chu-nginx-khien-nhieu-trang-web-bi-anh-huong/</link>
-      <pubDate>Fri, 01 Nov 2019 09:15:42 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2019 02:15:42 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/lo-hong-php-fpm-cve-2019-11043-voi-may-chu-nginx-khien-nhieu-trang-web-bi-anh-huong/</guid>
       <description>Một lỗ hổng được báo cáo gần đây, có mã là CVE-2019-11043, có thể ảnh hưởng đến các trang web sử dụng PHP-FPM để thực thi các trang PHP. Việc sử dụng PHP-FPM đặc biệt phổ biến tại các trang web sử dụng NGINX vì NGINX không có thời gian chạy PHP trong tiến trình. Thay vào đó, NGINX hoạt động như một Reverse Proxy cho các máy chủ ứng dụng và trình quản lý tiến trình như PHP-FPM.</description>

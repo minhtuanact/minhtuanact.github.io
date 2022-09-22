@@ -9,11 +9,11 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 20 Jun 2021 22:04:09 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jun 2021 15:04:09 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Một vài mẹo mà mình sử dụng với Burp Suite (phần 2)</title>
       <link>https://minhtuanact.ml/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite-phan-2/</link>
-      <pubDate>Sun, 20 Jun 2021 22:04:09 +0000</pubDate>
+      <pubDate>Sun, 20 Jun 2021 15:04:09 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite-phan-2/</guid>
       <description>Bài này là bài nối tiếp về một bài mà mình đã viết tại Một vài mẹo mà mình sử dụng với Burp Suite. Bài đầu tiên mình đã viết về một vài tips và trick mình hay sử dụng với Burp Suite mặc định rồi, bài này mình sẽ viết về một vài extensions của Burp Suite mà mình hay dùng nhé ;)
@@ -23,7 +23,7 @@ Burp Extensions Đây là một hình chụp nhanh các extension trong Burp Sui
     <item>
       <title>Một vài mẹo mà mình sử dụng với Burp Suite</title>
       <link>https://minhtuanact.ml/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite/</link>
-      <pubDate>Fri, 21 May 2021 11:11:40 +0000</pubDate>
+      <pubDate>Fri, 21 May 2021 04:11:40 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite/</guid>
       <description>Tự sự Chuyện là có mấy thằng em hỏi mình về cách sử dụng Burp Suite như thế nào, rồi có tips and tricks nào hay hay không cho chúng nó học, tiện đây mình cũng chia sẻ kinh nghiệm của một người sử dụng BurpSuite cũng được một khoảng thời gian rồi. Hi vọng những chia sẻ này sẽ giúp ích được cho bạn đọc :v:
@@ -33,7 +33,7 @@ Burp Suite là gì?</description>
     <item>
       <title>Làm thế nào để chuyển đổi tài khoản trên Windows (How do I switch users in Windows)?</title>
       <link>https://minhtuanact.ml/posts/lam-the-nao-de-chuyen-doi-tai-khoan-tren-windows-how-do-i-switch-users-in-windows/</link>
-      <pubDate>Wed, 06 May 2020 13:50:16 +0000</pubDate>
+      <pubDate>Wed, 06 May 2020 06:50:16 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/lam-the-nao-de-chuyen-doi-tai-khoan-tren-windows-how-do-i-switch-users-in-windows/</guid>
       <description>Windows hay các hệ điều hành như Linux, MacOS, &amp;hellip; cho phép tồn tại nhiều tài khoản người dùng trên một máy. Các tài khoản đều có thể cho phép bạn tùy biến cài đặt tùy theo sở thích của mình và tách biệt so với các thành viên khác trong khi sử dụng chung máy tính. Bài viết này mình sẽ nêu một số cách để chuyển đổi tài khoản người dùng trên Windows, nghe có vẻ khá đơn giản đúng không :D</description>
@@ -42,7 +42,7 @@ Burp Suite là gì?</description>
     <item>
       <title>Tấn công CSRF và các vấn đề xung quanh</title>
       <link>https://minhtuanact.ml/posts/tan-cong-csrf-va-cac-van-de-xung-quanh/</link>
-      <pubDate>Thu, 09 Jan 2020 09:16:32 +0000</pubDate>
+      <pubDate>Thu, 09 Jan 2020 02:16:32 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/tan-cong-csrf-va-cac-van-de-xung-quanh/</guid>
       <description>Giới thiệu một chút về Web Cookies Do HTTP là giao thức không trạng thái, các request trước và sau không hề liên quan đến nhau. HTTP không thể phân biệt người dùng này với người dùng khác được. Để giải quyết vấn đề này, cookie được ra đời để phân biệt các người dùng với nhau. Các server sẽ set-cookie cho trình duyệt lưu lại, sau đó mỗi khi gửi request thì trình duyệt sẽ thêm mã cookie này rồi gửi đến server.</description>
@@ -51,7 +51,7 @@ Burp Suite là gì?</description>
     <item>
       <title>Tìm kiếm các lỗi IDOR, chưa bao giờ lại dễ đến thế với extension Autorize</title>
       <link>https://minhtuanact.ml/posts/tim-kiem-cac-loi-idor-chua-bao-gio-lai-de-den-the-voi-extension-autorize/</link>
-      <pubDate>Mon, 16 Dec 2019 11:14:13 +0000</pubDate>
+      <pubDate>Mon, 16 Dec 2019 04:14:13 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/tim-kiem-cac-loi-idor-chua-bao-gio-lai-de-den-the-voi-extension-autorize/</guid>
       <description>Chắc hẳn việc tìm lỗi IDOR luôn là công việc thường xuyên của những pentester hay các hunters. Nhưng mà lỗi IDOR ở đây là gì nhỉ :-?
@@ -61,7 +61,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>HA: Dhanush (ZIP Privilege Escalation), 1 bài labs thử nghiệm nâng cao đặc quyền khá hay của Hacking Articles</title>
       <link>https://minhtuanact.ml/posts/ha-dhanush-zip-privilege-escalation-1-bai-labs-thu-nghiem-nang-cao-dac-quyen-kha-hay-cua-hacking-articles/</link>
-      <pubDate>Sat, 07 Dec 2019 16:35:41 +0000</pubDate>
+      <pubDate>Sat, 07 Dec 2019 09:35:41 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/ha-dhanush-zip-privilege-escalation-1-bai-labs-thu-nghiem-nang-cao-dac-quyen-kha-hay-cua-hacking-articles/</guid>
       <description>Giới thiệu Hôm nay trời khá là lạnh, hình như là lạnh nhất từ lúc mùa đông ghé qua thủ đô Hà Nội. Sáng quấn chăn đến 7h sáng mới dậy. Dậy chơi vài tựa game 8-bit ngày xưa khá là kỷ niệm. Lâu rồi cũng không build bài lab nào lên làm thử. Thử tải 1 bài về chơi xem sao. Lần này vẫn là bài trên https://www.vulnhub.com/. Chọn ngẫu nhiên 1 bài thử xem trình độ mình đến đâu :joy::joy::joy:</description>
@@ -70,7 +70,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>Lỗ hổng PHP-FPM (CVE-2019-11043) với máy chủ NGINX khiến nhiều trang web bị ảnh hưởng</title>
       <link>https://minhtuanact.ml/posts/lo-hong-php-fpm-cve-2019-11043-voi-may-chu-nginx-khien-nhieu-trang-web-bi-anh-huong/</link>
-      <pubDate>Fri, 01 Nov 2019 09:15:42 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2019 02:15:42 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/lo-hong-php-fpm-cve-2019-11043-voi-may-chu-nginx-khien-nhieu-trang-web-bi-anh-huong/</guid>
       <description>Một lỗ hổng được báo cáo gần đây, có mã là CVE-2019-11043, có thể ảnh hưởng đến các trang web sử dụng PHP-FPM để thực thi các trang PHP. Việc sử dụng PHP-FPM đặc biệt phổ biến tại các trang web sử dụng NGINX vì NGINX không có thời gian chạy PHP trong tiến trình. Thay vào đó, NGINX hoạt động như một Reverse Proxy cho các máy chủ ứng dụng và trình quản lý tiến trình như PHP-FPM.</description>
@@ -79,7 +79,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>Sử dụng Burp Intruder sao cho hiệu quả [Phần 2]</title>
       <link>https://minhtuanact.ml/posts/su-dung-burp-intruder-sao-cho-hieu-qua-phan-2/</link>
-      <pubDate>Mon, 16 Sep 2019 08:17:11 +0000</pubDate>
+      <pubDate>Mon, 16 Sep 2019 01:17:11 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/su-dung-burp-intruder-sao-cho-hieu-qua-phan-2/</guid>
       <description>Burp Intruder  Tiếp tục cho phần 1 được viết tại đây, mình sẽ giới thiệu tiếp cho các bạn cách sử dụng tab Options và cách tấn công sao cho hiệu quả nhất khi sử dụng Burp Intruder  Cấu hình cuộc tấn công Options Attack Options  Tại đây, sau khi bạn đã gắn Positions, truyền Payloads thì bạn cũng có thể tấn công được rồi. Nhưng tấn công sao cho hiệu quả thì tab Options này khá quan trọng, nó có rất nhiều tùy chọn dùng để tấn công như request headers, the request engine, attack results, grep match, grep extract, grep payloads, và redirections.</description>
@@ -88,7 +88,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>Sử dụng Burp Suite Intruder sao cho hiệu quả [Phần 1]</title>
       <link>https://minhtuanact.ml/posts/su-dung-burp-suite-intruder-sao-cho-hieu-qua-phan-1/</link>
-      <pubDate>Fri, 06 Sep 2019 21:47:10 +0000</pubDate>
+      <pubDate>Fri, 06 Sep 2019 14:47:10 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/su-dung-burp-suite-intruder-sao-cho-hieu-qua-phan-1/</guid>
       <description>Burp Intruder  Burp Intruder là một công cụ tuyệt vời để automating customized attacks lên các ứng dụng web. Công cụ này theo mình thấy nó cực kỳ mạnh mẽ và có thể custom được. Nó sử dụng để thực hiện hàng loại các hành động hay trinh sát. Từ việc đoán các path đơn giản cho đến khai thác các lỗ hổng như XSS, SQL Injection, &amp;hellip;  Cách thức hoạt động  Burp Suite Intruder hoạt động bằng cách sửa đổi request HTTP ban đầu theo ý mình và tự động gửi các payloads tới target.</description>
@@ -97,7 +97,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>OS Command Injection là gì, Command Injection có nguy hiểm không?, cần cực kỳ thận trọng đối với các lệnh OS gọi từ Website của bạn</title>
       <link>https://minhtuanact.ml/posts/os-command-injection-la-gi-command-injection-co-nguy-hiem-khong-can-cuc-ky-than-trong-doi-voi-cac-lenh-os-goi-tu-website-cua-ban/</link>
-      <pubDate>Tue, 06 Aug 2019 10:52:12 +0000</pubDate>
+      <pubDate>Tue, 06 Aug 2019 03:52:12 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/os-command-injection-la-gi-command-injection-co-nguy-hiem-khong-can-cuc-ky-than-trong-doi-voi-cac-lenh-os-goi-tu-website-cua-ban/</guid>
       <description>OS Command Injection là gì? OS Command Injection (hay còn được gọi là shell injection) là một lỗ hổng bảo mật web cho phép kẻ tấn công thực thi các lệnh hệ điều hành (OS) tùy ý trên máy chủ đang chạy service nào đó. Kẻ tấn công có thể tận dụng lỗ hổng này để khai thác, lấy thông tin, chuyển cuộc tấn công sang hệ thống khác bên trong tổ chức Thực hiện các lệnh tùy ý Ví dụ: https://insecure-website.</description>
@@ -106,7 +106,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>Linux: broken permission and object lifetime handling for PTRACE_TRACEME - Chiếm quyền root hầu hết các máy chạy Linux</title>
       <link>https://minhtuanact.ml/posts/linux-broken-permission-and-object-lifetime-handling-for-ptrace-traceme-chiem-quyen-root-hau-het-cac-may-chay-linux/</link>
-      <pubDate>Fri, 26 Jul 2019 09:08:58 +0000</pubDate>
+      <pubDate>Fri, 26 Jul 2019 02:08:58 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/linux-broken-permission-and-object-lifetime-handling-for-ptrace-traceme-chiem-quyen-root-hau-het-cac-may-chay-linux/</guid>
       <description>Mở đầu  Ngày hôm qua, 1 thành viên trong đội của tôi đã gửi cho tôi 1 bài post trên facebook nói về con CVE-2019-13272 này. Sau một hồi tìm hiểu thì con CVE này cực kì nghiêm trọng. Nó có thể chiếm quyền root máy của bạn chỉ sau đúng một nốt nhạc. Bài viết này chỉ mang tính giới thiệu, bạn nào muốn tìm hiểu về cách thức hoạt động của con CVE-2019-13272 thì bạn có thể tìm hiểu trên mạng nhé ^^.</description>
@@ -115,7 +115,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>VulnHub CTF - symfonos: 1 - Vẫn là một vài plugin của Wordpress, cẩn thận khi sử dụng plugin bên Wordpress - SMTP - Từ LFI cho đến Remote Code Excecution</title>
       <link>https://minhtuanact.ml/posts/vulnhub-ctf-symfonos-1-van-la-mot-vai-plugin-cua-wordpress-can-than-khi-su-dung-plugin-ben-wordpress-smtp-tu-lfi-cho-den-remote-code-excecution/</link>
-      <pubDate>Thu, 11 Jul 2019 10:25:07 +0000</pubDate>
+      <pubDate>Thu, 11 Jul 2019 03:25:07 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/vulnhub-ctf-symfonos-1-van-la-mot-vai-plugin-cua-wordpress-can-than-khi-su-dung-plugin-ben-wordpress-smtp-tu-lfi-cho-den-remote-code-excecution/</guid>
       <description>Mở đầu  Lại là mình đây, vào mấy hôm rảnh rỗi lại mò vào vulhub.com để kiếm mấy bài lab để học hỏi, kiếm được bài Difficulty: Beginner nên build lên làm luôn xem nó có Beginner không :v: Đây là một bài lab khá mới của tác giả Zayotic trong series symfonos. Link bài lab nếu ai muốn khám phá: symfonos: 1  Tấn công   Việc đầu tiên vẫn như thường ngày, build bài lab lên rồi quét địa chỉ ip của nó.</description>
@@ -124,7 +124,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>Sử dụng PHP query string parser để qua mặt IDS, IPS và WAF</title>
       <link>https://minhtuanact.ml/posts/su-dung-php-query-string-parser-de-qua-mat-ids-ips-va-waf/</link>
-      <pubDate>Tue, 09 Jul 2019 14:46:26 +0000</pubDate>
+      <pubDate>Tue, 09 Jul 2019 07:46:26 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/su-dung-php-query-string-parser-de-qua-mat-ids-ips-va-waf/</guid>
       <description>Mở đầu  Như bạn đã biết, PHP converts query string (trong URL hoặc body) thành một mảng bên trong $_GET hoặc $_POST. Ví dụ: /?foo=bar sẽ trở thành Array([foo] =&amp;gt; &amp;quot;bar&amp;quot;). Query string parsing sẽ loại bỏ hoặc thay thế một số ký tự trong tên đối số bằng dấu gạch dưới. Ví dụ: /?%20news[id%00=42 sẽ được chuyển thành Array([news_id] =&amp;gt; 42). Nếu IDS/IPS hoặc WAF có rules chặn hoặc ghi nhật ký các giá trị không phải là số trong tham số news_id thì có thể bỏ qua bằng cách sử dụng parsing process với nội dung như sau: 1  /news.</description>
@@ -133,7 +133,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>Cách ấn dữ liệu bí mật trong tệp hình ảnh hoặc âm thanh chỉ mất vài giây và vô cùng an toàn</title>
       <link>https://minhtuanact.ml/posts/cach-an-du-lieu-bi-mat-trong-tep-hinh-anh-hoac-am-thanh-chi-mat-vai-giay-va-vo-cung-an-toan/</link>
-      <pubDate>Tue, 02 Jul 2019 12:58:46 +0000</pubDate>
+      <pubDate>Tue, 02 Jul 2019 05:58:46 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/cach-an-du-lieu-bi-mat-trong-tep-hinh-anh-hoac-am-thanh-chi-mat-vai-giay-va-vo-cung-an-toan/</guid>
       <description>Mở đầu  Steganography là một nghệ thuật che giấu thông tin trong mắt người bình thường. Ở đây, mình sẽ hướng dẫn chỉ cho bạn cách sử dụng Steghide - một công cụ terminal rất đơn giản được sử dụng để làm việc đó. Mình sẽ giải thích về khái niệm để bạn hiểu về những gì đang xảy ra ở trong tập tin. Đây là một công cụ đơn giản, có thể cấu hình và chỉ mât vài giây để ẩn thông tin trong nhiều loại tệp khác nhau.</description>
@@ -142,7 +142,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>VulnHub CTF - Raven 2 Walkthrough - Vẫn là chiếm quyền root, lần này là Mysql</title>
       <link>https://minhtuanact.ml/posts/vulnhub-ctf-raven-2-walkthrough-van-la-chiem-quyen-root-lan-nay-la-mysql/</link>
-      <pubDate>Thu, 20 Jun 2019 15:51:23 +0000</pubDate>
+      <pubDate>Thu, 20 Jun 2019 08:51:23 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/vulnhub-ctf-raven-2-walkthrough-van-la-chiem-quyen-root-lan-nay-la-mysql/</guid>
       <description>Mở đầu  Dạo này mình rất có hứng thú với mấy bài lab trên VulnHub.com. Lần này lại là một bài nữa, có thể chọc ngoáy khá nhiều vấn đề ở bài này. Bạn nào muốn build lên làm thử thì qua link này Raven: 2 Thôi thì bắt đầu vào chiến thôi. Bài này có tất cả là 4 cờ. Mình đi theo hướng tìm lần lượt 4 cờ luôn nhé.</description>
@@ -151,7 +151,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>VulnHub CTF - Silky-CTF: 0x02 - Lỗi Buffer OverFlow</title>
       <link>https://minhtuanact.ml/posts/vulnhub-ctf-silky-ctf-0x02-loi-buffer-overflow/</link>
-      <pubDate>Tue, 18 Jun 2019 11:21:04 +0000</pubDate>
+      <pubDate>Tue, 18 Jun 2019 04:21:04 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/vulnhub-ctf-silky-ctf-0x02-loi-buffer-overflow/</guid>
       <description>Mở đầu  Lại là mình đây, vẫn là cái serie vào /root để lấy cờ :joy_cat::joy_cat::joy_cat:. Vẫn là mấy bài lab trên VulnHub.com. Lần này sẽ là một bài khá đơn giản về lỗi Buffer OverFlow. Silky-CTF: 0x02, Link bài lab, các bạn có thể tải về và build nó lên rồi làm thử nhé. Nếu mà chưa làm được hay bí bách chỗ nào thì kéo xuống dưới nè.</description>
@@ -160,7 +160,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>VulnHub CTF - DC-2 - Cướp 5 flags và cái kết</title>
       <link>https://minhtuanact.ml/posts/vulnhub-ctf-dc-2-cuop-5-flags-va-cai-ket/</link>
-      <pubDate>Mon, 17 Jun 2019 08:02:36 +0000</pubDate>
+      <pubDate>Mon, 17 Jun 2019 01:02:36 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/vulnhub-ctf-dc-2-cuop-5-flags-va-cai-ket/</guid>
       <description>Mở đầu  Tiếp tục là mình đây, sau khi viết xong bài DC-3 Walkthrough - Cuộc phiêu lưu kỳ thú thì mình lại build lên lab nữa cho nhóm thử sức xem sao. Cụ thể là lab DC-2. Bài này có tất cả là 5 cờ, tính cả cờ cuối. Chúng ta phải tìm đủ 5 cờ đó mới hoàn thành bài lab này. Mọi người theo mình nhé.  Tấn công   Vẫn như các bài khác, đầu tiên mình phải dùng nmap quét tất cả các IP trong dải mạng của mình để tìm ra IP của lab.</description>
@@ -169,7 +169,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>VulnHub CTF - DC-3 Walkthrough - Cuộc phiêu lưu kỳ thú</title>
       <link>https://minhtuanact.ml/posts/vulnhub-ctf-dc-3-walkthrough-cuoc-phieu-luu-ky-thu/</link>
-      <pubDate>Fri, 14 Jun 2019 10:08:47 +0000</pubDate>
+      <pubDate>Fri, 14 Jun 2019 03:08:47 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/vulnhub-ctf-dc-3-walkthrough-cuoc-phieu-luu-ky-thu/</guid>
       <description>Mở đầu  Vào một ngày trời k được đẹp cho lắm, nắng khá gắt, captain có ném cho chúng tôi 1 đường link về mấy bài lab trên VulnHub. Và đây là một trong một số bài mà chúng tôi làm được. Các bài kia rồi cũng sẽ có bài viết nhanh thôi :D. Tôi có nhiệm vụ build con máy này lên, cũng không có khó khăn gì lắm.</description>
@@ -178,7 +178,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>Phần 9: SQL Injection</title>
       <link>https://minhtuanact.ml/posts/phan-9-sql-injection/</link>
-      <pubDate>Thu, 30 May 2019 14:19:51 +0000</pubDate>
+      <pubDate>Thu, 30 May 2019 07:19:51 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/phan-9-sql-injection/</guid>
       <description>Description  SQL ( /ˈɛs kjuː ˈɛl/, hoặc /ˈsiːkwəl/; Structured Query Language) hay ngôn ngữ truy vấn mang tính cấu trúc, là một loại ngôn ngữ máy tính phổ biến để tạo, sửa, và lấy dữ liệu từ một hệ quản trị cơ sở dữ liệu quan hệ. SQL Injection hoặc SQLi xảy ra khi có một lỗ hổng database-backed trên trang web cho phép Attacker truy vấn hoặc tấn công database của trang web.</description>
@@ -187,7 +187,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>Phần 5: HTML Injection</title>
       <link>https://minhtuanact.ml/posts/phan-5-html-injection/</link>
-      <pubDate>Wed, 29 May 2019 10:34:02 +0000</pubDate>
+      <pubDate>Wed, 29 May 2019 03:34:02 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/phan-5-html-injection/</guid>
       <description>Description  Hypertext Markup Language (HTML) injection đôi khi cũng hơi ảo ảo =)). Đây thực sự là một cuộc tấn công được thực hiện bởi một website cho phép người dùng inject HTML vào các trang web của mình bằng cái kiểu mà không giống người dùng bình thường nhập dữ liệu. Nói cách khác, HTML Injection được gây ra bởi việc nhận HTML. Thông thường, thông qua một số hình thức nhập, sau đó được hiện thị dưới dạng input form trên trang web.</description>
@@ -196,7 +196,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>Tổng hợp các câu hỏi phỏng vấn pentest - kiến thức chung (P2)</title>
       <link>https://minhtuanact.ml/posts/tong-hop-cac-cau-hoi-phong-van-pentest-kien-thuc-chung-p2/</link>
-      <pubDate>Fri, 24 May 2019 10:48:44 +0000</pubDate>
+      <pubDate>Fri, 24 May 2019 03:48:44 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/tong-hop-cac-cau-hoi-phong-van-pentest-kien-thuc-chung-p2/</guid>
       <description>Hỏi: Answer true or false and explain your answer: two-factor authentication protects against session hijacking? Trả lời:  Về câu trả lời này, mình vẫn chưa biết nên trả lời là đúng hay sai. Có 2 trường hợp xảy ra ở đây:  Trước khi bạn nhập mã xác minh gửi đến điện thoại hay ứng dụng hay đại loại là 1 mã OTP nào đó mà bên Server gửi cho bạn để xác minh đó đúng là bạn đăng nhập vào tài khoản của bạn.</description>
@@ -205,7 +205,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>Tổng hợp các câu hỏi phỏng vấn pentest - kiến thức chung (P1)</title>
       <link>https://minhtuanact.ml/posts/tong-hop-cac-cau-hoi-phong-van-pentest-kien-thuc-chung-p1/</link>
-      <pubDate>Thu, 23 May 2019 09:48:22 +0000</pubDate>
+      <pubDate>Thu, 23 May 2019 02:48:22 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/tong-hop-cac-cau-hoi-phong-van-pentest-kien-thuc-chung-p1/</guid>
       <description>Hỏi: What are the phases of a penetration test? Trả lời: Thông thường, pentest được chia ra làm 6 giai đoạn Sáu giai đoạn này rất quan trọng để lập kế hoạch và thực hiện thành công bài pentest. Đối với pentest thì có rất nhiều mảng pentest như Pentest Website, Pentest Network, Pentest Server. Nhưng nhìn chung thì Pentest có các giai đoạn như sau:

@@ -9,11 +9,11 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 09 Jul 2019 14:46:26 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/bypass/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jul 2019 07:46:26 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/bypass/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sử dụng PHP query string parser để qua mặt IDS, IPS và WAF</title>
       <link>https://minhtuanact.ml/posts/su-dung-php-query-string-parser-de-qua-mat-ids-ips-va-waf/</link>
-      <pubDate>Tue, 09 Jul 2019 14:46:26 +0000</pubDate>
+      <pubDate>Tue, 09 Jul 2019 07:46:26 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/posts/su-dung-php-query-string-parser-de-qua-mat-ids-ips-va-waf/</guid>
       <description>Mở đầu  Như bạn đã biết, PHP converts query string (trong URL hoặc body) thành một mảng bên trong $_GET hoặc $_POST. Ví dụ: /?foo=bar sẽ trở thành Array([foo] =&amp;gt; &amp;quot;bar&amp;quot;). Query string parsing sẽ loại bỏ hoặc thay thế một số ký tự trong tên đối số bằng dấu gạch dưới. Ví dụ: /?%20news[id%00=42 sẽ được chuyển thành Array([news_id] =&amp;gt; 42). Nếu IDS/IPS hoặc WAF có rules chặn hoặc ghi nhật ký các giá trị không phải là số trong tham số news_id thì có thể bỏ qua bằng cách sử dụng parsing process với nội dung như sau: 1  /news.</description>
