@@ -9,7 +9,16 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 15 Dec 2022 09:06:05 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Feb 2023 02:55:17 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build ChatGPT Telegram bot, đỡ phải login, daily limits</title>
+      <link>https://minhtuanact.ml/posts/build-chatgpt-telegram-bot-do-phai-login-daily-limits/</link>
+      <pubDate>Fri, 03 Feb 2023 02:55:17 +0000</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/build-chatgpt-telegram-bot-do-phai-login-daily-limits/</guid>
+      <description>Chắc hẳn có lẽ nhiều bạn sử dụng ChatGPT gặp tình trạng quá tải như thế này trên phiên bản web, cũng đúng vì ChatGPT tăng trưởng quá khủng khiếp, 100 triệu người dùng trong vòng có 60 ngày, mất 30 triệu đô để duy trì hệ thống. Hiện tại sắp tới ChatGPT có ra mắt phiên bản ChatGPT Plus với giá $20/tháng, tương ứng vào khoảng 1,5% người dùng hiện tại sử dụng thì mới đủ bù vào tiền duy trì hệ thống kia.</description>
+    </item>
+    
     <item>
       <title>Crawl truyện Conan để copy vào máy đọc sách 😫</title>
       <link>https://minhtuanact.ml/posts/crawl-truyen-conan-de-copy-vao-may-doc-sach/</link>
