@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Paid Memberships Pro on minhtuanact|Blog - Keep a flame in the rain!</title>
+    <link>https://minhtuanact.ml/tags/paid-memberships-pro/</link>
+    <description>Recent content in Paid Memberships Pro on minhtuanact|Blog - Keep a flame in the rain!</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 07 Mar 2023 14:24:08 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/paid-memberships-pro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phân tích CVE-2023-23488 Paid Memberships Pro &lt; 2.9.8 - Unauthenticated Blind SQLi và vấn đề với request trong Wordpress</title>
+      <link>https://minhtuanact.ml/posts/phan-tich-cve-2023-23488-paid-memberships-pro-298-unauthenticated-blind-sqli-va-van-de-voi-request-trong-wordpress/</link>
+      <pubDate>Tue, 07 Mar 2023 14:24:08 +0000</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/phan-tich-cve-2023-23488-paid-memberships-pro-298-unauthenticated-blind-sqli-va-van-de-voi-request-trong-wordpress/</guid>
+      <description>Xin chào mọi người, đã lâu rồi mình mới viết một bài phân tích CVE. Dạo gần đây xoay quanh nhiều chuyện :rice::shirt::ear_of_rice::money_with_wings: nên ít thời gian để viết lách. Bài viết này là một cơ hội tình cờ để mình tìm kiếm lỗ hổng trên WordPress. Tuy nhiên, mình đã bỏ qua rất nhiều trường hợp, và mình muốn chia sẻ với các bạn về một lỗ hổng cụ thể.</description>
+    </item>
+    
+  </channel>
+</rss>
