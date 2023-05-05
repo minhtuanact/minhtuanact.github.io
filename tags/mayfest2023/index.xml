@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MayFest2023 on minhtuanact|Blog - Keep a flame in the rain!</title>
+    <link>https://minhtuanact.ml/tags/mayfest2023/</link>
+    <description>Recent content in MayFest2023 on minhtuanact|Blog - Keep a flame in the rain!</description>
+    <image>
+      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 05 May 2023 07:51:32 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/mayfest2023/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phân tích CVE-2020-10644 - Inductive Automation Ignition RCE</title>
+      <link>https://minhtuanact.ml/posts/phan-tich-cve-2020-10644-inductive-automation-ignition-rce/</link>
+      <pubDate>Fri, 05 May 2023 07:51:32 +0000</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/phan-tich-cve-2020-10644-inductive-automation-ignition-rce/</guid>
+      <description>Vào một buổi chiều, em teammate @lengocanh có rủ mình phân tích một vài CVE của Inductive Automation Ignition. Ở đây mình chọn một CVE phân tích khá đơn giản là CVE-2020-10644 để khởi đầu chuỗi series phân tích các lỗ hổng của Inductive Automation Ignition. Đây là lỗ hổng được team Flashback tìm ra và đem tham dự Pwn2Own Miami 2020 vào tháng 1/2020. Lỗ hổng này cho phép attacker có thể RCE unauthen đến server đang chạy Inductive Automation Ignition từ phiên bản 8.</description>
+    </item>
+    
+  </channel>
+</rss>

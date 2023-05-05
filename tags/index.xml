@@ -9,22 +9,67 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 07 Mar 2023 14:24:08 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 May 2023 07:51:32 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CVE-2023-23488</title>
-      <link>https://minhtuanact.ml/tags/cve-2023-23488/</link>
-      <pubDate>Tue, 07 Mar 2023 14:24:08 +0000</pubDate>
+      <title>Automation</title>
+      <link>https://minhtuanact.ml/tags/automation/</link>
+      <pubDate>Fri, 05 May 2023 07:51:32 +0000</pubDate>
       
-      <guid>https://minhtuanact.ml/tags/cve-2023-23488/</guid>
+      <guid>https://minhtuanact.ml/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ContentCreator</title>
+      <link>https://minhtuanact.ml/tags/contentcreator/</link>
+      <pubDate>Fri, 05 May 2023 07:51:32 +0000</pubDate>
+      
+      <guid>https://minhtuanact.ml/tags/contentcreator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CyberSecurity</title>
       <link>https://minhtuanact.ml/tags/cybersecurity/</link>
-      <pubDate>Tue, 07 Mar 2023 14:24:08 +0000</pubDate>
+      <pubDate>Fri, 05 May 2023 07:51:32 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ignition</title>
+      <link>https://minhtuanact.ml/tags/ignition/</link>
+      <pubDate>Fri, 05 May 2023 07:51:32 +0000</pubDate>
+      
+      <guid>https://minhtuanact.ml/tags/ignition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MayFest2023</title>
+      <link>https://minhtuanact.ml/tags/mayfest2023/</link>
+      <pubDate>Fri, 05 May 2023 07:51:32 +0000</pubDate>
+      
+      <guid>https://minhtuanact.ml/tags/mayfest2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RCE</title>
+      <link>https://minhtuanact.ml/tags/rce/</link>
+      <pubDate>Fri, 05 May 2023 07:51:32 +0000</pubDate>
+      
+      <guid>https://minhtuanact.ml/tags/rce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CVE-2023-23488</title>
+      <link>https://minhtuanact.ml/tags/cve-2023-23488/</link>
+      <pubDate>Tue, 07 Mar 2023 14:24:08 +0000</pubDate>
+      
+      <guid>https://minhtuanact.ml/tags/cve-2023-23488/</guid>
       <description></description>
     </item>
     
@@ -52,15 +97,6 @@
       <pubDate>Fri, 03 Feb 2023 02:55:17 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/tags/chatgpt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ContentCreator</title>
-      <link>https://minhtuanact.ml/tags/contentcreator/</link>
-      <pubDate>Fri, 03 Feb 2023 02:55:17 +0000</pubDate>
-      
-      <guid>https://minhtuanact.ml/tags/contentcreator/</guid>
       <description></description>
     </item>
     
@@ -322,15 +358,6 @@
       <pubDate>Fri, 11 Feb 2022 12:20:29 +0000</pubDate>
       
       <guid>https://minhtuanact.ml/tags/cve-2021-22941/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RCE</title>
-      <link>https://minhtuanact.ml/tags/rce/</link>
-      <pubDate>Fri, 11 Feb 2022 12:20:29 +0000</pubDate>
-      
-      <guid>https://minhtuanact.ml/tags/rce/</guid>
       <description></description>
     </item>
     

@@ -9,7 +9,16 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 07 Mar 2023 14:24:08 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 May 2023 07:51:32 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phân tích CVE-2020-10644 - Inductive Automation Ignition RCE</title>
+      <link>https://minhtuanact.ml/posts/phan-tich-cve-2020-10644-inductive-automation-ignition-rce/</link>
+      <pubDate>Fri, 05 May 2023 07:51:32 +0000</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/phan-tich-cve-2020-10644-inductive-automation-ignition-rce/</guid>
+      <description>Vào một buổi chiều, em teammate @lengocanh có rủ mình phân tích một vài CVE của Inductive Automation Ignition. Ở đây mình chọn một CVE phân tích khá đơn giản là CVE-2020-10644 để khởi đầu chuỗi series phân tích các lỗ hổng của Inductive Automation Ignition. Đây là lỗ hổng được team Flashback tìm ra và đem tham dự Pwn2Own Miami 2020 vào tháng 1/2020. Lỗ hổng này cho phép attacker có thể RCE unauthen đến server đang chạy Inductive Automation Ignition từ phiên bản 8.</description>
+    </item>
+    
     <item>
       <title>Phân tích CVE-2023-23488 Paid Memberships Pro &lt; 2.9.8 - Unauthenticated Blind SQLi và vấn đề với request trong Wordpress</title>
       <link>https://minhtuanact.ml/posts/phan-tich-cve-2023-23488-paid-memberships-pro-298-unauthenticated-blind-sqli-va-van-de-voi-request-trong-wordpress/</link>

@@ -2,25 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minhtuanact.ml/tags/cve-2023-23488/</loc>
-    <lastmod>2023-03-07T14:24:08+00:00</lastmod>
+    <loc>https://minhtuanact.ml/tags/automation/</loc>
+    <lastmod>2023-05-05T07:51:32+00:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.ml/tags/contentcreator/</loc>
+    <lastmod>2023-05-05T07:51:32+00:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.ml/tags/cybersecurity/</loc>
-    <lastmod>2023-03-07T14:24:08+00:00</lastmod>
+    <lastmod>2023-05-05T07:51:32+00:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.ml/tags/ignition/</loc>
+    <lastmod>2023-05-05T07:51:32+00:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.ml/tags/mayfest2023/</loc>
+    <lastmod>2023-05-05T07:51:32+00:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.ml/</loc>
+    <lastmod>2023-05-05T07:51:32+00:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/phan-tich-cve-2020-10644-inductive-automation-ignition-rce/</loc>
+    <lastmod>2023-05-05T07:51:32+00:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/</loc>
+    <lastmod>2023-05-05T07:51:32+00:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.ml/tags/rce/</loc>
+    <lastmod>2023-05-05T07:51:32+00:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.ml/tags/</loc>
+    <lastmod>2023-05-05T07:51:32+00:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.ml/tags/cve-2023-23488/</loc>
     <lastmod>2023-03-07T14:24:08+00:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.ml/tags/paid-memberships-pro/</loc>
     <lastmod>2023-03-07T14:24:08+00:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.ml/posts/phan-tich-cve-2023-23488-paid-memberships-pro-298-unauthenticated-blind-sqli-va-van-de-voi-request-trong-wordpress/</loc>
-    <lastmod>2023-03-07T14:24:08+00:00</lastmod>
-  </url><url>
-    <loc>https://minhtuanact.ml/posts/</loc>
-    <lastmod>2023-03-07T14:24:08+00:00</lastmod>
-  </url><url>
-    <loc>https://minhtuanact.ml/tags/</loc>
     <lastmod>2023-03-07T14:24:08+00:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.ml/tags/wordpress/</loc>
@@ -30,9 +48,6 @@
     <lastmod>2023-02-03T02:55:17+00:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.ml/tags/chatgpt/</loc>
-    <lastmod>2023-02-03T02:55:17+00:00</lastmod>
-  </url><url>
-    <loc>https://minhtuanact.ml/tags/contentcreator/</loc>
     <lastmod>2023-02-03T02:55:17+00:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.ml/tags/khaibutdauxuan/</loc>
@@ -147,9 +162,6 @@
     <lastmod>2022-02-11T12:20:29+00:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.ml/posts/phan-tich-cve-2021-22941-rce-citrix-sharefile-51120/</loc>
-    <lastmod>2022-02-11T12:20:29+00:00</lastmod>
-  </url><url>
-    <loc>https://minhtuanact.ml/tags/rce/</loc>
     <lastmod>2022-02-11T12:20:29+00:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.ml/tags/debug/</loc>
