@@ -2,34 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minhtuanact.ml/tags/automation/</loc>
-    <lastmod>2023-05-05T07:51:32+00:00</lastmod>
-  </url><url>
     <loc>https://minhtuanact.ml/tags/contentcreator/</loc>
-    <lastmod>2023-05-05T07:51:32+00:00</lastmod>
+    <lastmod>2023-05-17T08:58:26+00:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.ml/tags/cybersecurity/</loc>
+    <lastmod>2023-05-17T08:58:26+00:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.ml/tags/hacking/</loc>
+    <lastmod>2023-05-17T08:58:26+00:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.ml/tags/mayfest2023/</loc>
+    <lastmod>2023-05-17T08:58:26+00:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.ml/</loc>
+    <lastmod>2023-05-17T08:58:26+00:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/</loc>
+    <lastmod>2023-05-17T08:58:26+00:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.ml/tags/saml/</loc>
+    <lastmod>2023-05-17T08:58:26+00:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.ml/posts/saml-hacking-phan-1-gioi-thieu-ve-saml/</loc>
+    <lastmod>2023-05-17T08:58:26+00:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.ml/tags/</loc>
+    <lastmod>2023-05-17T08:58:26+00:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.ml/tags/automation/</loc>
     <lastmod>2023-05-05T07:51:32+00:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.ml/tags/ignition/</loc>
     <lastmod>2023-05-05T07:51:32+00:00</lastmod>
   </url><url>
-    <loc>https://minhtuanact.ml/tags/mayfest2023/</loc>
-    <lastmod>2023-05-05T07:51:32+00:00</lastmod>
-  </url><url>
-    <loc>https://minhtuanact.ml/</loc>
-    <lastmod>2023-05-05T07:51:32+00:00</lastmod>
-  </url><url>
     <loc>https://minhtuanact.ml/posts/phan-tich-cve-2020-10644-inductive-automation-ignition-rce/</loc>
     <lastmod>2023-05-05T07:51:32+00:00</lastmod>
   </url><url>
-    <loc>https://minhtuanact.ml/posts/</loc>
-    <lastmod>2023-05-05T07:51:32+00:00</lastmod>
-  </url><url>
     <loc>https://minhtuanact.ml/tags/rce/</loc>
-    <lastmod>2023-05-05T07:51:32+00:00</lastmod>
-  </url><url>
-    <loc>https://minhtuanact.ml/tags/</loc>
     <lastmod>2023-05-05T07:51:32+00:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.ml/tags/cve-2023-23488/</loc>
