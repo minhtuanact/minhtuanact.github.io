@@ -9,11 +9,11 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Feb 2021 03:02:43 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/lfi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Feb 2021 10:02:43 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/lfi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PDF Export, cẩn thận với những input có thể truyền vào</title>
       <link>https://minhtuanact.ml/posts/pdf-export-can-than-voi-nhung-input-co-the-truyen-vao/</link>
-      <pubDate>Mon, 22 Feb 2021 03:02:43 +0000</pubDate>
+      <pubDate>Mon, 22 Feb 2021 10:02:43 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/pdf-export-can-than-voi-nhung-input-co-the-truyen-vao/</guid>
       <description>Giới thiệu Dạo gần đây mình tình cờ gặp rất nhiều lỗi XSS, tuy nhiên trang đó lại có sử dụng dữ liệu người dùng input vào để export ra PDF. Vậy làm sao để có thể nâng impact lên mức cao hơn, mình cũng đã gặp nhiều case dễ dàng có, khó khăn cũng có, hi vọng bài biết này của mình sẽ giúp bạn đọc hiểu rõ vấn đề khi code hoặc pentest 1 tính năng export PDF.</description>

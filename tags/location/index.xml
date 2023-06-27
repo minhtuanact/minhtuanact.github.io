@@ -9,11 +9,11 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 04 Jan 2021 03:44:52 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/location/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 10:44:52 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/location/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Các cấu hình sai Nginx phổ biến khiến web server của bạn gặp nguy hiểm (Part 1)</title>
       <link>https://minhtuanact.ml/posts/cac-cau-hinh-sai-nginx-pho-bien-khien-web-server-cua-ban-gap-nguy-hiem-part-1/</link>
-      <pubDate>Mon, 04 Jan 2021 03:44:52 +0000</pubDate>
+      <pubDate>Mon, 04 Jan 2021 10:44:52 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/cac-cau-hinh-sai-nginx-pho-bien-khien-web-server-cua-ban-gap-nguy-hiem-part-1/</guid>
       <description>Intro Nginx được sử dụng làm web server, reverse proxy mạnh mẽ, nginx được cài đặt cho khoảng 1/3 số web site trên thế giới này. Trong bài viết này sẽ là một số cấu hình sai Nginx phổ biến mà với các cấu hình như vậy, web server của bạn sẽ dễ dàng bị tấn công

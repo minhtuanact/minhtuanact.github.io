@@ -9,11 +9,11 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 30 May 2019 07:19:51 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 May 2019 14:19:51 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/sql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Phần 9: SQL Injection</title>
       <link>https://minhtuanact.ml/posts/phan-9-sql-injection/</link>
-      <pubDate>Thu, 30 May 2019 07:19:51 +0000</pubDate>
+      <pubDate>Thu, 30 May 2019 14:19:51 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/phan-9-sql-injection/</guid>
       <description>Description  SQL ( /ˈɛs kjuː ˈɛl/, hoặc /ˈsiːkwəl/; Structured Query Language) hay ngôn ngữ truy vấn mang tính cấu trúc, là một loại ngôn ngữ máy tính phổ biến để tạo, sửa, và lấy dữ liệu từ một hệ quản trị cơ sở dữ liệu quan hệ. SQL Injection hoặc SQLi xảy ra khi có một lỗ hổng database-backed trên trang web cho phép Attacker truy vấn hoặc tấn công database của trang web.</description>

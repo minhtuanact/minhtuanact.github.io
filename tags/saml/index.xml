@@ -9,11 +9,21 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 17 May 2023 08:58:26 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/saml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Jun 2023 10:46:00 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/saml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SAML Hacking (phần 2) - XML Signatures</title>
+      <link>https://minhtuanact.ml/posts/saml-hacking-phan-2-xml-signatures/</link>
+      <pubDate>Tue, 20 Jun 2023 10:46:00 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/saml-hacking-phan-2-xml-signatures/</guid>
+      <description>Ở phần trước (nếu bạn nào chưa đọc phần 1 thì có thể tìm và đọc tại đây https://viblo.asia/p/saml-hacking-phan-1-gioi-thieu-ve-saml-Ny0VGd384PA) mình có nói về cách thức hoạt động của SAML. Phần này mình sẽ tiếp tục chia sẻ những gì mình biết về các lỗ hổng có thể tồn tại trong việc triển khai SAML.
+XML Signatures 1 2 3 4 5 6 7  &amp;lt;Response&amp;gt; &amp;lt;Signature&amp;gt; &amp;lt;SignedInfo&amp;gt;...&amp;lt;/SignedInfo&amp;gt; &amp;lt;SignatureValue&amp;gt;...&amp;lt;/SignatureValue&amp;gt; &amp;lt;KeyInfo&amp;gt;...&amp;lt;/KeyInfo&amp;gt; &amp;lt;/Signature&amp;gt; &amp;lt;Response&amp;gt;   Như nội dung phần trước, &amp;lt;Signature&amp;gt; là chứng thực ký số của SAML Response, đảm bảo tính toàn vẹn và xác thực của dữ liệu SAML Response gửi về SP.</description>
+    </item>
+    
     <item>
       <title>SAML Hacking (phần 1) - Giới thiệu về SAML</title>
       <link>https://minhtuanact.ml/posts/saml-hacking-phan-1-gioi-thieu-ve-saml/</link>
-      <pubDate>Wed, 17 May 2023 08:58:26 +0000</pubDate>
+      <pubDate>Wed, 17 May 2023 15:58:26 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/saml-hacking-phan-1-gioi-thieu-ve-saml/</guid>
       <description>Đây là bài mở đầu của series SAML Hacking mà mình tìm hiểu được trong thời gian vừa qua, bài đầu tiên sẽ giới thiệu về SAML và cách thức hoạt động của nó.

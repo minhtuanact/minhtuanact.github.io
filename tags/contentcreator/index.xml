@@ -9,11 +9,21 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 17 May 2023 08:58:26 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/contentcreator/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Jun 2023 10:46:00 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/contentcreator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SAML Hacking (phần 2) - XML Signatures</title>
+      <link>https://minhtuanact.ml/posts/saml-hacking-phan-2-xml-signatures/</link>
+      <pubDate>Tue, 20 Jun 2023 10:46:00 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/saml-hacking-phan-2-xml-signatures/</guid>
+      <description>Ở phần trước (nếu bạn nào chưa đọc phần 1 thì có thể tìm và đọc tại đây https://viblo.asia/p/saml-hacking-phan-1-gioi-thieu-ve-saml-Ny0VGd384PA) mình có nói về cách thức hoạt động của SAML. Phần này mình sẽ tiếp tục chia sẻ những gì mình biết về các lỗ hổng có thể tồn tại trong việc triển khai SAML.
+XML Signatures 1 2 3 4 5 6 7  &amp;lt;Response&amp;gt; &amp;lt;Signature&amp;gt; &amp;lt;SignedInfo&amp;gt;...&amp;lt;/SignedInfo&amp;gt; &amp;lt;SignatureValue&amp;gt;...&amp;lt;/SignatureValue&amp;gt; &amp;lt;KeyInfo&amp;gt;...&amp;lt;/KeyInfo&amp;gt; &amp;lt;/Signature&amp;gt; &amp;lt;Response&amp;gt;   Như nội dung phần trước, &amp;lt;Signature&amp;gt; là chứng thực ký số của SAML Response, đảm bảo tính toàn vẹn và xác thực của dữ liệu SAML Response gửi về SP.</description>
+    </item>
+    
     <item>
       <title>SAML Hacking (phần 1) - Giới thiệu về SAML</title>
       <link>https://minhtuanact.ml/posts/saml-hacking-phan-1-gioi-thieu-ve-saml/</link>
-      <pubDate>Wed, 17 May 2023 08:58:26 +0000</pubDate>
+      <pubDate>Wed, 17 May 2023 15:58:26 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/saml-hacking-phan-1-gioi-thieu-ve-saml/</guid>
       <description>Đây là bài mở đầu của series SAML Hacking mà mình tìm hiểu được trong thời gian vừa qua, bài đầu tiên sẽ giới thiệu về SAML và cách thức hoạt động của nó.
@@ -23,7 +33,7 @@ SAML là gì? SAML (Security Assertion Markup Language) là một chuẩn giao t
     <item>
       <title>Phân tích CVE-2020-10644 - Inductive Automation Ignition RCE</title>
       <link>https://minhtuanact.ml/posts/phan-tich-cve-2020-10644-inductive-automation-ignition-rce/</link>
-      <pubDate>Fri, 05 May 2023 07:51:32 +0000</pubDate>
+      <pubDate>Fri, 05 May 2023 14:51:32 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/phan-tich-cve-2020-10644-inductive-automation-ignition-rce/</guid>
       <description>Vào một buổi chiều, em teammate @lengocanh có rủ mình phân tích một vài CVE của Inductive Automation Ignition. Ở đây mình chọn một CVE phân tích khá đơn giản là CVE-2020-10644 để khởi đầu chuỗi series phân tích các lỗ hổng của Inductive Automation Ignition. Đây là lỗ hổng được team Flashback tìm ra và đem tham dự Pwn2Own Miami 2020 vào tháng 1/2020. Lỗ hổng này cho phép attacker có thể RCE unauthen đến server đang chạy Inductive Automation Ignition từ phiên bản 8.</description>
@@ -32,7 +42,7 @@ SAML là gì? SAML (Security Assertion Markup Language) là một chuẩn giao t
     <item>
       <title>Phân tích CVE-2023-23488 Paid Memberships Pro &lt; 2.9.8 - Unauthenticated Blind SQLi và vấn đề với request trong Wordpress</title>
       <link>https://minhtuanact.ml/posts/phan-tich-cve-2023-23488-paid-memberships-pro-298-unauthenticated-blind-sqli-va-van-de-voi-request-trong-wordpress/</link>
-      <pubDate>Tue, 07 Mar 2023 14:24:08 +0000</pubDate>
+      <pubDate>Tue, 07 Mar 2023 21:24:08 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/phan-tich-cve-2023-23488-paid-memberships-pro-298-unauthenticated-blind-sqli-va-van-de-voi-request-trong-wordpress/</guid>
       <description>Xin chào mọi người, đã lâu rồi mình mới viết một bài phân tích CVE. Dạo gần đây xoay quanh nhiều chuyện :rice::shirt::ear_of_rice::money_with_wings: nên ít thời gian để viết lách. Bài viết này là một cơ hội tình cờ để mình tìm kiếm lỗ hổng trên WordPress. Tuy nhiên, mình đã bỏ qua rất nhiều trường hợp, và mình muốn chia sẻ với các bạn về một lỗ hổng cụ thể.</description>
@@ -41,7 +51,7 @@ SAML là gì? SAML (Security Assertion Markup Language) là một chuẩn giao t
     <item>
       <title>Build ChatGPT Telegram bot, đỡ phải login, daily limits</title>
       <link>https://minhtuanact.ml/posts/build-chatgpt-telegram-bot-do-phai-login-daily-limits/</link>
-      <pubDate>Fri, 03 Feb 2023 02:55:17 +0000</pubDate>
+      <pubDate>Fri, 03 Feb 2023 09:55:17 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/build-chatgpt-telegram-bot-do-phai-login-daily-limits/</guid>
       <description>Chắc hẳn có lẽ nhiều bạn sử dụng ChatGPT gặp tình trạng quá tải như thế này trên phiên bản web, cũng đúng vì ChatGPT tăng trưởng quá khủng khiếp, 100 triệu người dùng trong vòng có 60 ngày, mất 30 triệu đô để duy trì hệ thống. Hiện tại sắp tới ChatGPT có ra mắt phiên bản ChatGPT Plus với giá $20/tháng, tương ứng vào khoảng 1,5% người dùng hiện tại sử dụng thì mới đủ bù vào tiền duy trì hệ thống kia.</description>
@@ -50,7 +60,7 @@ SAML là gì? SAML (Security Assertion Markup Language) là một chuẩn giao t
     <item>
       <title>Crawl truyện Conan để copy vào máy đọc sách 😫</title>
       <link>https://minhtuanact.ml/posts/crawl-truyen-conan-de-copy-vao-may-doc-sach/</link>
-      <pubDate>Thu, 15 Dec 2022 09:06:05 +0000</pubDate>
+      <pubDate>Thu, 15 Dec 2022 16:06:05 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/crawl-truyen-conan-de-copy-vao-may-doc-sach/</guid>
       <description>Mình là một người thích đọc, sau một thời gian đọc những truyện voz buồn cứ phải gọi là &amp;hellip; như Ranh Giới của rain8x, hay Ngày Hôm Qua Đã Từng của Nguyễn Mon, ..v.v. và hằng hà sa số truyện chữ khác thì mình quyết định chuyển sang đọc truyện tranh (người đời gọi như vậy chứ toàn thấy ae gọi là đọc manga). Thật tình cờ mình cũng có cái máy kindle để đọc sách (ngựa ngựa mua về để đọc sách chứ toàn đọc truyện tranh là chính), down mấy truyện Conan trên mạng (người ta gọi đó là sách lậu) copy vào Kindle ppw4 thì cảm thấy hơi mờ + bị kéo giãn hình ra trông xấu mù, đầu Conan hình tròn nó kéo thành hình cái bánh mì luôn.</description>
@@ -59,7 +69,7 @@ SAML là gì? SAML (Security Assertion Markup Language) là một chuẩn giao t
     <item>
       <title>Setup XSS Hunter Express (self-hosted) để khai thác XSS</title>
       <link>https://minhtuanact.ml/posts/setup-xss-hunter-express-self-hosted-de-khai-thac-xss/</link>
-      <pubDate>Thu, 03 Nov 2022 07:55:27 +0000</pubDate>
+      <pubDate>Thu, 03 Nov 2022 14:55:27 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/setup-xss-hunter-express-self-hosted-de-khai-thac-xss/</guid>
       <description>Chẳng là ai là bug bounty hunter, pentester, researcher security cũng đã từng biết đến công cụ khai thác lỗ hổng XSS XSSHunter. Công cụ này giúp cho các bạn có thể test, khai thác các lỗ hổng XSS (nhưng chủ yếu là blind XSS), hoặc dùng để PoC cho các Triager của các Platform Bug bounty verify cho nó nhanh :joy:
@@ -69,7 +79,7 @@ Tuy nhiên, @IAmMandatory đã thông báo rằng XSS Hunter sắp được shut
     <item>
       <title>Cùng tìm hiểu về RFID, công nghệ &#34;tiên tiến&#34; Việt Nam đang sử dụng với ETC (thu phí không dừng)</title>
       <link>https://minhtuanact.ml/posts/cung-tim-hieu-ve-rfid-cong-nghe-tien-tien-viet-nam-dang-su-dung-voi-etc-thu-phi-khong-dung/</link>
-      <pubDate>Thu, 22 Sep 2022 07:02:12 +0000</pubDate>
+      <pubDate>Thu, 22 Sep 2022 14:02:12 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/cung-tim-hieu-ve-rfid-cong-nghe-tien-tien-viet-nam-dang-su-dung-voi-etc-thu-phi-khong-dung/</guid>
       <description>Bữa lâu lâu rồi mình có đọc được thông tin này từ 1 page có tích xanh Thông tin real nó ở đây, các bạn có thể vào đọc :D https://www.facebook.com/thongtinchinhphu/posts/pfbid0Uuqh9DKGVVES7T5ApQDepxa6WNw3YMuDtsMxFKERc5QttHWgBNvVJvVNVRZUNkxpl
@@ -79,7 +89,7 @@ Tuy nhiên, @IAmMandatory đã thông báo rằng XSS Hunter sắp được shut
     <item>
       <title>FlipperZero - Trợ thủ đắc lực cho pentesters và geeks</title>
       <link>https://minhtuanact.ml/posts/flipperzero-tro-thu-dac-luc-cho-pentesters-va-geeks/</link>
-      <pubDate>Mon, 01 Aug 2022 03:13:27 +0000</pubDate>
+      <pubDate>Mon, 01 Aug 2022 10:13:27 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/flipperzero-tro-thu-dac-luc-cho-pentesters-va-geeks/</guid>
       <description>Dạo gần đây mình lên Twitter thấy mọi người share 1 tool (gần như là 1 đồ chơi) thú vị quá, nên mình share lên đây cho mọi người biết và tiếp cận đến nó :D
@@ -91,7 +101,7 @@ Tuy nhiên, @IAmMandatory đã thông báo rằng XSS Hunter sắp được shut
     <item>
       <title>RCE với Dependency Confusion</title>
       <link>https://minhtuanact.ml/posts/rce-voi-dependency-confusion/</link>
-      <pubDate>Wed, 18 May 2022 03:55:34 +0000</pubDate>
+      <pubDate>Wed, 18 May 2022 10:55:34 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/rce-voi-dependency-confusion/</guid>
       <description>Bài viết này được dịch và viết theo ý hiểu của người viết thông qua nhiều nguồn
@@ -102,7 +112,7 @@ Tuy nhiên, @IAmMandatory đã thông báo rằng XSS Hunter sắp được shut
     <item>
       <title>SSH Tunneling - Local Port Forwarding và Remote Port Forwarding (update Dynamic Port Forwarding)</title>
       <link>https://minhtuanact.ml/posts/ssh-tunneling-local-port-forwarding-va-remote-port-forwarding-update-dynamic-port-forwarding/</link>
-      <pubDate>Thu, 30 Apr 2020 23:22:04 +0000</pubDate>
+      <pubDate>Fri, 01 May 2020 06:22:04 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/ssh-tunneling-local-port-forwarding-va-remote-port-forwarding-update-dynamic-port-forwarding/</guid>
       <description>SSH Tunneling Giao thức SSH hiện nay là một trong những giao thức phổ biến nhất để tunneling và port forwarding. SSH Tunnel cho phép trao đổi dữ liệu thông qua một kênh mã hoá. Với việc thiết lập SSH Tunnel cực kỳ đơn giản và nhiều ứng dụng nên giao thức này ngày càng phổ biến. Ở bài viết này mình sẽ nói về một số ứng dụng của SSH Tunnel.</description>
@@ -111,7 +121,7 @@ Tuy nhiên, @IAmMandatory đã thông báo rằng XSS Hunter sắp được shut
     <item>
       <title>Tìm kiếm các lỗi IDOR, chưa bao giờ lại dễ đến thế với extension Autorize</title>
       <link>https://minhtuanact.ml/posts/tim-kiem-cac-loi-idor-chua-bao-gio-lai-de-den-the-voi-extension-autorize/</link>
-      <pubDate>Mon, 16 Dec 2019 04:14:13 +0000</pubDate>
+      <pubDate>Mon, 16 Dec 2019 11:14:13 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/tim-kiem-cac-loi-idor-chua-bao-gio-lai-de-den-the-voi-extension-autorize/</guid>
       <description>Chắc hẳn việc tìm lỗi IDOR luôn là công việc thường xuyên của những pentester hay các hunters. Nhưng mà lỗi IDOR ở đây là gì nhỉ :-?

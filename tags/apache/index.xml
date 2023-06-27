@@ -9,11 +9,11 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 14 Sep 2021 07:38:55 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/apache/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Sep 2021 14:38:55 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/apache/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Phân tích lỗ hổng uploadfile trên Apache Ofbiz (CVE-2021-37608 bypass)</title>
       <link>https://minhtuanact.ml/posts/phan-tich-lo-hong-uploadfile-tren-apache-ofbiz-cve-2021-37608-bypass/</link>
-      <pubDate>Tue, 14 Sep 2021 07:38:55 +0000</pubDate>
+      <pubDate>Tue, 14 Sep 2021 14:38:55 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/phan-tich-lo-hong-uploadfile-tren-apache-ofbiz-cve-2021-37608-bypass/</guid>
       <description>Gần đây mình thấy có 1 CVE với Apache Ofbiz CVE-2021-37608, các bạn có thể đọc thêm issue tại đây https://issues.apache.org/jira/browse/OFBIZ-12297, tuy nhiên mình cảm thấy bản patch hơi ảo ma 1 chút

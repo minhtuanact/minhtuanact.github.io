@@ -9,11 +9,11 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 16 Dec 2019 04:14:13 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/idor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Dec 2019 11:14:13 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/idor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tìm kiếm các lỗi IDOR, chưa bao giờ lại dễ đến thế với extension Autorize</title>
       <link>https://minhtuanact.ml/posts/tim-kiem-cac-loi-idor-chua-bao-gio-lai-de-den-the-voi-extension-autorize/</link>
-      <pubDate>Mon, 16 Dec 2019 04:14:13 +0000</pubDate>
+      <pubDate>Mon, 16 Dec 2019 11:14:13 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/tim-kiem-cac-loi-idor-chua-bao-gio-lai-de-den-the-voi-extension-autorize/</guid>
       <description>Chắc hẳn việc tìm lỗi IDOR luôn là công việc thường xuyên của những pentester hay các hunters. Nhưng mà lỗi IDOR ở đây là gì nhỉ :-?

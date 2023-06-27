@@ -9,11 +9,21 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 17 May 2023 08:58:26 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Jun 2023 10:46:00 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SAML Hacking (phần 2) - XML Signatures</title>
+      <link>https://minhtuanact.ml/posts/saml-hacking-phan-2-xml-signatures/</link>
+      <pubDate>Tue, 20 Jun 2023 10:46:00 +0700</pubDate>
+      
+      <guid>https://minhtuanact.ml/posts/saml-hacking-phan-2-xml-signatures/</guid>
+      <description>Ở phần trước (nếu bạn nào chưa đọc phần 1 thì có thể tìm và đọc tại đây https://viblo.asia/p/saml-hacking-phan-1-gioi-thieu-ve-saml-Ny0VGd384PA) mình có nói về cách thức hoạt động của SAML. Phần này mình sẽ tiếp tục chia sẻ những gì mình biết về các lỗ hổng có thể tồn tại trong việc triển khai SAML.
+XML Signatures 1 2 3 4 5 6 7  &amp;lt;Response&amp;gt; &amp;lt;Signature&amp;gt; &amp;lt;SignedInfo&amp;gt;...&amp;lt;/SignedInfo&amp;gt; &amp;lt;SignatureValue&amp;gt;...&amp;lt;/SignatureValue&amp;gt; &amp;lt;KeyInfo&amp;gt;...&amp;lt;/KeyInfo&amp;gt; &amp;lt;/Signature&amp;gt; &amp;lt;Response&amp;gt;   Như nội dung phần trước, &amp;lt;Signature&amp;gt; là chứng thực ký số của SAML Response, đảm bảo tính toàn vẹn và xác thực của dữ liệu SAML Response gửi về SP.</description>
+    </item>
+    
     <item>
       <title>SAML Hacking (phần 1) - Giới thiệu về SAML</title>
       <link>https://minhtuanact.ml/posts/saml-hacking-phan-1-gioi-thieu-ve-saml/</link>
-      <pubDate>Wed, 17 May 2023 08:58:26 +0000</pubDate>
+      <pubDate>Wed, 17 May 2023 15:58:26 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/saml-hacking-phan-1-gioi-thieu-ve-saml/</guid>
       <description>Đây là bài mở đầu của series SAML Hacking mà mình tìm hiểu được trong thời gian vừa qua, bài đầu tiên sẽ giới thiệu về SAML và cách thức hoạt động của nó.
@@ -23,7 +33,7 @@ SAML là gì? SAML (Security Assertion Markup Language) là một chuẩn giao t
     <item>
       <title>Phân tích CVE-2020-10644 - Inductive Automation Ignition RCE</title>
       <link>https://minhtuanact.ml/posts/phan-tich-cve-2020-10644-inductive-automation-ignition-rce/</link>
-      <pubDate>Fri, 05 May 2023 07:51:32 +0000</pubDate>
+      <pubDate>Fri, 05 May 2023 14:51:32 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/phan-tich-cve-2020-10644-inductive-automation-ignition-rce/</guid>
       <description>Vào một buổi chiều, em teammate @lengocanh có rủ mình phân tích một vài CVE của Inductive Automation Ignition. Ở đây mình chọn một CVE phân tích khá đơn giản là CVE-2020-10644 để khởi đầu chuỗi series phân tích các lỗ hổng của Inductive Automation Ignition. Đây là lỗ hổng được team Flashback tìm ra và đem tham dự Pwn2Own Miami 2020 vào tháng 1/2020. Lỗ hổng này cho phép attacker có thể RCE unauthen đến server đang chạy Inductive Automation Ignition từ phiên bản 8.</description>
@@ -32,7 +42,7 @@ SAML là gì? SAML (Security Assertion Markup Language) là một chuẩn giao t
     <item>
       <title>Phân tích CVE-2023-23488 Paid Memberships Pro &lt; 2.9.8 - Unauthenticated Blind SQLi và vấn đề với request trong Wordpress</title>
       <link>https://minhtuanact.ml/posts/phan-tich-cve-2023-23488-paid-memberships-pro-298-unauthenticated-blind-sqli-va-van-de-voi-request-trong-wordpress/</link>
-      <pubDate>Tue, 07 Mar 2023 14:24:08 +0000</pubDate>
+      <pubDate>Tue, 07 Mar 2023 21:24:08 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/phan-tich-cve-2023-23488-paid-memberships-pro-298-unauthenticated-blind-sqli-va-van-de-voi-request-trong-wordpress/</guid>
       <description>Xin chào mọi người, đã lâu rồi mình mới viết một bài phân tích CVE. Dạo gần đây xoay quanh nhiều chuyện :rice::shirt::ear_of_rice::money_with_wings: nên ít thời gian để viết lách. Bài viết này là một cơ hội tình cờ để mình tìm kiếm lỗ hổng trên WordPress. Tuy nhiên, mình đã bỏ qua rất nhiều trường hợp, và mình muốn chia sẻ với các bạn về một lỗ hổng cụ thể.</description>
@@ -41,7 +51,7 @@ SAML là gì? SAML (Security Assertion Markup Language) là một chuẩn giao t
     <item>
       <title>Build ChatGPT Telegram bot, đỡ phải login, daily limits</title>
       <link>https://minhtuanact.ml/posts/build-chatgpt-telegram-bot-do-phai-login-daily-limits/</link>
-      <pubDate>Fri, 03 Feb 2023 02:55:17 +0000</pubDate>
+      <pubDate>Fri, 03 Feb 2023 09:55:17 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/build-chatgpt-telegram-bot-do-phai-login-daily-limits/</guid>
       <description>Chắc hẳn có lẽ nhiều bạn sử dụng ChatGPT gặp tình trạng quá tải như thế này trên phiên bản web, cũng đúng vì ChatGPT tăng trưởng quá khủng khiếp, 100 triệu người dùng trong vòng có 60 ngày, mất 30 triệu đô để duy trì hệ thống. Hiện tại sắp tới ChatGPT có ra mắt phiên bản ChatGPT Plus với giá $20/tháng, tương ứng vào khoảng 1,5% người dùng hiện tại sử dụng thì mới đủ bù vào tiền duy trì hệ thống kia.</description>
@@ -50,7 +60,7 @@ SAML là gì? SAML (Security Assertion Markup Language) là một chuẩn giao t
     <item>
       <title>Crawl truyện Conan để copy vào máy đọc sách 😫</title>
       <link>https://minhtuanact.ml/posts/crawl-truyen-conan-de-copy-vao-may-doc-sach/</link>
-      <pubDate>Thu, 15 Dec 2022 09:06:05 +0000</pubDate>
+      <pubDate>Thu, 15 Dec 2022 16:06:05 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/crawl-truyen-conan-de-copy-vao-may-doc-sach/</guid>
       <description>Mình là một người thích đọc, sau một thời gian đọc những truyện voz buồn cứ phải gọi là &amp;hellip; như Ranh Giới của rain8x, hay Ngày Hôm Qua Đã Từng của Nguyễn Mon, ..v.v. và hằng hà sa số truyện chữ khác thì mình quyết định chuyển sang đọc truyện tranh (người đời gọi như vậy chứ toàn thấy ae gọi là đọc manga). Thật tình cờ mình cũng có cái máy kindle để đọc sách (ngựa ngựa mua về để đọc sách chứ toàn đọc truyện tranh là chính), down mấy truyện Conan trên mạng (người ta gọi đó là sách lậu) copy vào Kindle ppw4 thì cảm thấy hơi mờ + bị kéo giãn hình ra trông xấu mù, đầu Conan hình tròn nó kéo thành hình cái bánh mì luôn.</description>
@@ -59,7 +69,7 @@ SAML là gì? SAML (Security Assertion Markup Language) là một chuẩn giao t
     <item>
       <title>Setup XSS Hunter Express (self-hosted) để khai thác XSS</title>
       <link>https://minhtuanact.ml/posts/setup-xss-hunter-express-self-hosted-de-khai-thac-xss/</link>
-      <pubDate>Thu, 03 Nov 2022 07:55:27 +0000</pubDate>
+      <pubDate>Thu, 03 Nov 2022 14:55:27 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/setup-xss-hunter-express-self-hosted-de-khai-thac-xss/</guid>
       <description>Chẳng là ai là bug bounty hunter, pentester, researcher security cũng đã từng biết đến công cụ khai thác lỗ hổng XSS XSSHunter. Công cụ này giúp cho các bạn có thể test, khai thác các lỗ hổng XSS (nhưng chủ yếu là blind XSS), hoặc dùng để PoC cho các Triager của các Platform Bug bounty verify cho nó nhanh :joy:
@@ -69,7 +79,7 @@ Tuy nhiên, @IAmMandatory đã thông báo rằng XSS Hunter sắp được shut
     <item>
       <title>Cùng tìm hiểu về RFID, công nghệ &#34;tiên tiến&#34; Việt Nam đang sử dụng với ETC (thu phí không dừng)</title>
       <link>https://minhtuanact.ml/posts/cung-tim-hieu-ve-rfid-cong-nghe-tien-tien-viet-nam-dang-su-dung-voi-etc-thu-phi-khong-dung/</link>
-      <pubDate>Thu, 22 Sep 2022 07:02:12 +0000</pubDate>
+      <pubDate>Thu, 22 Sep 2022 14:02:12 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/cung-tim-hieu-ve-rfid-cong-nghe-tien-tien-viet-nam-dang-su-dung-voi-etc-thu-phi-khong-dung/</guid>
       <description>Bữa lâu lâu rồi mình có đọc được thông tin này từ 1 page có tích xanh Thông tin real nó ở đây, các bạn có thể vào đọc :D https://www.facebook.com/thongtinchinhphu/posts/pfbid0Uuqh9DKGVVES7T5ApQDepxa6WNw3YMuDtsMxFKERc5QttHWgBNvVJvVNVRZUNkxpl
@@ -79,7 +89,7 @@ Tuy nhiên, @IAmMandatory đã thông báo rằng XSS Hunter sắp được shut
     <item>
       <title>FlipperZero - Trợ thủ đắc lực cho pentesters và geeks</title>
       <link>https://minhtuanact.ml/posts/flipperzero-tro-thu-dac-luc-cho-pentesters-va-geeks/</link>
-      <pubDate>Mon, 01 Aug 2022 03:13:27 +0000</pubDate>
+      <pubDate>Mon, 01 Aug 2022 10:13:27 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/flipperzero-tro-thu-dac-luc-cho-pentesters-va-geeks/</guid>
       <description>Dạo gần đây mình lên Twitter thấy mọi người share 1 tool (gần như là 1 đồ chơi) thú vị quá, nên mình share lên đây cho mọi người biết và tiếp cận đến nó :D
@@ -91,7 +101,7 @@ Tuy nhiên, @IAmMandatory đã thông báo rằng XSS Hunter sắp được shut
     <item>
       <title>RCE với Dependency Confusion</title>
       <link>https://minhtuanact.ml/posts/rce-voi-dependency-confusion/</link>
-      <pubDate>Wed, 18 May 2022 03:55:34 +0000</pubDate>
+      <pubDate>Wed, 18 May 2022 10:55:34 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/rce-voi-dependency-confusion/</guid>
       <description>Bài viết này được dịch và viết theo ý hiểu của người viết thông qua nhiều nguồn
@@ -102,7 +112,7 @@ Tuy nhiên, @IAmMandatory đã thông báo rằng XSS Hunter sắp được shut
     <item>
       <title>Code Exploit Server như Portswigger để khai thác web</title>
       <link>https://minhtuanact.ml/posts/code-exploit-server-nhu-portswigger-de-khai-thac-web/</link>
-      <pubDate>Tue, 10 May 2022 04:00:29 +0000</pubDate>
+      <pubDate>Tue, 10 May 2022 11:00:29 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/code-exploit-server-nhu-portswigger-de-khai-thac-web/</guid>
       <description>Nếu có bạn nào đã từng làm lab với Portswigger thì chắc hẳn cũng biết Exploit Server của Portswigger hoạt động như nào.
@@ -114,7 +124,7 @@ Nếu bạn nào chưa biết về Exploit Server này thì mình có thể mô 
     <item>
       <title>Cài đặt WSA (Windows Subsystem for Android) để sử dụng Android trên Windows - Cài đặt Android Emulator sao cho ngầu (part 2)</title>
       <link>https://minhtuanact.ml/posts/cai-dat-wsa-windows-subsystem-for-android-de-su-dung-android-tren-windows-cai-dat-android-emulator-sao-cho-ngau-part-2/</link>
-      <pubDate>Fri, 08 Apr 2022 01:20:21 +0000</pubDate>
+      <pubDate>Fri, 08 Apr 2022 08:20:21 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/cai-dat-wsa-windows-subsystem-for-android-de-su-dung-android-tren-windows-cai-dat-android-emulator-sao-cho-ngau-part-2/</guid>
       <description>Ngày xửa ngày xưa mình có 1 ước ao &amp;ldquo;làm thế nào để Windows + Linux hoà vào làm một nhỉ&amp;rdquo;, và rồi WSL được sinh ra vào hồi 5 năm trước. Tuy còn khá sida và lắm lỗi, tuy nhiên vào năm 2019 WSL2 ra đời cùng với sử dụng kernel linux chính ngạch cùng với các thay đổi gần đây đã làm WSL2 hoàn thiện hơn (nhất là mới có tính năng Run Linux GUI apps sử dụng X11 trên Windows 11 Run Linux GUI apps with WSL | Microsoft Docs)</description>
@@ -123,7 +133,7 @@ Nếu bạn nào chưa biết về Exploit Server này thì mình có thể mô 
     <item>
       <title>Phải làm gì khi &#34;Ports are not available&#34; trên Docker/các service khác 🤧</title>
       <link>https://minhtuanact.ml/posts/phai-lam-gi-khi-ports-are-not-available-tren-dockercac-service-khac/</link>
-      <pubDate>Fri, 25 Mar 2022 09:45:17 +0000</pubDate>
+      <pubDate>Fri, 25 Mar 2022 16:45:17 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/phai-lam-gi-khi-ports-are-not-available-tren-dockercac-service-khac/</guid>
       <description>Mở đầu Chào các bạn, sau cái bài Xử lý vấn đề &amp;ldquo;Port Already in Use&amp;rdquo; trên Linux và Windows  thì mình lại gặp 1 trường hợp nữa, cái trường hợp này nó xảy ra quá lâu rồi và do mình lười fix nên nó vẫn còn đó, cách đây khoảng 10 ngày thì mình fix được rồi. Chính vì thế mình viết lên đây vừa là chia sẻ, vừa là note lại cho bản thân để sau này lỡ bị lại thì có lệnh xài luôn cho nhanh :joy:</description>
@@ -132,7 +142,7 @@ Nếu bạn nào chưa biết về Exploit Server này thì mình có thể mô 
     <item>
       <title>Phân tích CVE-2021-22941, RCE Citrix Sharefile &lt; 5.11.20</title>
       <link>https://minhtuanact.ml/posts/phan-tich-cve-2021-22941-rce-citrix-sharefile-51120/</link>
-      <pubDate>Fri, 11 Feb 2022 12:20:29 +0000</pubDate>
+      <pubDate>Fri, 11 Feb 2022 19:20:29 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/phan-tich-cve-2021-22941-rce-citrix-sharefile-51120/</guid>
       <description>Cái bài này mình định lên từ năm ngoái rồi, mà phân tích xong lại để đấy, thật ra là lười viết lại nên tồn đọng đến bây giờ chưa viết bài phân tích lên blog 🥲. Thôi thì ngồi viết lại vừa để có chỗ lưu lại, vừa để nhớ xem mình đã phân tích những cái gì, biết đâu sau này lại sử dụng lại thì sao :D</description>
@@ -141,7 +151,7 @@ Nếu bạn nào chưa biết về Exploit Server này thì mình có thể mô 
     <item>
       <title>Setup debug Gitlab, tưởng không khó mà cũng không khó lắm</title>
       <link>https://minhtuanact.ml/posts/setup-debug-gitlab-tuong-khong-kho-ma-cung-khong-kho-lam/</link>
-      <pubDate>Tue, 18 Jan 2022 03:53:35 +0000</pubDate>
+      <pubDate>Tue, 18 Jan 2022 10:53:35 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/setup-debug-gitlab-tuong-khong-kho-ma-cung-khong-kho-lam/</guid>
       <description>Chuyện là gần đây Gitlab có bản Security Release mới, trong đó có một lỗi Arbitrary file read via group import feature	khá là thú vị, ảnh hưởng đến tất cả các phiên bản GitLab CE/EE có đầu là 14.5 trở lên nên mình cùng với anh @vigov5 đã thử setup lên research bug này xem sao :D. Bạn đọc có thể đọc thêm thông tin tại đây https://about.gitlab.com/releases/2022/01/11/security-release-gitlab-14-6-2-released/#arbitrary-file-read-via-group-import-feature
@@ -151,7 +161,7 @@ Mình chưa setup debug Ruby on Rails bao giờ, nên đã mất 2 ngày trời 
     <item>
       <title>One-click Login với Metamask, sử dụng chữ ký điện tử có rủi ro gì?</title>
       <link>https://minhtuanact.ml/posts/one-click-login-voi-metamask-su-dung-chu-ky-dien-tu-co-rui-ro-gi/</link>
-      <pubDate>Wed, 24 Nov 2021 10:06:59 +0000</pubDate>
+      <pubDate>Wed, 24 Nov 2021 17:06:59 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/one-click-login-voi-metamask-su-dung-chu-ky-dien-tu-co-rui-ro-gi/</guid>
       <description>Online users ngày càng trở nên không thích (hoặc cảm thấy khó chịu) đối với sử dụng tính năng đăng ký truyền thống sử dụng username/email và password. Họ thích sử dụng tính năng đăng nhập chỉ bằng một cú nhấp chuột thông qua Facebook, Google hoặc GitHub hơn nhiều, đỡ cần phải suy nghĩ xem đặt mật khẩu là gì, username là gì, có cần lưu lại để sau này đăng nhập lại không .</description>
@@ -160,7 +170,7 @@ Mình chưa setup debug Ruby on Rails bao giờ, nên đã mất 2 ngày trời 
     <item>
       <title>Lại hack game Blockchain, truy cập vào tài khoản bất kỳ trong game</title>
       <link>https://minhtuanact.ml/posts/lai-hack-game-blockchain-truy-cap-vao-tai-khoan-bat-ky-trong-game/</link>
-      <pubDate>Sat, 13 Nov 2021 04:44:05 +0000</pubDate>
+      <pubDate>Sat, 13 Nov 2021 11:44:05 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/lai-hack-game-blockchain-truy-cap-vao-tai-khoan-bat-ky-trong-game/</guid>
       <description>Kiến thức về Blockchain của mình vẫn đang hạn hẹp, nếu có câu nào hay kiến thức chỗ nào mình hiểu sai thì xin các bạn góp ý ở dưới phần comment nhé
@@ -170,7 +180,7 @@ Mình chưa setup debug Ruby on Rails bao giờ, nên đã mất 2 ngày trời 
     <item>
       <title>Hack game Blockchain, trend mới đang thịnh hành</title>
       <link>https://minhtuanact.ml/posts/hack-game-blockchain-trend-moi-dang-thinh-hanh/</link>
-      <pubDate>Fri, 05 Nov 2021 11:04:05 +0000</pubDate>
+      <pubDate>Fri, 05 Nov 2021 18:04:05 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/hack-game-blockchain-trend-moi-dang-thinh-hanh/</guid>
       <description>Dạo gần đây, phải là 1 năm trở lại đây trend game blockchain, hay NFT đang rất thịnh hành và mọi người có thể play to earn, kiếm tiền từ việc chơi game. Tuy nhiên có rất nhiều dự án cố gắng ăn theo trend mà bỏ đi yếu tố security, cố gắng ra game nhanh nhất có thể để user đỡ &amp;ldquo;chửi&amp;rdquo; vì ra game lâu, ôm coin để đó lâu quá giá không bay &amp;hellip; vân vân và mây mây, đủ thể loại lý do để có thể dev code nhanh nhanh chóng chóng để phục vụ người chơi.</description>
@@ -179,7 +189,7 @@ Mình chưa setup debug Ruby on Rails bao giờ, nên đã mất 2 ngày trời 
     <item>
       <title>Proxifier - Hỗ trợ kết nối proxy cho các ứng dụng không hỗ trợ proxy</title>
       <link>https://minhtuanact.ml/posts/proxifier-ho-tro-ket-noi-proxy-cho-cac-ung-dung-khong-ho-tro-proxy/</link>
-      <pubDate>Fri, 22 Oct 2021 07:22:04 +0000</pubDate>
+      <pubDate>Fri, 22 Oct 2021 14:22:04 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/proxifier-ho-tro-ket-noi-proxy-cho-cac-ung-dung-khong-ho-tro-proxy/</guid>
       <description>Root case Dạo gần đây mình có dính 1 case liên quan đến application trên Windows, việc check connect network rất quan trọng trong pentest, nó sẽ giúp các bạn có thể biết được application đó đang gửi những gì, kết nối tới đâu trên internet. Tuy nhiên dở một cái là application này KHÔNG HỖ TRỢ KẾT NỐI PROXY để capture request qua BurpSuite. Vậy ở đây chúng ta sẽ có nhiều cách để pentest case này:</description>
@@ -188,7 +198,7 @@ Mình chưa setup debug Ruby on Rails bao giờ, nên đã mất 2 ngày trời 
     <item>
       <title>Chia màn hình Workspace và đủ trò khác với PowerToys</title>
       <link>https://minhtuanact.ml/posts/chia-man-hinh-workspace-va-du-tro-khac-voi-powertoys/</link>
-      <pubDate>Tue, 19 Oct 2021 09:28:46 +0000</pubDate>
+      <pubDate>Tue, 19 Oct 2021 16:28:46 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/chia-man-hinh-workspace-va-du-tro-khac-voi-powertoys/</guid>
       <description>Root case Hi, dạo gần đây chắc hẳn các bạn, anh em đang làm việc tại nhà do dịch (chắc cũng có các bạn đã làm offline rồi). Mình thì cũng vẫn đang làm việc tại nhà, cũng dành 1 ít để upgrade cái workspace của mình lên một tý. Mình thấy có 1 vấn đề là khi mình nâng cấp sử dụng màn hình FHD lên màn hình QHD (2K), do cái màn 2K nó to hơn, và nhiều không gian hiển thị hơn nên mình không thể nhìn thấy hết toàn bộ nội dung hiển thị trên màn hình được (mở trình duyệt full màn hình là không thể nhìn hết hoặc có những phần bị thừa, rất phí)</description>
@@ -197,7 +207,7 @@ Mình chưa setup debug Ruby on Rails bao giờ, nên đã mất 2 ngày trời 
     <item>
       <title>Phân tích lỗ hổng uploadfile trên Apache Ofbiz (CVE-2021-37608 bypass)</title>
       <link>https://minhtuanact.ml/posts/phan-tich-lo-hong-uploadfile-tren-apache-ofbiz-cve-2021-37608-bypass/</link>
-      <pubDate>Tue, 14 Sep 2021 07:38:55 +0000</pubDate>
+      <pubDate>Tue, 14 Sep 2021 14:38:55 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/phan-tich-lo-hong-uploadfile-tren-apache-ofbiz-cve-2021-37608-bypass/</guid>
       <description>Gần đây mình thấy có 1 CVE với Apache Ofbiz CVE-2021-37608, các bạn có thể đọc thêm issue tại đây https://issues.apache.org/jira/browse/OFBIZ-12297, tuy nhiên mình cảm thấy bản patch hơi ảo ma 1 chút
@@ -208,7 +218,7 @@ Hoặc cũng có thể là do mình gà nên chưa tìm được endpoint unauth
     <item>
       <title>DNSStager - Công cụ giúp bạn ẩn payload trong DNS</title>
       <link>https://minhtuanact.ml/posts/dnsstager-cong-cu-giup-ban-an-payload-trong-dns/</link>
-      <pubDate>Mon, 23 Aug 2021 00:24:08 +0000</pubDate>
+      <pubDate>Mon, 23 Aug 2021 07:24:08 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/dnsstager-cong-cu-giup-ban-an-payload-trong-dns/</guid>
       <description>Ví dụ luôn cho nó uy tín (nguồn https://shells.systems)
@@ -218,7 +228,7 @@ Mở đầu Đối với các bạn redteam, việc đi sâu nhất vào trong h
     <item>
       <title>Một vài mẹo mà mình sử dụng với Burp Suite (phần 2)</title>
       <link>https://minhtuanact.ml/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite-phan-2/</link>
-      <pubDate>Sun, 20 Jun 2021 15:04:09 +0000</pubDate>
+      <pubDate>Sun, 20 Jun 2021 22:04:09 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite-phan-2/</guid>
       <description>Bài này là bài nối tiếp về một bài mà mình đã viết tại Một vài mẹo mà mình sử dụng với Burp Suite. Bài đầu tiên mình đã viết về một vài tips và trick mình hay sử dụng với Burp Suite mặc định rồi, bài này mình sẽ viết về một vài extensions của Burp Suite mà mình hay dùng nhé ;)
@@ -228,7 +238,7 @@ Burp Extensions Đây là một hình chụp nhanh các extension trong Burp Sui
     <item>
       <title>Một vài mẹo mà mình sử dụng với Burp Suite</title>
       <link>https://minhtuanact.ml/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite/</link>
-      <pubDate>Fri, 21 May 2021 04:11:40 +0000</pubDate>
+      <pubDate>Fri, 21 May 2021 11:11:40 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite/</guid>
       <description>Tự sự Chuyện là có mấy thằng em hỏi mình về cách sử dụng Burp Suite như thế nào, rồi có tips and tricks nào hay hay không cho chúng nó học, tiện đây mình cũng chia sẻ kinh nghiệm của một người sử dụng BurpSuite cũng được một khoảng thời gian rồi. Hi vọng những chia sẻ này sẽ giúp ích được cho bạn đọc :v:
@@ -238,7 +248,7 @@ Burp Suite là gì?</description>
     <item>
       <title>Xử lý vấn đề &#34;Port Already in Use&#34; trên Linux và Windows</title>
       <link>https://minhtuanact.ml/posts/xu-ly-van-de-port-already-in-use-tren-linux-va-windows/</link>
-      <pubDate>Wed, 12 May 2021 03:04:30 +0000</pubDate>
+      <pubDate>Wed, 12 May 2021 10:04:30 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/xu-ly-van-de-port-already-in-use-tren-linux-va-windows/</guid>
       <description>Hi chào các bạn, dạo này mình hay gặp vấn đề Port Already in Use trên Windows do mình sử dụng hơi nhiều chương trình cùng một lúc, tức là mình không thể mở chương trình vì đang có chương trình khác chiếm port đó rồi. Cái này khá là khó chịu, đôi khi bạn không biết chương trình nào đang sử dụng port đấy để mà tắt đi. Nay mình sẽ hướng dẫn các bạn xử lý vấn đề này nhé</description>
@@ -247,7 +257,7 @@ Burp Suite là gì?</description>
     <item>
       <title>Một vài thứ mình đang chạy trên RaspberryPi tại nhà của mình</title>
       <link>https://minhtuanact.ml/posts/mot-vai-thu-minh-dang-chay-tren-raspberrypi-tai-nha-cua-minh/</link>
-      <pubDate>Fri, 07 May 2021 06:59:56 +0000</pubDate>
+      <pubDate>Fri, 07 May 2021 13:59:56 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/mot-vai-thu-minh-dang-chay-tren-raspberrypi-tai-nha-cua-minh/</guid>
       <description>Tự sự Hồi đầu năm 2020, mình mới có order Taobao về được một em RaspberryPi 4 để phục vụ công việc của mình (thực ra hồi đó mua chơi thôi, mang về nghịch cho vui). Em Pi 4 này khá mạnh, làm được đủ thứ trò, Ram 4GB DDR4, sử dụng nguồn 15W, chạy kiến trúc ARM 64-bit (Raspberry Pi OS bản chính thức vẫn đang chạy 32-bit, nếu bạn muốn sử dụng hết sức mạnh của con Pi 4 từ 4GB trở lên thì phải cài OS nào hỗ trợ 64-bit nhé).</description>
@@ -256,7 +266,7 @@ Burp Suite là gì?</description>
     <item>
       <title>Làm mới desktop linux của bạn với tasksel</title>
       <link>https://minhtuanact.ml/posts/lam-moi-desktop-linux-cua-ban-voi-tasksel/</link>
-      <pubDate>Wed, 14 Apr 2021 10:08:10 +0000</pubDate>
+      <pubDate>Wed, 14 Apr 2021 17:08:10 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/lam-moi-desktop-linux-cua-ban-voi-tasksel/</guid>
       <description>Giới thiệu Lý do bài này ra đời cũng chỉ vì 1 người bạn của mình kêu bị lỗi mất desktop, chỉ còn gõ được mỗi terminal :(. Thôi thì âu cũng là cái số, anh em nhảy vào cứu nét thôi =))
@@ -266,7 +276,7 @@ Tasksel Cài đặt Trước hết, đối mặt với cái màn hình Ubuntu m�
     <item>
       <title>Đọc Medium khi bị nhà mạng chặn</title>
       <link>https://minhtuanact.ml/posts/doc-medium-khi-bi-nha-mang-chan/</link>
-      <pubDate>Mon, 15 Mar 2021 03:45:23 +0000</pubDate>
+      <pubDate>Mon, 15 Mar 2021 10:45:23 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/doc-medium-khi-bi-nha-mang-chan/</guid>
       <description>Intro Dạo gần đây nhà mạng VN cứ chặn medium làm mình không load được, làm mọi cách rồi nhưng mà vẫn không truy cập được medium ngoài bật VPN sang nước khác :sleepy:, tuy nhiên mình lại có con VPS bên Châu Âu nên thành ra chạy khá chậm. Ban đầu mình định config allow các IP của medium mới chạy qua VPN, tuy nhiên Medium lắm IP nên việc này khả thi nhưng mất thời gian =)).</description>
@@ -275,7 +285,7 @@ Tasksel Cài đặt Trước hết, đối mặt với cái màn hình Ubuntu m�
     <item>
       <title>PDF Export, cẩn thận với những input có thể truyền vào</title>
       <link>https://minhtuanact.ml/posts/pdf-export-can-than-voi-nhung-input-co-the-truyen-vao/</link>
-      <pubDate>Mon, 22 Feb 2021 03:02:43 +0000</pubDate>
+      <pubDate>Mon, 22 Feb 2021 10:02:43 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/pdf-export-can-than-voi-nhung-input-co-the-truyen-vao/</guid>
       <description>Giới thiệu Dạo gần đây mình tình cờ gặp rất nhiều lỗi XSS, tuy nhiên trang đó lại có sử dụng dữ liệu người dùng input vào để export ra PDF. Vậy làm sao để có thể nâng impact lên mức cao hơn, mình cũng đã gặp nhiều case dễ dàng có, khó khăn cũng có, hi vọng bài biết này của mình sẽ giúp bạn đọc hiểu rõ vấn đề khi code hoặc pentest 1 tính năng export PDF.</description>
@@ -284,7 +294,7 @@ Tasksel Cài đặt Trước hết, đối mặt với cái màn hình Ubuntu m�
     <item>
       <title>Laravel &lt;= v8.4.2 debug mode: Remote code execution - Chiếm quyền điều khiển máy thằng bạn đang code PHP</title>
       <link>https://minhtuanact.ml/posts/laravel-v842-debug-mode-remote-code-execution-chiem-quyen-dieu-khien-may-thang-ban-dang-code-php/</link>
-      <pubDate>Thu, 14 Jan 2021 01:59:20 +0000</pubDate>
+      <pubDate>Thu, 14 Jan 2021 08:59:20 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/laravel-v842-debug-mode-remote-code-execution-chiem-quyen-dieu-khien-may-thang-ban-dang-code-php/</guid>
       <description>Tản mạn &amp;ldquo;Hằng năm cứ vào cuối đông, lá ngoài đường rụng nhiều và trên không có những đám mây bàng bạc, lòng tôi lại nao nức những kỷ niệm hoang mang.
@@ -295,7 +305,7 @@ Những ý tưởng ấy tôi chưa lần nào ghi lên giấy, vì hồi ấy t
     <item>
       <title>Các cấu hình sai Nginx phổ biến khiến web server của bạn gặp nguy hiểm (Part 1)</title>
       <link>https://minhtuanact.ml/posts/cac-cau-hinh-sai-nginx-pho-bien-khien-web-server-cua-ban-gap-nguy-hiem-part-1/</link>
-      <pubDate>Mon, 04 Jan 2021 03:44:52 +0000</pubDate>
+      <pubDate>Mon, 04 Jan 2021 10:44:52 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/cac-cau-hinh-sai-nginx-pho-bien-khien-web-server-cua-ban-gap-nguy-hiem-part-1/</guid>
       <description>Intro Nginx được sử dụng làm web server, reverse proxy mạnh mẽ, nginx được cài đặt cho khoảng 1/3 số web site trên thế giới này. Trong bài viết này sẽ là một số cấu hình sai Nginx phổ biến mà với các cấu hình như vậy, web server của bạn sẽ dễ dàng bị tấn công
@@ -305,7 +315,7 @@ Những ý tưởng ấy tôi chưa lần nào ghi lên giấy, vì hồi ấy t
     <item>
       <title>Hãy để việc fuzzing đơn giản hơn với Nuclei</title>
       <link>https://minhtuanact.ml/posts/hay-de-viec-fuzzing-don-gian-hon-voi-nuclei/</link>
-      <pubDate>Fri, 04 Dec 2020 01:08:43 +0000</pubDate>
+      <pubDate>Fri, 04 Dec 2020 08:08:43 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/hay-de-viec-fuzzing-don-gian-hon-voi-nuclei/</guid>
       <description>Intro Dạo gần đây mình hay sử dụng các tool tự động recon khai thác các lỗi, phần vì để đơn giản hoá, phần vì mình đỡ bỏ qua các lỗi cơ bản không đáng có, nhất là với lượng sub-domain khá lớn, hay scope rộng của các program.
@@ -315,7 +325,7 @@ Trong khoảng thời gian tìm kiếm tools tự động có thể đơn giản
     <item>
       <title>[Pentest Android] Cài đặt Android Emulator sao cho ngầu :-?</title>
       <link>https://minhtuanact.ml/posts/pentest-android-cai-dat-android-emulator-sao-cho-ngau/</link>
-      <pubDate>Mon, 26 Oct 2020 04:14:55 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2020 11:14:55 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/pentest-android-cai-dat-android-emulator-sao-cho-ngau/</guid>
       <description>Tự sự một chút Cuối tuần hơi rảnh lại sắp rủ bạn gái đi ăn, nên mình có download 1 app android của 1 chuỗi cửa hàng có tiếng ở Hà Nội về để xem có khuyến mại gì không. Với một pentester thì khi mình dùng cái app này mình đã ngửi thấy mùi sai sai gì rồi. Khổ nỗi 1 điều là môi trường lại config hết trên máy công ty rồi, máy ở nhà mình trước có cài mà gỡ đi mất rồi.</description>
@@ -324,7 +334,7 @@ Trong khoảng thời gian tìm kiếm tools tự động có thể đơn giản
     <item>
       <title>Wireguard, một tác phẩm nghệ thuật</title>
       <link>https://minhtuanact.ml/posts/wireguard-mot-tac-pham-nghe-thuat/</link>
-      <pubDate>Fri, 09 Oct 2020 09:32:00 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2020 16:32:00 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/wireguard-mot-tac-pham-nghe-thuat/</guid>
       <description>Giới thiệu Nếu bạn đã từng sử dụng Facebook vào những năm thứ 10 của thế kỷ 21, bạn đã trải qua khoảng thời gian khó khăn của những dân chơi Facebook hồi đó - sử dụng VPN, vì nhà mạng của Việt Nam chặn IP của Facebook. Vậy VPN là gì mà nó lại có thể bypass được rule của nhà mạng như vậy nhỉ :scream:
@@ -334,7 +344,7 @@ VPN (Virtual Private Network - mạng riêng ảo) cho phép người dùng tạ
     <item>
       <title>Win-KeX - kéo Windows và Kali hoà làm một</title>
       <link>https://minhtuanact.ml/posts/win-kex-keo-windows-va-kali-hoa-lam-mot/</link>
-      <pubDate>Thu, 24 Sep 2020 08:00:28 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2020 15:00:28 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/win-kex-keo-windows-va-kali-hoa-lam-mot/</guid>
       <description>Overview Vào ngày 18-08-2020, Kali Linux release phiên bản 2020.3 với nhiều cải tiến như thay thế Bash truyền thống sang ZSH,&amp;hellip; nhưng đối với mình, ấn tượng hơn cả là Win-KeX (Windows + Kali Desktop EXperience) được Kali hỗ trợ để sử dụng giao diện đồ hoạ với WSL2 trên Windows.
@@ -344,7 +354,7 @@ Có thể thấy rằng việc bạn sử dụng Windows nhưng vẫn muốn hac
     <item>
       <title>[Hackthebox - Writeup] Remote</title>
       <link>https://minhtuanact.ml/posts/hackthebox-writeup-remote/</link>
-      <pubDate>Sun, 06 Sep 2020 10:08:05 +0000</pubDate>
+      <pubDate>Sun, 06 Sep 2020 17:08:05 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/hackthebox-writeup-remote/</guid>
       <description>Recon Nmap Việc sử dụng nmap để quét toàn bộ cổng của machine là 1 việc làm bất di bất dịch nếu các bạn muốn tấn công lên machine đó.
@@ -354,7 +364,7 @@ Có thể thấy rằng việc bạn sử dụng Windows nhưng vẫn muốn hac
     <item>
       <title>Leo thang đặc quyền trong Windows - Windows Privilege Escalation #2: Stored Credentials, Kernel Exploits, Scheduled Tasks, ...</title>
       <link>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-2-stored-credentials-kernel-exploits-scheduled-tasks/</link>
-      <pubDate>Mon, 03 Aug 2020 02:01:12 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2020 09:01:12 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-2-stored-credentials-kernel-exploits-scheduled-tasks/</guid>
       <description>Giới thiệu Gần một tháng trước mình có public 1 bài Leo thang đặc quyền trong Windows - Windows Privilege Escalation #1: Service Exploits . Để tiếp tục series này, nay mình viết tiếp các cách khai thác đặc quyền trên Windows.
@@ -364,7 +374,7 @@ Có thể thấy rằng việc bạn sử dụng Windows nhưng vẫn muốn hac
     <item>
       <title>[Hackthebox - Writeup] Cascade</title>
       <link>https://minhtuanact.ml/posts/hackthebox-writeup-cascade/</link>
-      <pubDate>Mon, 27 Jul 2020 03:16:19 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2020 10:16:19 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/hackthebox-writeup-cascade/</guid>
       <description>Cascade là bài thứ mấy mình chơi với machine Windows trên hackthebox cũng không nhớ nữa, chỉ nhớ là bài này mình làm vào đúng tối sinh nhật năm nay của mình. Là một bài khá hay với LDAP, mình đã học hỏi được rất nhiều thứ từ bài này. Nhìn lượt vote cũng thấy được bài này chủ yếu sử dụng kỹ thuật Enumeration. Hi vọng writeup này giúp ích gì được cho các bạn đọc bài này :P.</description>
@@ -373,7 +383,7 @@ Có thể thấy rằng việc bạn sử dụng Windows nhưng vẫn muốn hac
     <item>
       <title>[Hackthebox- Writeup] Book</title>
       <link>https://minhtuanact.ml/posts/hackthebox-writeup-book/</link>
-      <pubDate>Sun, 12 Jul 2020 00:30:42 +0000</pubDate>
+      <pubDate>Sun, 12 Jul 2020 07:30:42 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/hackthebox-writeup-book/</guid>
       <description>Mở đầu Trở lại với series Writeup Hackthebox, ngày hôm qua Hackthebox đã cho retired bài Book này, được đánh giá là Medium. Bài này được mình làm từ 24/03 nhưng đến giờ mới được public. Hãy cùng mình tìm hiểu xem bài này chơi thế nào nha.
@@ -383,7 +393,7 @@ Get User Quét nmap thấy server này có trang web tại cổng 80. Thực hi�
     <item>
       <title>Leo thang đặc quyền trong Windows - Windows Privilege Escalation #1: Service Exploits</title>
       <link>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-1-service-exploits/</link>
-      <pubDate>Thu, 09 Jul 2020 01:10:29 +0000</pubDate>
+      <pubDate>Thu, 09 Jul 2020 08:10:29 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-1-service-exploits/</guid>
       <description>Giới thiệu Ngày trước trong team mình cũng đã có @kongaconggo103 viết series leo thang đặc quyền trong Linux, các bạn có thể đọc tại
@@ -395,7 +405,7 @@ Leo thang đặc quyền trong Linux - Linux Privilege Escalation #2: Using PATH
     <item>
       <title>Làm thế nào để RCE trên Windows từ Linux?</title>
       <link>https://minhtuanact.ml/posts/lam-the-nao-de-rce-tren-windows-tu-linux/</link>
-      <pubDate>Sun, 17 May 2020 12:06:28 +0000</pubDate>
+      <pubDate>Sun, 17 May 2020 19:06:28 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/lam-the-nao-de-rce-tren-windows-tu-linux/</guid>
       <description>Các Pentester có thể họ rất quen thuộc với hệ điều hành Linux với những command line trên terminal, tuy nhiên nếu gặp phải server chạy Windows thì họ lại khá lúng túng trong việc RCE. Bài viết này mình sẽ chỉ ra vài cách có thể RCE trên Windows từ Linux.
@@ -406,7 +416,7 @@ Sử dụng Impacket Impacket là gì?
     <item>
       <title>Làm thế nào để chuyển đổi tài khoản trên Windows (How do I switch users in Windows)?</title>
       <link>https://minhtuanact.ml/posts/lam-the-nao-de-chuyen-doi-tai-khoan-tren-windows-how-do-i-switch-users-in-windows/</link>
-      <pubDate>Wed, 06 May 2020 06:50:16 +0000</pubDate>
+      <pubDate>Wed, 06 May 2020 13:50:16 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/lam-the-nao-de-chuyen-doi-tai-khoan-tren-windows-how-do-i-switch-users-in-windows/</guid>
       <description>Windows hay các hệ điều hành như Linux, MacOS, &amp;hellip; cho phép tồn tại nhiều tài khoản người dùng trên một máy. Các tài khoản đều có thể cho phép bạn tùy biến cài đặt tùy theo sở thích của mình và tách biệt so với các thành viên khác trong khi sử dụng chung máy tính. Bài viết này mình sẽ nêu một số cách để chuyển đổi tài khoản người dùng trên Windows, nghe có vẻ khá đơn giản đúng không :D</description>
@@ -424,7 +434,7 @@ Sử dụng Impacket Impacket là gì?
     <item>
       <title>[Hackthebox Writeup] Registry</title>
       <link>https://minhtuanact.ml/posts/hackthebox-writeup-registry/</link>
-      <pubDate>Thu, 30 Apr 2020 23:55:47 +0000</pubDate>
+      <pubDate>Fri, 01 May 2020 06:55:47 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/hackthebox-writeup-registry/</guid>
       <description>Recon 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50  ➜ ~ ./nmapAutomator.sh 10.10.10.159 all Running a all scan on 10.10.10.159 Host is likely running Linux ---------------------Starting Nmap Quick Scan--------------------- Starting Nmap 7.</description>
@@ -433,7 +443,7 @@ Sử dụng Impacket Impacket là gì?
     <item>
       <title>SSH Tunneling - Local Port Forwarding và Remote Port Forwarding (update Dynamic Port Forwarding)</title>
       <link>https://minhtuanact.ml/posts/ssh-tunneling-local-port-forwarding-va-remote-port-forwarding-update-dynamic-port-forwarding/</link>
-      <pubDate>Thu, 30 Apr 2020 23:22:04 +0000</pubDate>
+      <pubDate>Fri, 01 May 2020 06:22:04 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/ssh-tunneling-local-port-forwarding-va-remote-port-forwarding-update-dynamic-port-forwarding/</guid>
       <description>SSH Tunneling Giao thức SSH hiện nay là một trong những giao thức phổ biến nhất để tunneling và port forwarding. SSH Tunnel cho phép trao đổi dữ liệu thông qua một kênh mã hoá. Với việc thiết lập SSH Tunnel cực kỳ đơn giản và nhiều ứng dụng nên giao thức này ngày càng phổ biến. Ở bài viết này mình sẽ nói về một số ứng dụng của SSH Tunnel.</description>
@@ -442,7 +452,7 @@ Sử dụng Impacket Impacket là gì?
     <item>
       <title>Bạn thích dùng Windows nhưng lại muốn có cảm giác gõ code trên Linux</title>
       <link>https://minhtuanact.ml/posts/ban-thich-dung-windows-nhung-lai-muon-co-cam-giac-go-code-tren-linux/</link>
-      <pubDate>Tue, 31 Mar 2020 02:04:55 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2020 09:04:55 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/ban-thich-dung-windows-nhung-lai-muon-co-cam-giac-go-code-tren-linux/</guid>
       <description>Lưu ý: Bài viết có đưa ra nhiều ý kiến cá nhân, mọi người cùng đọc và tham khảo.
@@ -452,7 +462,7 @@ Sử dụng Impacket Impacket là gì?
     <item>
       <title>Hướng dẫn cài đặt VPN cho VPS - Outline VPN</title>
       <link>https://minhtuanact.ml/posts/huong-dan-cai-dat-vpn-cho-vps-outline-vpn/</link>
-      <pubDate>Thu, 06 Feb 2020 07:32:50 +0000</pubDate>
+      <pubDate>Thu, 06 Feb 2020 14:32:50 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/huong-dan-cai-dat-vpn-cho-vps-outline-vpn/</guid>
       <description>Giới thiệu Chắc hẳn mọi người cũng có nghe nói qua về VPN rồi. VPN (Virtual Private Network) là một mạng riêng ảo, sử dụng internet để kết nối 2 địa điểm từ xa hoặc người dùng với một mạng LAN.
@@ -462,7 +472,7 @@ Vậy sử dụng VPN có mục đích gì? Tùy theo mục đích của ngườ
     <item>
       <title>Tấn công CSRF và các vấn đề xung quanh</title>
       <link>https://minhtuanact.ml/posts/tan-cong-csrf-va-cac-van-de-xung-quanh/</link>
-      <pubDate>Thu, 09 Jan 2020 02:16:32 +0000</pubDate>
+      <pubDate>Thu, 09 Jan 2020 09:16:32 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/tan-cong-csrf-va-cac-van-de-xung-quanh/</guid>
       <description>Giới thiệu một chút về Web Cookies Do HTTP là giao thức không trạng thái, các request trước và sau không hề liên quan đến nhau. HTTP không thể phân biệt người dùng này với người dùng khác được. Để giải quyết vấn đề này, cookie được ra đời để phân biệt các người dùng với nhau. Các server sẽ set-cookie cho trình duyệt lưu lại, sau đó mỗi khi gửi request thì trình duyệt sẽ thêm mã cookie này rồi gửi đến server.</description>
@@ -471,7 +481,7 @@ Vậy sử dụng VPN có mục đích gì? Tùy theo mục đích của ngườ
     <item>
       <title>Tìm kiếm các lỗi IDOR, chưa bao giờ lại dễ đến thế với extension Autorize</title>
       <link>https://minhtuanact.ml/posts/tim-kiem-cac-loi-idor-chua-bao-gio-lai-de-den-the-voi-extension-autorize/</link>
-      <pubDate>Mon, 16 Dec 2019 04:14:13 +0000</pubDate>
+      <pubDate>Mon, 16 Dec 2019 11:14:13 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/tim-kiem-cac-loi-idor-chua-bao-gio-lai-de-den-the-voi-extension-autorize/</guid>
       <description>Chắc hẳn việc tìm lỗi IDOR luôn là công việc thường xuyên của những pentester hay các hunters. Nhưng mà lỗi IDOR ở đây là gì nhỉ :-?
@@ -481,7 +491,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>HA: Dhanush (ZIP Privilege Escalation), 1 bài labs thử nghiệm nâng cao đặc quyền khá hay của Hacking Articles</title>
       <link>https://minhtuanact.ml/posts/ha-dhanush-zip-privilege-escalation-1-bai-labs-thu-nghiem-nang-cao-dac-quyen-kha-hay-cua-hacking-articles/</link>
-      <pubDate>Sat, 07 Dec 2019 09:35:41 +0000</pubDate>
+      <pubDate>Sat, 07 Dec 2019 16:35:41 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/ha-dhanush-zip-privilege-escalation-1-bai-labs-thu-nghiem-nang-cao-dac-quyen-kha-hay-cua-hacking-articles/</guid>
       <description>Giới thiệu Hôm nay trời khá là lạnh, hình như là lạnh nhất từ lúc mùa đông ghé qua thủ đô Hà Nội. Sáng quấn chăn đến 7h sáng mới dậy. Dậy chơi vài tựa game 8-bit ngày xưa khá là kỷ niệm. Lâu rồi cũng không build bài lab nào lên làm thử. Thử tải 1 bài về chơi xem sao. Lần này vẫn là bài trên https://www.vulnhub.com/. Chọn ngẫu nhiên 1 bài thử xem trình độ mình đến đâu :joy::joy::joy:</description>
@@ -490,7 +500,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>Gõ Terminal trên Windows 10. Tại sao không?</title>
       <link>https://minhtuanact.ml/posts/go-terminal-tren-windows-10-tai-sao-khong/</link>
-      <pubDate>Sun, 17 Nov 2019 13:41:33 +0000</pubDate>
+      <pubDate>Sun, 17 Nov 2019 20:41:33 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/go-terminal-tren-windows-10-tai-sao-khong/</guid>
       <description>Bạn đã quen gõ Terminal trên Ubuntu hay các bản phân phối khác của Linux. Bạn chê Windows không có cơ chế dòng lệnh &amp;ldquo;xịn xò&amp;rdquo; như Linux. Hay bạn chỉ là những người &amp;ldquo;đam mê&amp;rdquo; những dòng lệnh trên Linux thôi nhưng bạn đang thất vọng vì Windows không có. Nhưng bạn hãy thử xem video này xem Windows đã và đang làm được những gì nhé. {@youtube: https://www.youtube.com/watch?v=8gw0rXPMMPE} Đẹp đúng không ạ, bạn có thể mở Windows 10 lên và nhấp vào link store Windows Terminal để tải về và dùng thử.</description>
@@ -499,7 +509,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>Lỗ hổng PHP-FPM (CVE-2019-11043) với máy chủ NGINX khiến nhiều trang web bị ảnh hưởng</title>
       <link>https://minhtuanact.ml/posts/lo-hong-php-fpm-cve-2019-11043-voi-may-chu-nginx-khien-nhieu-trang-web-bi-anh-huong/</link>
-      <pubDate>Fri, 01 Nov 2019 02:15:42 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2019 09:15:42 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/lo-hong-php-fpm-cve-2019-11043-voi-may-chu-nginx-khien-nhieu-trang-web-bi-anh-huong/</guid>
       <description>Một lỗ hổng được báo cáo gần đây, có mã là CVE-2019-11043, có thể ảnh hưởng đến các trang web sử dụng PHP-FPM để thực thi các trang PHP. Việc sử dụng PHP-FPM đặc biệt phổ biến tại các trang web sử dụng NGINX vì NGINX không có thời gian chạy PHP trong tiến trình. Thay vào đó, NGINX hoạt động như một Reverse Proxy cho các máy chủ ứng dụng và trình quản lý tiến trình như PHP-FPM.</description>
@@ -508,7 +518,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>Sử dụng Burp Intruder sao cho hiệu quả [Phần 2]</title>
       <link>https://minhtuanact.ml/posts/su-dung-burp-intruder-sao-cho-hieu-qua-phan-2/</link>
-      <pubDate>Mon, 16 Sep 2019 01:17:11 +0000</pubDate>
+      <pubDate>Mon, 16 Sep 2019 08:17:11 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/su-dung-burp-intruder-sao-cho-hieu-qua-phan-2/</guid>
       <description>Burp Intruder  Tiếp tục cho phần 1 được viết tại đây, mình sẽ giới thiệu tiếp cho các bạn cách sử dụng tab Options và cách tấn công sao cho hiệu quả nhất khi sử dụng Burp Intruder  Cấu hình cuộc tấn công Options Attack Options  Tại đây, sau khi bạn đã gắn Positions, truyền Payloads thì bạn cũng có thể tấn công được rồi. Nhưng tấn công sao cho hiệu quả thì tab Options này khá quan trọng, nó có rất nhiều tùy chọn dùng để tấn công như request headers, the request engine, attack results, grep match, grep extract, grep payloads, và redirections.</description>
@@ -517,7 +527,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>Sử dụng Burp Suite Intruder sao cho hiệu quả [Phần 1]</title>
       <link>https://minhtuanact.ml/posts/su-dung-burp-suite-intruder-sao-cho-hieu-qua-phan-1/</link>
-      <pubDate>Fri, 06 Sep 2019 14:47:10 +0000</pubDate>
+      <pubDate>Fri, 06 Sep 2019 21:47:10 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/su-dung-burp-suite-intruder-sao-cho-hieu-qua-phan-1/</guid>
       <description>Burp Intruder  Burp Intruder là một công cụ tuyệt vời để automating customized attacks lên các ứng dụng web. Công cụ này theo mình thấy nó cực kỳ mạnh mẽ và có thể custom được. Nó sử dụng để thực hiện hàng loại các hành động hay trinh sát. Từ việc đoán các path đơn giản cho đến khai thác các lỗ hổng như XSS, SQL Injection, &amp;hellip;  Cách thức hoạt động  Burp Suite Intruder hoạt động bằng cách sửa đổi request HTTP ban đầu theo ý mình và tự động gửi các payloads tới target.</description>
@@ -526,7 +536,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>OS Command Injection là gì, Command Injection có nguy hiểm không?, cần cực kỳ thận trọng đối với các lệnh OS gọi từ Website của bạn</title>
       <link>https://minhtuanact.ml/posts/os-command-injection-la-gi-command-injection-co-nguy-hiem-khong-can-cuc-ky-than-trong-doi-voi-cac-lenh-os-goi-tu-website-cua-ban/</link>
-      <pubDate>Tue, 06 Aug 2019 03:52:12 +0000</pubDate>
+      <pubDate>Tue, 06 Aug 2019 10:52:12 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/os-command-injection-la-gi-command-injection-co-nguy-hiem-khong-can-cuc-ky-than-trong-doi-voi-cac-lenh-os-goi-tu-website-cua-ban/</guid>
       <description>OS Command Injection là gì? OS Command Injection (hay còn được gọi là shell injection) là một lỗ hổng bảo mật web cho phép kẻ tấn công thực thi các lệnh hệ điều hành (OS) tùy ý trên máy chủ đang chạy service nào đó. Kẻ tấn công có thể tận dụng lỗ hổng này để khai thác, lấy thông tin, chuyển cuộc tấn công sang hệ thống khác bên trong tổ chức Thực hiện các lệnh tùy ý Ví dụ: https://insecure-website.</description>
@@ -535,7 +545,7 @@ What is an IDOR vulnerability? Vào một ngày đẹp trời, bạn tự nhiên
     <item>
       <title>Tạo vô vàn lệnh shell chiếm quyền truy cập bằng công cụ Shellpop trên Linux</title>
       <link>https://minhtuanact.ml/posts/tao-vo-van-lenh-shell-chiem-quyen-truy-cap-bang-cong-cu-shellpop-tren-linux/</link>
-      <pubDate>Mon, 05 Aug 2019 03:06:41 +0000</pubDate>
+      <pubDate>Mon, 05 Aug 2019 10:06:41 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/tao-vo-van-lenh-shell-chiem-quyen-truy-cap-bang-cong-cu-shellpop-tren-linux/</guid>
       <description>Bạn đã chán cảnh lưu lại các lệnh shell trên máy tính của mình, và bạn đã mệt mỏi khi đi tìm chúng ở đâu mỗi khi mình cần. Để giải quyết việc này, Shellpop được sinh ra với vô vàn các tiện ích mà nó đem lại, giờ đây bạn sẽ không cần phải lưu lại và đi tìm các lệnh shell mỗi khi cần nữa.
@@ -545,7 +555,7 @@ About Công cụ này được phát triển bởi Andre Marques và đây là m
     <item>
       <title>Linux: broken permission and object lifetime handling for PTRACE_TRACEME - Chiếm quyền root hầu hết các máy chạy Linux</title>
       <link>https://minhtuanact.ml/posts/linux-broken-permission-and-object-lifetime-handling-for-ptrace-traceme-chiem-quyen-root-hau-het-cac-may-chay-linux/</link>
-      <pubDate>Fri, 26 Jul 2019 02:08:58 +0000</pubDate>
+      <pubDate>Fri, 26 Jul 2019 09:08:58 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/linux-broken-permission-and-object-lifetime-handling-for-ptrace-traceme-chiem-quyen-root-hau-het-cac-may-chay-linux/</guid>
       <description>Mở đầu  Ngày hôm qua, 1 thành viên trong đội của tôi đã gửi cho tôi 1 bài post trên facebook nói về con CVE-2019-13272 này. Sau một hồi tìm hiểu thì con CVE này cực kì nghiêm trọng. Nó có thể chiếm quyền root máy của bạn chỉ sau đúng một nốt nhạc. Bài viết này chỉ mang tính giới thiệu, bạn nào muốn tìm hiểu về cách thức hoạt động của con CVE-2019-13272 thì bạn có thể tìm hiểu trên mạng nhé ^^.</description>
@@ -554,7 +564,7 @@ About Công cụ này được phát triển bởi Andre Marques và đây là m
     <item>
       <title>VulnHub CTF - symfonos: 1 - Vẫn là một vài plugin của Wordpress, cẩn thận khi sử dụng plugin bên Wordpress - SMTP - Từ LFI cho đến Remote Code Excecution</title>
       <link>https://minhtuanact.ml/posts/vulnhub-ctf-symfonos-1-van-la-mot-vai-plugin-cua-wordpress-can-than-khi-su-dung-plugin-ben-wordpress-smtp-tu-lfi-cho-den-remote-code-excecution/</link>
-      <pubDate>Thu, 11 Jul 2019 03:25:07 +0000</pubDate>
+      <pubDate>Thu, 11 Jul 2019 10:25:07 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/vulnhub-ctf-symfonos-1-van-la-mot-vai-plugin-cua-wordpress-can-than-khi-su-dung-plugin-ben-wordpress-smtp-tu-lfi-cho-den-remote-code-excecution/</guid>
       <description>Mở đầu  Lại là mình đây, vào mấy hôm rảnh rỗi lại mò vào vulhub.com để kiếm mấy bài lab để học hỏi, kiếm được bài Difficulty: Beginner nên build lên làm luôn xem nó có Beginner không :v: Đây là một bài lab khá mới của tác giả Zayotic trong series symfonos. Link bài lab nếu ai muốn khám phá: symfonos: 1  Tấn công   Việc đầu tiên vẫn như thường ngày, build bài lab lên rồi quét địa chỉ ip của nó.</description>
@@ -563,7 +573,7 @@ About Công cụ này được phát triển bởi Andre Marques và đây là m
     <item>
       <title>Sử dụng PHP query string parser để qua mặt IDS, IPS và WAF</title>
       <link>https://minhtuanact.ml/posts/su-dung-php-query-string-parser-de-qua-mat-ids-ips-va-waf/</link>
-      <pubDate>Tue, 09 Jul 2019 07:46:26 +0000</pubDate>
+      <pubDate>Tue, 09 Jul 2019 14:46:26 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/su-dung-php-query-string-parser-de-qua-mat-ids-ips-va-waf/</guid>
       <description>Mở đầu  Như bạn đã biết, PHP converts query string (trong URL hoặc body) thành một mảng bên trong $_GET hoặc $_POST. Ví dụ: /?foo=bar sẽ trở thành Array([foo] =&amp;gt; &amp;quot;bar&amp;quot;). Query string parsing sẽ loại bỏ hoặc thay thế một số ký tự trong tên đối số bằng dấu gạch dưới. Ví dụ: /?%20news[id%00=42 sẽ được chuyển thành Array([news_id] =&amp;gt; 42). Nếu IDS/IPS hoặc WAF có rules chặn hoặc ghi nhật ký các giá trị không phải là số trong tham số news_id thì có thể bỏ qua bằng cách sử dụng parsing process với nội dung như sau: 1  /news.</description>
@@ -572,7 +582,7 @@ About Công cụ này được phát triển bởi Andre Marques và đây là m
     <item>
       <title>Cách ấn dữ liệu bí mật trong tệp hình ảnh hoặc âm thanh chỉ mất vài giây và vô cùng an toàn</title>
       <link>https://minhtuanact.ml/posts/cach-an-du-lieu-bi-mat-trong-tep-hinh-anh-hoac-am-thanh-chi-mat-vai-giay-va-vo-cung-an-toan/</link>
-      <pubDate>Tue, 02 Jul 2019 05:58:46 +0000</pubDate>
+      <pubDate>Tue, 02 Jul 2019 12:58:46 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/cach-an-du-lieu-bi-mat-trong-tep-hinh-anh-hoac-am-thanh-chi-mat-vai-giay-va-vo-cung-an-toan/</guid>
       <description>Mở đầu  Steganography là một nghệ thuật che giấu thông tin trong mắt người bình thường. Ở đây, mình sẽ hướng dẫn chỉ cho bạn cách sử dụng Steghide - một công cụ terminal rất đơn giản được sử dụng để làm việc đó. Mình sẽ giải thích về khái niệm để bạn hiểu về những gì đang xảy ra ở trong tập tin. Đây là một công cụ đơn giản, có thể cấu hình và chỉ mât vài giây để ẩn thông tin trong nhiều loại tệp khác nhau.</description>
@@ -581,7 +591,7 @@ About Công cụ này được phát triển bởi Andre Marques và đây là m
     <item>
       <title>VulnHub CTF - Raven 2 Walkthrough - Vẫn là chiếm quyền root, lần này là Mysql</title>
       <link>https://minhtuanact.ml/posts/vulnhub-ctf-raven-2-walkthrough-van-la-chiem-quyen-root-lan-nay-la-mysql/</link>
-      <pubDate>Thu, 20 Jun 2019 08:51:23 +0000</pubDate>
+      <pubDate>Thu, 20 Jun 2019 15:51:23 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/vulnhub-ctf-raven-2-walkthrough-van-la-chiem-quyen-root-lan-nay-la-mysql/</guid>
       <description>Mở đầu  Dạo này mình rất có hứng thú với mấy bài lab trên VulnHub.com. Lần này lại là một bài nữa, có thể chọc ngoáy khá nhiều vấn đề ở bài này. Bạn nào muốn build lên làm thử thì qua link này Raven: 2 Thôi thì bắt đầu vào chiến thôi. Bài này có tất cả là 4 cờ. Mình đi theo hướng tìm lần lượt 4 cờ luôn nhé.</description>
@@ -590,7 +600,7 @@ About Công cụ này được phát triển bởi Andre Marques và đây là m
     <item>
       <title>VulnHub CTF - Silky-CTF: 0x02 - Lỗi Buffer OverFlow</title>
       <link>https://minhtuanact.ml/posts/vulnhub-ctf-silky-ctf-0x02-loi-buffer-overflow/</link>
-      <pubDate>Tue, 18 Jun 2019 04:21:04 +0000</pubDate>
+      <pubDate>Tue, 18 Jun 2019 11:21:04 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/vulnhub-ctf-silky-ctf-0x02-loi-buffer-overflow/</guid>
       <description>Mở đầu  Lại là mình đây, vẫn là cái serie vào /root để lấy cờ :joy_cat::joy_cat::joy_cat:. Vẫn là mấy bài lab trên VulnHub.com. Lần này sẽ là một bài khá đơn giản về lỗi Buffer OverFlow. Silky-CTF: 0x02, Link bài lab, các bạn có thể tải về và build nó lên rồi làm thử nhé. Nếu mà chưa làm được hay bí bách chỗ nào thì kéo xuống dưới nè.</description>
@@ -599,7 +609,7 @@ About Công cụ này được phát triển bởi Andre Marques và đây là m
     <item>
       <title>VulnHub CTF - DC-2 - Cướp 5 flags và cái kết</title>
       <link>https://minhtuanact.ml/posts/vulnhub-ctf-dc-2-cuop-5-flags-va-cai-ket/</link>
-      <pubDate>Mon, 17 Jun 2019 01:02:36 +0000</pubDate>
+      <pubDate>Mon, 17 Jun 2019 08:02:36 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/vulnhub-ctf-dc-2-cuop-5-flags-va-cai-ket/</guid>
       <description>Mở đầu  Tiếp tục là mình đây, sau khi viết xong bài DC-3 Walkthrough - Cuộc phiêu lưu kỳ thú thì mình lại build lên lab nữa cho nhóm thử sức xem sao. Cụ thể là lab DC-2. Bài này có tất cả là 5 cờ, tính cả cờ cuối. Chúng ta phải tìm đủ 5 cờ đó mới hoàn thành bài lab này. Mọi người theo mình nhé.  Tấn công   Vẫn như các bài khác, đầu tiên mình phải dùng nmap quét tất cả các IP trong dải mạng của mình để tìm ra IP của lab.</description>
@@ -608,7 +618,7 @@ About Công cụ này được phát triển bởi Andre Marques và đây là m
     <item>
       <title>VulnHub CTF - DC-3 Walkthrough - Cuộc phiêu lưu kỳ thú</title>
       <link>https://minhtuanact.ml/posts/vulnhub-ctf-dc-3-walkthrough-cuoc-phieu-luu-ky-thu/</link>
-      <pubDate>Fri, 14 Jun 2019 03:08:47 +0000</pubDate>
+      <pubDate>Fri, 14 Jun 2019 10:08:47 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/vulnhub-ctf-dc-3-walkthrough-cuoc-phieu-luu-ky-thu/</guid>
       <description>Mở đầu  Vào một ngày trời k được đẹp cho lắm, nắng khá gắt, captain có ném cho chúng tôi 1 đường link về mấy bài lab trên VulnHub. Và đây là một trong một số bài mà chúng tôi làm được. Các bài kia rồi cũng sẽ có bài viết nhanh thôi :D. Tôi có nhiệm vụ build con máy này lên, cũng không có khó khăn gì lắm.</description>
@@ -617,7 +627,7 @@ About Công cụ này được phát triển bởi Andre Marques và đây là m
     <item>
       <title>Phần 9: SQL Injection</title>
       <link>https://minhtuanact.ml/posts/phan-9-sql-injection/</link>
-      <pubDate>Thu, 30 May 2019 07:19:51 +0000</pubDate>
+      <pubDate>Thu, 30 May 2019 14:19:51 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/phan-9-sql-injection/</guid>
       <description>Description  SQL ( /ˈɛs kjuː ˈɛl/, hoặc /ˈsiːkwəl/; Structured Query Language) hay ngôn ngữ truy vấn mang tính cấu trúc, là một loại ngôn ngữ máy tính phổ biến để tạo, sửa, và lấy dữ liệu từ một hệ quản trị cơ sở dữ liệu quan hệ. SQL Injection hoặc SQLi xảy ra khi có một lỗ hổng database-backed trên trang web cho phép Attacker truy vấn hoặc tấn công database của trang web.</description>
@@ -626,7 +636,7 @@ About Công cụ này được phát triển bởi Andre Marques và đây là m
     <item>
       <title>Phần 5: HTML Injection</title>
       <link>https://minhtuanact.ml/posts/phan-5-html-injection/</link>
-      <pubDate>Wed, 29 May 2019 03:34:02 +0000</pubDate>
+      <pubDate>Wed, 29 May 2019 10:34:02 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/phan-5-html-injection/</guid>
       <description>Description  Hypertext Markup Language (HTML) injection đôi khi cũng hơi ảo ảo =)). Đây thực sự là một cuộc tấn công được thực hiện bởi một website cho phép người dùng inject HTML vào các trang web của mình bằng cái kiểu mà không giống người dùng bình thường nhập dữ liệu. Nói cách khác, HTML Injection được gây ra bởi việc nhận HTML. Thông thường, thông qua một số hình thức nhập, sau đó được hiện thị dưới dạng input form trên trang web.</description>
@@ -635,7 +645,7 @@ About Công cụ này được phát triển bởi Andre Marques và đây là m
     <item>
       <title>Tổng hợp các câu hỏi phỏng vấn pentest - kiến thức chung (P2)</title>
       <link>https://minhtuanact.ml/posts/tong-hop-cac-cau-hoi-phong-van-pentest-kien-thuc-chung-p2/</link>
-      <pubDate>Fri, 24 May 2019 03:48:44 +0000</pubDate>
+      <pubDate>Fri, 24 May 2019 10:48:44 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/tong-hop-cac-cau-hoi-phong-van-pentest-kien-thuc-chung-p2/</guid>
       <description>Hỏi: Answer true or false and explain your answer: two-factor authentication protects against session hijacking? Trả lời:  Về câu trả lời này, mình vẫn chưa biết nên trả lời là đúng hay sai. Có 2 trường hợp xảy ra ở đây:  Trước khi bạn nhập mã xác minh gửi đến điện thoại hay ứng dụng hay đại loại là 1 mã OTP nào đó mà bên Server gửi cho bạn để xác minh đó đúng là bạn đăng nhập vào tài khoản của bạn.</description>
@@ -644,7 +654,7 @@ About Công cụ này được phát triển bởi Andre Marques và đây là m
     <item>
       <title>Tổng hợp các câu hỏi phỏng vấn pentest - kiến thức chung (P1)</title>
       <link>https://minhtuanact.ml/posts/tong-hop-cac-cau-hoi-phong-van-pentest-kien-thuc-chung-p1/</link>
-      <pubDate>Thu, 23 May 2019 02:48:22 +0000</pubDate>
+      <pubDate>Thu, 23 May 2019 09:48:22 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/tong-hop-cac-cau-hoi-phong-van-pentest-kien-thuc-chung-p1/</guid>
       <description>Hỏi: What are the phases of a penetration test? Trả lời: Thông thường, pentest được chia ra làm 6 giai đoạn Sáu giai đoạn này rất quan trọng để lập kế hoạch và thực hiện thành công bài pentest. Đối với pentest thì có rất nhiều mảng pentest như Pentest Website, Pentest Network, Pentest Server. Nhưng nhìn chung thì Pentest có các giai đoạn như sau:

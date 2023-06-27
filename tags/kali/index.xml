@@ -9,11 +9,11 @@
       <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 24 Sep 2020 08:00:28 +0000</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/kali/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Sep 2020 15:00:28 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/kali/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Win-KeX - kéo Windows và Kali hoà làm một</title>
       <link>https://minhtuanact.ml/posts/win-kex-keo-windows-va-kali-hoa-lam-mot/</link>
-      <pubDate>Thu, 24 Sep 2020 08:00:28 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2020 15:00:28 +0700</pubDate>
       
       <guid>https://minhtuanact.ml/posts/win-kex-keo-windows-va-kali-hoa-lam-mot/</guid>
       <description>Overview Vào ngày 18-08-2020, Kali Linux release phiên bản 2020.3 với nhiều cải tiến như thay thế Bash truyền thống sang ZSH,&amp;hellip; nhưng đối với mình, ấn tượng hơn cả là Win-KeX (Windows + Kali Desktop EXperience) được Kali hỗ trợ để sử dụng giao diện đồ hoạ với WSL2 trên Windows.
