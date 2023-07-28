@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Terminal on minhtuanact|Blog - Keep a flame in the rain!</title>
-    <link>https://minhtuanact.ml/tags/terminal/</link>
+    <link>https://minhtuanact.github.io/tags/terminal/</link>
     <description>Recent content in Terminal on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
-      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 17 Jun 2019 08:02:36 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jun 2019 08:02:36 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>VulnHub CTF - DC-2 - Cướp 5 flags và cái kết</title>
-      <link>https://minhtuanact.ml/posts/vulnhub-ctf-dc-2-cuop-5-flags-va-cai-ket/</link>
+      <link>https://minhtuanact.github.io/posts/vulnhub-ctf-dc-2-cuop-5-flags-va-cai-ket/</link>
       <pubDate>Mon, 17 Jun 2019 08:02:36 +0700</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/vulnhub-ctf-dc-2-cuop-5-flags-va-cai-ket/</guid>
+      <guid>https://minhtuanact.github.io/posts/vulnhub-ctf-dc-2-cuop-5-flags-va-cai-ket/</guid>
       <description>Mở đầu  Tiếp tục là mình đây, sau khi viết xong bài DC-3 Walkthrough - Cuộc phiêu lưu kỳ thú thì mình lại build lên lab nữa cho nhóm thử sức xem sao. Cụ thể là lab DC-2. Bài này có tất cả là 5 cờ, tính cả cờ cuối. Chúng ta phải tìm đủ 5 cờ đó mới hoàn thành bài lab này. Mọi người theo mình nhé.  Tấn công   Vẫn như các bài khác, đầu tiên mình phải dùng nmap quét tất cả các IP trong dải mạng của mình để tìm ra IP của lab.</description>
     </item>
     

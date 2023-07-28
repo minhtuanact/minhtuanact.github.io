@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Apache on minhtuanact|Blog - Keep a flame in the rain!</title>
-    <link>https://minhtuanact.ml/tags/apache/</link>
+    <link>https://minhtuanact.github.io/tags/apache/</link>
     <description>Recent content in Apache on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
-      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 14 Sep 2021 14:38:55 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/apache/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Sep 2021 14:38:55 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/apache/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Phân tích lỗ hổng uploadfile trên Apache Ofbiz (CVE-2021-37608 bypass)</title>
-      <link>https://minhtuanact.ml/posts/phan-tich-lo-hong-uploadfile-tren-apache-ofbiz-cve-2021-37608-bypass/</link>
+      <link>https://minhtuanact.github.io/posts/phan-tich-lo-hong-uploadfile-tren-apache-ofbiz-cve-2021-37608-bypass/</link>
       <pubDate>Tue, 14 Sep 2021 14:38:55 +0700</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/phan-tich-lo-hong-uploadfile-tren-apache-ofbiz-cve-2021-37608-bypass/</guid>
+      <guid>https://minhtuanact.github.io/posts/phan-tich-lo-hong-uploadfile-tren-apache-ofbiz-cve-2021-37608-bypass/</guid>
       <description>Gần đây mình thấy có 1 CVE với Apache Ofbiz CVE-2021-37608, các bạn có thể đọc thêm issue tại đây https://issues.apache.org/jira/browse/OFBIZ-12297, tuy nhiên mình cảm thấy bản patch hơi ảo ma 1 chút
  Mình phân tích cái CVE này do nó oánh điểm CVSS là 9.8, tuy nhiên khi vào nghiên cứu thì nó vẫn cần authen, thế điểm 9.8 ở đâu ra nhỉ :-?
 Hoặc cũng có thể là do mình gà nên chưa tìm được endpoint unauthen nữa :D</description>

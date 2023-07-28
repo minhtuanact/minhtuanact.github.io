@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>windows on minhtuanact|Blog - Keep a flame in the rain!</title>
-    <link>https://minhtuanact.ml/tags/windows/</link>
+    <link>https://minhtuanact.github.io/tags/windows/</link>
     <description>Recent content in windows on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
-      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 12 May 2021 10:04:30 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 May 2021 10:04:30 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Xử lý vấn đề &#34;Port Already in Use&#34; trên Linux và Windows</title>
-      <link>https://minhtuanact.ml/posts/xu-ly-van-de-port-already-in-use-tren-linux-va-windows/</link>
+      <link>https://minhtuanact.github.io/posts/xu-ly-van-de-port-already-in-use-tren-linux-va-windows/</link>
       <pubDate>Wed, 12 May 2021 10:04:30 +0700</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/xu-ly-van-de-port-already-in-use-tren-linux-va-windows/</guid>
+      <guid>https://minhtuanact.github.io/posts/xu-ly-van-de-port-already-in-use-tren-linux-va-windows/</guid>
       <description>Hi chào các bạn, dạo này mình hay gặp vấn đề Port Already in Use trên Windows do mình sử dụng hơi nhiều chương trình cùng một lúc, tức là mình không thể mở chương trình vì đang có chương trình khác chiếm port đó rồi. Cái này khá là khó chịu, đôi khi bạn không biết chương trình nào đang sử dụng port đấy để mà tắt đi. Nay mình sẽ hướng dẫn các bạn xử lý vấn đề này nhé</description>
     </item>
     
     <item>
       <title>Win-KeX - kéo Windows và Kali hoà làm một</title>
-      <link>https://minhtuanact.ml/posts/win-kex-keo-windows-va-kali-hoa-lam-mot/</link>
+      <link>https://minhtuanact.github.io/posts/win-kex-keo-windows-va-kali-hoa-lam-mot/</link>
       <pubDate>Thu, 24 Sep 2020 15:00:28 +0700</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/win-kex-keo-windows-va-kali-hoa-lam-mot/</guid>
+      <guid>https://minhtuanact.github.io/posts/win-kex-keo-windows-va-kali-hoa-lam-mot/</guid>
       <description>Overview Vào ngày 18-08-2020, Kali Linux release phiên bản 2020.3 với nhiều cải tiến như thay thế Bash truyền thống sang ZSH,&amp;hellip; nhưng đối với mình, ấn tượng hơn cả là Win-KeX (Windows + Kali Desktop EXperience) được Kali hỗ trợ để sử dụng giao diện đồ hoạ với WSL2 trên Windows.
 Có thể thấy rằng việc bạn sử dụng Windows nhưng vẫn muốn hacking trên Kali Linux mà không muốn bật VMWare lên hay Dual-boot thì đây chính là giải pháp cho bạn, quá trình khởi động cũng rất nhanh nữa :D.</description>
     </item>
     
     <item>
       <title>Leo thang đặc quyền trong Windows - Windows Privilege Escalation #2: Stored Credentials, Kernel Exploits, Scheduled Tasks, ...</title>
-      <link>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-2-stored-credentials-kernel-exploits-scheduled-tasks/</link>
+      <link>https://minhtuanact.github.io/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-2-stored-credentials-kernel-exploits-scheduled-tasks/</link>
       <pubDate>Mon, 03 Aug 2020 09:01:12 +0700</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-2-stored-credentials-kernel-exploits-scheduled-tasks/</guid>
+      <guid>https://minhtuanact.github.io/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-2-stored-credentials-kernel-exploits-scheduled-tasks/</guid>
       <description>Giới thiệu Gần một tháng trước mình có public 1 bài Leo thang đặc quyền trong Windows - Windows Privilege Escalation #1: Service Exploits . Để tiếp tục series này, nay mình viết tiếp các cách khai thác đặc quyền trên Windows.
  Bài viết hướng đến cho mọi người cách nhìn tổng quan về leo quyền trên Windows, các bạn có thể gặp nó trong các cuộc thi như OSCP, OSWE, các labs trên hackthebox.</description>
     </item>
     
     <item>
       <title>Leo thang đặc quyền trong Windows - Windows Privilege Escalation #1: Service Exploits</title>
-      <link>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-1-service-exploits/</link>
+      <link>https://minhtuanact.github.io/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-1-service-exploits/</link>
       <pubDate>Thu, 09 Jul 2020 08:10:29 +0700</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-1-service-exploits/</guid>
+      <guid>https://minhtuanact.github.io/posts/leo-thang-dac-quyen-trong-windows-windows-privilege-escalation-1-service-exploits/</guid>
       <description>Giới thiệu Ngày trước trong team mình cũng đã có @kongaconggo103 viết series leo thang đặc quyền trong Linux, các bạn có thể đọc tại
 Leo thang đặc quyền trong Linux - Linux Privilege Escalation #0: Using Sudo Rights 
 Leo thang đặc quyền trong Linux - Linux Privilege Escalation #1: Using SUID bit 
@@ -53,10 +53,10 @@ Leo thang đặc quyền trong Linux - Linux Privilege Escalation #2: Using PATH
     
     <item>
       <title>Làm thế nào để RCE trên Windows từ Linux?</title>
-      <link>https://minhtuanact.ml/posts/lam-the-nao-de-rce-tren-windows-tu-linux/</link>
+      <link>https://minhtuanact.github.io/posts/lam-the-nao-de-rce-tren-windows-tu-linux/</link>
       <pubDate>Sun, 17 May 2020 19:06:28 +0700</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/lam-the-nao-de-rce-tren-windows-tu-linux/</guid>
+      <guid>https://minhtuanact.github.io/posts/lam-the-nao-de-rce-tren-windows-tu-linux/</guid>
       <description>Các Pentester có thể họ rất quen thuộc với hệ điều hành Linux với những command line trên terminal, tuy nhiên nếu gặp phải server chạy Windows thì họ lại khá lúng túng trong việc RCE. Bài viết này mình sẽ chỉ ra vài cách có thể RCE trên Windows từ Linux.
 Sử dụng Impacket Impacket là gì?
  Impacket is a collection of Python classes for working with network protocols.</description>
@@ -64,29 +64,29 @@ Sử dụng Impacket Impacket là gì?
     
     <item>
       <title>Làm thế nào để chuyển đổi tài khoản trên Windows (How do I switch users in Windows)?</title>
-      <link>https://minhtuanact.ml/posts/lam-the-nao-de-chuyen-doi-tai-khoan-tren-windows-how-do-i-switch-users-in-windows/</link>
+      <link>https://minhtuanact.github.io/posts/lam-the-nao-de-chuyen-doi-tai-khoan-tren-windows-how-do-i-switch-users-in-windows/</link>
       <pubDate>Wed, 06 May 2020 13:50:16 +0700</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/lam-the-nao-de-chuyen-doi-tai-khoan-tren-windows-how-do-i-switch-users-in-windows/</guid>
+      <guid>https://minhtuanact.github.io/posts/lam-the-nao-de-chuyen-doi-tai-khoan-tren-windows-how-do-i-switch-users-in-windows/</guid>
       <description>Windows hay các hệ điều hành như Linux, MacOS, &amp;hellip; cho phép tồn tại nhiều tài khoản người dùng trên một máy. Các tài khoản đều có thể cho phép bạn tùy biến cài đặt tùy theo sở thích của mình và tách biệt so với các thành viên khác trong khi sử dụng chung máy tính. Bài viết này mình sẽ nêu một số cách để chuyển đổi tài khoản người dùng trên Windows, nghe có vẻ khá đơn giản đúng không :D</description>
     </item>
     
     <item>
       <title>Bạn thích dùng Windows nhưng lại muốn có cảm giác gõ code trên Linux</title>
-      <link>https://minhtuanact.ml/posts/ban-thich-dung-windows-nhung-lai-muon-co-cam-giac-go-code-tren-linux/</link>
+      <link>https://minhtuanact.github.io/posts/ban-thich-dung-windows-nhung-lai-muon-co-cam-giac-go-code-tren-linux/</link>
       <pubDate>Tue, 31 Mar 2020 09:04:55 +0700</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/ban-thich-dung-windows-nhung-lai-muon-co-cam-giac-go-code-tren-linux/</guid>
+      <guid>https://minhtuanact.github.io/posts/ban-thich-dung-windows-nhung-lai-muon-co-cam-giac-go-code-tren-linux/</guid>
       <description>Lưu ý: Bài viết có đưa ra nhiều ý kiến cá nhân, mọi người cùng đọc và tham khảo.
  Hiện nay, việc sử dụng Window và Linux (ở đây mình không nói đến macOS) là khá phổ biến đối với các lập trình viên. Và có rất nhiều lập trình viên đam mê khá nhiều game. Như ở công ty mình thì dùng ubuntu (do công ty tiết kiệm vì mua Windows bản quyền khá tốn kém), việc dùng Linux cũng có rất nhiều cái hay, nhưng vấn đề Linux vẫn chưa xử lý tốt đó là chơi game, việc chơi game thì Windows nói số 2 không ai dám đứng nhất từ trước đến nay.</description>
     </item>
     
     <item>
       <title>Gõ Terminal trên Windows 10. Tại sao không?</title>
-      <link>https://minhtuanact.ml/posts/go-terminal-tren-windows-10-tai-sao-khong/</link>
+      <link>https://minhtuanact.github.io/posts/go-terminal-tren-windows-10-tai-sao-khong/</link>
       <pubDate>Sun, 17 Nov 2019 20:41:33 +0700</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/go-terminal-tren-windows-10-tai-sao-khong/</guid>
+      <guid>https://minhtuanact.github.io/posts/go-terminal-tren-windows-10-tai-sao-khong/</guid>
       <description>Bạn đã quen gõ Terminal trên Ubuntu hay các bản phân phối khác của Linux. Bạn chê Windows không có cơ chế dòng lệnh &amp;ldquo;xịn xò&amp;rdquo; như Linux. Hay bạn chỉ là những người &amp;ldquo;đam mê&amp;rdquo; những dòng lệnh trên Linux thôi nhưng bạn đang thất vọng vì Windows không có. Nhưng bạn hãy thử xem video này xem Windows đã và đang làm được những gì nhé. {@youtube: https://www.youtube.com/watch?v=8gw0rXPMMPE} Đẹp đúng không ạ, bạn có thể mở Windows 10 lên và nhấp vào link store Windows Terminal để tải về và dùng thử.</description>
     </item>
     

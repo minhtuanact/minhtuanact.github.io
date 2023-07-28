@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Shell on minhtuanact|Blog - Keep a flame in the rain!</title>
-    <link>https://minhtuanact.ml/tags/shell/</link>
+    <link>https://minhtuanact.github.io/tags/shell/</link>
     <description>Recent content in Shell on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
-      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 05 Aug 2019 10:06:41 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Aug 2019 10:06:41 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/shell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tạo vô vàn lệnh shell chiếm quyền truy cập bằng công cụ Shellpop trên Linux</title>
-      <link>https://minhtuanact.ml/posts/tao-vo-van-lenh-shell-chiem-quyen-truy-cap-bang-cong-cu-shellpop-tren-linux/</link>
+      <link>https://minhtuanact.github.io/posts/tao-vo-van-lenh-shell-chiem-quyen-truy-cap-bang-cong-cu-shellpop-tren-linux/</link>
       <pubDate>Mon, 05 Aug 2019 10:06:41 +0700</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/tao-vo-van-lenh-shell-chiem-quyen-truy-cap-bang-cong-cu-shellpop-tren-linux/</guid>
+      <guid>https://minhtuanact.github.io/posts/tao-vo-van-lenh-shell-chiem-quyen-truy-cap-bang-cong-cu-shellpop-tren-linux/</guid>
       <description>Bạn đã chán cảnh lưu lại các lệnh shell trên máy tính của mình, và bạn đã mệt mỏi khi đi tìm chúng ở đâu mỗi khi mình cần. Để giải quyết việc này, Shellpop được sinh ra với vô vàn các tiện ích mà nó đem lại, giờ đây bạn sẽ không cần phải lưu lại và đi tìm các lệnh shell mỗi khi cần nữa.
 About Công cụ này được phát triển bởi Andre Marques và đây là một mã nguồn mở nên ai có bất kỳ ý tưởng nào hay ho thì tham gia vào cùng phát triển nhé</description>
     </item>

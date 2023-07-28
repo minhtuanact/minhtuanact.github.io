@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Laravel on minhtuanact|Blog - Keep a flame in the rain!</title>
-    <link>https://minhtuanact.ml/tags/laravel/</link>
+    <link>https://minhtuanact.github.io/tags/laravel/</link>
     <description>Recent content in Laravel on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
-      <url>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://minhtuanact.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 14 Jan 2021 08:59:20 +0700</lastBuildDate><atom:link href="https://minhtuanact.ml/tags/laravel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jan 2021 08:59:20 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/laravel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Laravel &lt;= v8.4.2 debug mode: Remote code execution - Chiếm quyền điều khiển máy thằng bạn đang code PHP</title>
-      <link>https://minhtuanact.ml/posts/laravel-v842-debug-mode-remote-code-execution-chiem-quyen-dieu-khien-may-thang-ban-dang-code-php/</link>
+      <link>https://minhtuanact.github.io/posts/laravel-v842-debug-mode-remote-code-execution-chiem-quyen-dieu-khien-may-thang-ban-dang-code-php/</link>
       <pubDate>Thu, 14 Jan 2021 08:59:20 +0700</pubDate>
       
-      <guid>https://minhtuanact.ml/posts/laravel-v842-debug-mode-remote-code-execution-chiem-quyen-dieu-khien-may-thang-ban-dang-code-php/</guid>
+      <guid>https://minhtuanact.github.io/posts/laravel-v842-debug-mode-remote-code-execution-chiem-quyen-dieu-khien-may-thang-ban-dang-code-php/</guid>
       <description>Tản mạn &amp;ldquo;Hằng năm cứ vào cuối đông, lá ngoài đường rụng nhiều và trên không có những đám mây bàng bạc, lòng tôi lại nao nức những kỷ niệm hoang mang.
 Tôi không thể nào quên được những cảm giác trong sáng ấy nảy nở trong lòng tôi như mấy cành hoa tươi mỉm cười giữa bầu trời quang đãng.
 Những ý tưởng ấy tôi chưa lần nào ghi lên giấy, vì hồi ấy tôi không biết ghi và ngày nay tôi không nhớ hết.</description>
