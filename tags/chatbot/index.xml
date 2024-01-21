@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ChatBot on minhtuanact|Blog - Keep a flame in the rain!</title>
+    <link>https://minhtuanact.github.io/tags/chatbot/</link>
+    <description>Recent content in ChatBot on minhtuanact|Blog - Keep a flame in the rain!</description>
+    <image>
+      <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 19 Jan 2024 15:14:33 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/chatbot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LLM Hacking: Prompt Injection</title>
+      <link>https://minhtuanact.github.io/posts/llm-hacking-prompt-injection/</link>
+      <pubDate>Fri, 19 Jan 2024 15:14:33 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/posts/llm-hacking-prompt-injection/</guid>
+      <description>LLM (Large Language Model) Large Language Models (LLM) là chủ đề bàn tán mạnh mẽ trên toàn thế giới từ cuối năm 2022 khi chatGPT release. LLM là các thuật toán AI có thể xử lý thông tin đầu vào của người dùng và tạo ra các phản hồi hợp lý bằng cách dự đoán các chuỗi từ. Chúng được đào tạo trên một lượng lớn dữ liệu semi (tức dữ liệu có nhãn và không có nhãn), dùng Machine Learning sử dụng data để học sự liên kết trong ngôn ngữ.</description>
+    </item>
+    
+  </channel>
+</rss>
