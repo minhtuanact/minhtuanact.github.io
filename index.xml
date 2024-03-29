@@ -9,7 +9,18 @@
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Jan 2024 15:14:33 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Mar 2024 14:34:10 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Writeup] Web SerialFlow - Hackthebox Apocalypse 2024</title>
+      <link>https://minhtuanact.github.io/posts/writeup-web-serialflow-hackthebox-apocalypse-2024/</link>
+      <pubDate>Fri, 29 Mar 2024 14:34:10 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/posts/writeup-web-serialflow-hackthebox-apocalypse-2024/</guid>
+      <description>Đợt vừa rồi mình cùng các teammate có tham gia Hackthebox Apocalypse 2024. Sự kiện được open vào cuối tuần nhưng mà chẳng có ae nào tham gia, đành phải tham gia vào lúc sự kiện đã kết thúc và được reopen 😂. Tại đây có một challenge khá là &amp;ldquo;kì lạ&amp;rdquo; nên mình muốn chia sẻ tới mọi người.
+Challenge này có thể download tại https://github.com/hackthebox/cyber-apocalypse-2024/raw/main/web/%5BMedium%5D%20SerialFlow/release/web_serialflow.zip
+Description  SerialFlow is the main global network used by KORP, you have managed to reach a root server web interface by traversing KORP&amp;rsquo;s external proxy network.</description>
+    </item>
+    
     <item>
       <title>LLM Hacking: Prompt Injection</title>
       <link>https://minhtuanact.github.io/posts/llm-hacking-prompt-injection/</link>

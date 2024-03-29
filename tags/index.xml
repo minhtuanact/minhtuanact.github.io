@@ -9,7 +9,43 @@
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Jan 2024 15:14:33 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Mar 2024 14:34:10 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ContentCreator</title>
+      <link>https://minhtuanact.github.io/tags/contentcreator/</link>
+      <pubDate>Fri, 29 Mar 2024 14:34:10 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/tags/contentcreator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flask</title>
+      <link>https://minhtuanact.github.io/tags/flask/</link>
+      <pubDate>Fri, 29 Mar 2024 14:34:10 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/tags/flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HackTheBox</title>
+      <link>https://minhtuanact.github.io/tags/hackthebox/</link>
+      <pubDate>Fri, 29 Mar 2024 14:34:10 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/tags/hackthebox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memcached</title>
+      <link>https://minhtuanact.github.io/tags/memcached/</link>
+      <pubDate>Fri, 29 Mar 2024 14:34:10 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/tags/memcached/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>AI</title>
       <link>https://minhtuanact.github.io/tags/ai/</link>
@@ -25,15 +61,6 @@
       <pubDate>Fri, 19 Jan 2024 15:14:33 +0700</pubDate>
       
       <guid>https://minhtuanact.github.io/tags/chatbot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ContentCreator</title>
-      <link>https://minhtuanact.github.io/tags/contentcreator/</link>
-      <pubDate>Fri, 19 Jan 2024 15:14:33 +0700</pubDate>
-      
-      <guid>https://minhtuanact.github.io/tags/contentcreator/</guid>
       <description></description>
     </item>
     
@@ -898,15 +925,6 @@
       <pubDate>Thu, 24 Sep 2020 15:00:28 +0700</pubDate>
       
       <guid>https://minhtuanact.github.io/tags/wsl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HackTheBox</title>
-      <link>https://minhtuanact.github.io/tags/hackthebox/</link>
-      <pubDate>Sun, 06 Sep 2020 17:08:05 +0700</pubDate>
-      
-      <guid>https://minhtuanact.github.io/tags/hackthebox/</guid>
       <description></description>
     </item>
     
