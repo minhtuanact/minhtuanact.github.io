@@ -2,10 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minhtuanact.github.io/posts/writeup-web-serialflow-hackthebox-apocalypse-2024/</loc>
-    <lastmod>2024-03-29T14:34:10+07:00</lastmod>
-  </url><url>
     <loc>https://minhtuanact.github.io/tags/contentcreator/</loc>
+    <lastmod>2024-07-31T15:50:57+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/tags/cve/</loc>
+    <lastmod>2024-07-31T15:50:57+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/</loc>
+    <lastmod>2024-07-31T15:50:57+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/posts/mot-vai-nhung-vulnerable-gan-day-cua-whatsup-gold/</loc>
+    <lastmod>2024-07-31T15:50:57+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/tags/note/</loc>
+    <lastmod>2024-07-31T15:50:57+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/posts/</loc>
+    <lastmod>2024-07-31T15:50:57+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/tags/</loc>
+    <lastmod>2024-07-31T15:50:57+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/tags/mayfest2024/</loc>
+    <lastmod>2024-05-30T21:27:02+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/tags/proxy/</loc>
+    <lastmod>2024-05-30T21:27:02+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/tags/reqable/</loc>
+    <lastmod>2024-05-30T21:27:02+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/posts/reqable-mot-giai-phap-khac-de-bat-request-tren-app-mobile/</loc>
+    <lastmod>2024-05-30T21:27:02+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/tags/vpn/</loc>
+    <lastmod>2024-05-30T21:27:02+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/tags/cloudflare/</loc>
+    <lastmod>2024-05-02T16:04:24+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/posts/ket-noi-private-lan-qua-cloudflare-tunnels-su-dung-wireguard/</loc>
+    <lastmod>2024-05-02T16:04:24+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/tags/tunnels/</loc>
+    <lastmod>2024-05-02T16:04:24+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/tags/wireguard/</loc>
+    <lastmod>2024-05-02T16:04:24+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/posts/writeup-web-serialflow-hackthebox-apocalypse-2024/</loc>
     <lastmod>2024-03-29T14:34:10+07:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.github.io/tags/flask/</loc>
@@ -15,15 +60,6 @@
     <lastmod>2024-03-29T14:34:10+07:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.github.io/tags/memcached/</loc>
-    <lastmod>2024-03-29T14:34:10+07:00</lastmod>
-  </url><url>
-    <loc>https://minhtuanact.github.io/</loc>
-    <lastmod>2024-03-29T14:34:10+07:00</lastmod>
-  </url><url>
-    <loc>https://minhtuanact.github.io/posts/</loc>
-    <lastmod>2024-03-29T14:34:10+07:00</lastmod>
-  </url><url>
-    <loc>https://minhtuanact.github.io/tags/</loc>
     <lastmod>2024-03-29T14:34:10+07:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.github.io/tags/ai/</loc>
@@ -275,9 +311,6 @@
     <loc>https://minhtuanact.github.io/posts/proxifier-ho-tro-ket-noi-proxy-cho-cac-ung-dung-khong-ho-tro-proxy/</loc>
     <lastmod>2021-10-22T14:22:04+07:00</lastmod>
   </url><url>
-    <loc>https://minhtuanact.github.io/tags/proxy/</loc>
-    <lastmod>2021-10-22T14:22:04+07:00</lastmod>
-  </url><url>
     <loc>https://minhtuanact.github.io/posts/chia-man-hinh-workspace-va-du-tro-khac-voi-powertoys/</loc>
     <lastmod>2021-10-19T16:28:46+07:00</lastmod>
   </url><url>
@@ -327,9 +360,6 @@
     <lastmod>2021-05-07T13:59:56+07:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.github.io/tags/raspberrypi/</loc>
-    <lastmod>2021-05-07T13:59:56+07:00</lastmod>
-  </url><url>
-    <loc>https://minhtuanact.github.io/tags/wireguard/</loc>
     <lastmod>2021-05-07T13:59:56+07:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.github.io/tags/desktop/</loc>
@@ -414,9 +444,6 @@
     <lastmod>2020-10-26T11:14:55+07:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.github.io/tags/kernel/</loc>
-    <lastmod>2020-10-09T16:32:00+07:00</lastmod>
-  </url><url>
-    <loc>https://minhtuanact.github.io/tags/vpn/</loc>
     <lastmod>2020-10-09T16:32:00+07:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.github.io/posts/wireguard-mot-tac-pham-nghe-thuat/</loc>
@@ -562,9 +589,6 @@
   </url><url>
     <loc>https://minhtuanact.github.io/tags/linux-terminal/</loc>
     <lastmod>2019-11-17T20:41:33+07:00</lastmod>
-  </url><url>
-    <loc>https://minhtuanact.github.io/tags/cve/</loc>
-    <lastmod>2019-11-01T09:15:42+07:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.github.io/tags/cve-2019-11043/</loc>
     <lastmod>2019-11-01T09:15:42+07:00</lastmod>

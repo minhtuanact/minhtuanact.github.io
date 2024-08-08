@@ -9,7 +9,36 @@
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 29 Mar 2024 14:34:10 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/contentcreator/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Jul 2024 15:50:57 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/contentcreator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Một vài những vulnerable gần đây của Whatsup Gold</title>
+      <link>https://minhtuanact.github.io/posts/mot-vai-nhung-vulnerable-gan-day-cua-whatsup-gold/</link>
+      <pubDate>Wed, 31 Jul 2024 15:50:57 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/posts/mot-vai-nhung-vulnerable-gan-day-cua-whatsup-gold/</guid>
+      <description>Đợt vừa rồi mình cùng @lengocanh cũng target vào Whatsup Gold, tuy kết quả chưa thật sự tốt nhưng cũng có để lại một vài bài học cho ae trong team
+TL;DR Trong quá trình nghiên cứu và kiểm thử bảo mật WhatsUp Gold, team mình đã phát hiện ra ba lỗ hổng nghiêm trọng: một lỗ hổng Remote Code Execution (RCE) mà không cần xác thực, một lỗ hổng RCE yêu cầu xác thực và một lỗ hổng Local File Inclusion (LFI) không cần xác thực.</description>
+    </item>
+    
+    <item>
+      <title>Reqable, một giải pháp khác để bắt request trên app mobile</title>
+      <link>https://minhtuanact.github.io/posts/reqable-mot-giai-phap-khac-de-bat-request-tren-app-mobile/</link>
+      <pubDate>Thu, 30 May 2024 21:27:02 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/posts/reqable-mot-giai-phap-khac-de-bat-request-tren-app-mobile/</guid>
+      <description>Việc bắt request để phân tích lưu lượng mạng là một phần rất quan trọng trong pentest di động và phân tích malware. Thông thường, mình hay sử dụng ProxyDroid để bắt các traffic này đi qua Burp Suite nhằm phân tích và thực hiện pentest. ProxyDroid giúp chặn và phân tích hầu hết các loại traffic, hỗ trợ người dùng xác định các lỗ hổng bảo mật và kiểm tra các ứng dụng di động một cách hiệu quả.</description>
+    </item>
+    
+    <item>
+      <title>Kết nối private LAN qua Cloudflare Tunnels sử dụng Wireguard</title>
+      <link>https://minhtuanact.github.io/posts/ket-noi-private-lan-qua-cloudflare-tunnels-su-dung-wireguard/</link>
+      <pubDate>Thu, 02 May 2024 16:04:24 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/posts/ket-noi-private-lan-qua-cloudflare-tunnels-su-dung-wireguard/</guid>
+      <description>Giới thiệu Nếu bạn đang cần một công cụ để có thể join vào mạng LAN tại nhà mình, phục vụ một số nhu cầu như Wake-on-LAN PC, RDP tới máy tại nhà không cần phải nhờ nhà mạng public port ra ngoài Internet. Hay đơn giản chỉ là sử dụng để chạy NAS lấy dữ liệu một cách an toàn. Thì bài viết này là dành cho bạn.
+Ngoài cách mở port thông qua nhà mạng, mình sẽ giới thiệu một kiểu khác để có thể truy cập private LAN từ xa, thông qua Cloudflare.</description>
+    </item>
+    
     <item>
       <title>[Writeup] Web SerialFlow - Hackthebox Apocalypse 2024</title>
       <link>https://minhtuanact.github.io/posts/writeup-web-serialflow-hackthebox-apocalypse-2024/</link>

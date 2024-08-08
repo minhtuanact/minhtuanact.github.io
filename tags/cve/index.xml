@@ -9,7 +9,17 @@
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 01 Nov 2019 09:15:42 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/cve/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Jul 2024 15:50:57 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/cve/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Một vài những vulnerable gần đây của Whatsup Gold</title>
+      <link>https://minhtuanact.github.io/posts/mot-vai-nhung-vulnerable-gan-day-cua-whatsup-gold/</link>
+      <pubDate>Wed, 31 Jul 2024 15:50:57 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/posts/mot-vai-nhung-vulnerable-gan-day-cua-whatsup-gold/</guid>
+      <description>Đợt vừa rồi mình cùng @lengocanh cũng target vào Whatsup Gold, tuy kết quả chưa thật sự tốt nhưng cũng có để lại một vài bài học cho ae trong team
+TL;DR Trong quá trình nghiên cứu và kiểm thử bảo mật WhatsUp Gold, team mình đã phát hiện ra ba lỗ hổng nghiêm trọng: một lỗ hổng Remote Code Execution (RCE) mà không cần xác thực, một lỗ hổng RCE yêu cầu xác thực và một lỗ hổng Local File Inclusion (LFI) không cần xác thực.</description>
+    </item>
+    
     <item>
       <title>Lỗ hổng PHP-FPM (CVE-2019-11043) với máy chủ NGINX khiến nhiều trang web bị ảnh hưởng</title>
       <link>https://minhtuanact.github.io/posts/lo-hong-php-fpm-cve-2019-11043-voi-may-chu-nginx-khien-nhieu-trang-web-bi-anh-huong/</link>
