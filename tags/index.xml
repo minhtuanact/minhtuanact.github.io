@@ -9,13 +9,31 @@
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 31 Jul 2024 15:50:57 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Sep 2024 16:28:54 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ContentCreator</title>
       <link>https://minhtuanact.github.io/tags/contentcreator/</link>
-      <pubDate>Wed, 31 Jul 2024 15:50:57 +0700</pubDate>
+      <pubDate>Sat, 21 Sep 2024 16:28:54 +0700</pubDate>
       
       <guid>https://minhtuanact.github.io/tags/contentcreator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CTF</title>
+      <link>https://minhtuanact.github.io/tags/ctf/</link>
+      <pubDate>Sat, 21 Sep 2024 16:28:54 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/tags/ctf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WriteUp</title>
+      <link>https://minhtuanact.github.io/tags/writeup/</link>
+      <pubDate>Sat, 21 Sep 2024 16:28:54 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/tags/writeup/</guid>
       <description></description>
     </item>
     
@@ -1046,15 +1064,6 @@
     </item>
     
     <item>
-      <title>WriteUp</title>
-      <link>https://minhtuanact.github.io/tags/writeup/</link>
-      <pubDate>Mon, 27 Jul 2020 10:16:19 +0700</pubDate>
-      
-      <guid>https://minhtuanact.github.io/tags/writeup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>book</title>
       <link>https://minhtuanact.github.io/tags/book/</link>
       <pubDate>Sun, 12 Jul 2020 07:30:42 +0700</pubDate>
@@ -1303,15 +1312,6 @@
       <pubDate>Thu, 20 Jun 2019 15:51:23 +0700</pubDate>
       
       <guid>https://minhtuanact.github.io/tags/mysql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CTF</title>
-      <link>https://minhtuanact.github.io/tags/ctf/</link>
-      <pubDate>Tue, 18 Jun 2019 11:21:04 +0700</pubDate>
-      
-      <guid>https://minhtuanact.github.io/tags/ctf/</guid>
       <description></description>
     </item>
     

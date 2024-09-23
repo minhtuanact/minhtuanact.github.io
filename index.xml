@@ -9,7 +9,18 @@
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 31 Jul 2024 15:50:57 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Sep 2024 16:28:54 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writeup Patchstack WCUS CTF</title>
+      <link>https://minhtuanact.github.io/posts/writeup-patchstack-wcus-ctf/</link>
+      <pubDate>Sat, 21 Sep 2024 16:28:54 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/posts/writeup-patchstack-wcus-ctf/</guid>
+      <description>Trong thời gian gần đây, Patchstack đã tổ chức cuộc thi Patchstack WCUS CTF, bao gồm 9 thử thách (challenge), tất cả đều tập trung vào việc khai thác các lỗ hổng bảo mật trong các plugin WordPress. Sau đây là một số writeup về các thử thách đó.
+Tất cả các challenge đều được cung cấp dưới dạng whitebox.
+WP Elevator Trong challenge này, đề bài cung cấp cho chúng ta một plugin WordPress.</description>
+    </item>
+    
     <item>
       <title>Một vài những vulnerable gần đây của Whatsup Gold</title>
       <link>https://minhtuanact.github.io/posts/mot-vai-nhung-vulnerable-gan-day-cua-whatsup-gold/</link>

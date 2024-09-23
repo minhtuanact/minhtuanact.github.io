@@ -3,24 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://minhtuanact.github.io/tags/contentcreator/</loc>
-    <lastmod>2024-07-31T15:50:57+07:00</lastmod>
+    <lastmod>2024-09-21T16:28:54+07:00</lastmod>
   </url><url>
-    <loc>https://minhtuanact.github.io/tags/cve/</loc>
-    <lastmod>2024-07-31T15:50:57+07:00</lastmod>
+    <loc>https://minhtuanact.github.io/tags/ctf/</loc>
+    <lastmod>2024-09-21T16:28:54+07:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.github.io/</loc>
+    <lastmod>2024-09-21T16:28:54+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/posts/</loc>
+    <lastmod>2024-09-21T16:28:54+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/tags/</loc>
+    <lastmod>2024-09-21T16:28:54+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/tags/writeup/</loc>
+    <lastmod>2024-09-21T16:28:54+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/posts/writeup-patchstack-wcus-ctf/</loc>
+    <lastmod>2024-09-21T16:28:54+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/tags/cve/</loc>
     <lastmod>2024-07-31T15:50:57+07:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.github.io/posts/mot-vai-nhung-vulnerable-gan-day-cua-whatsup-gold/</loc>
     <lastmod>2024-07-31T15:50:57+07:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.github.io/tags/note/</loc>
-    <lastmod>2024-07-31T15:50:57+07:00</lastmod>
-  </url><url>
-    <loc>https://minhtuanact.github.io/posts/</loc>
-    <lastmod>2024-07-31T15:50:57+07:00</lastmod>
-  </url><url>
-    <loc>https://minhtuanact.github.io/tags/</loc>
     <lastmod>2024-07-31T15:50:57+07:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.github.io/tags/mayfest2024/</loc>
@@ -491,9 +500,6 @@
     <loc>https://minhtuanact.github.io/tags/cascade/</loc>
     <lastmod>2020-07-27T10:16:19+07:00</lastmod>
   </url><url>
-    <loc>https://minhtuanact.github.io/tags/writeup/</loc>
-    <lastmod>2020-07-27T10:16:19+07:00</lastmod>
-  </url><url>
     <loc>https://minhtuanact.github.io/posts/hackthebox-writeup-book/</loc>
     <lastmod>2020-07-12T07:30:42+07:00</lastmod>
   </url><url>
@@ -646,9 +652,6 @@
   </url><url>
     <loc>https://minhtuanact.github.io/posts/vulnhub-ctf-raven-2-walkthrough-van-la-chiem-quyen-root-lan-nay-la-mysql/</loc>
     <lastmod>2019-06-20T15:51:23+07:00</lastmod>
-  </url><url>
-    <loc>https://minhtuanact.github.io/tags/ctf/</loc>
-    <lastmod>2019-06-18T11:21:04+07:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.github.io/tags/overflow/</loc>
     <lastmod>2019-06-18T11:21:04+07:00</lastmod>
