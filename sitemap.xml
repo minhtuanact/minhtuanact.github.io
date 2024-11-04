@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minhtuanact.github.io/tags/contentcreator/</loc>
-    <lastmod>2024-09-21T16:28:54+07:00</lastmod>
+    <loc>https://minhtuanact.github.io/tags/burpsuite/</loc>
+    <lastmod>2024-10-31T08:58:06+07:00</lastmod>
   </url><url>
-    <loc>https://minhtuanact.github.io/tags/ctf/</loc>
-    <lastmod>2024-09-21T16:28:54+07:00</lastmod>
+    <loc>https://minhtuanact.github.io/tags/contentcreator/</loc>
+    <lastmod>2024-10-31T08:58:06+07:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.github.io/</loc>
-    <lastmod>2024-09-21T16:28:54+07:00</lastmod>
+    <lastmod>2024-10-31T08:58:06+07:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.github.io/posts/</loc>
-    <lastmod>2024-09-21T16:28:54+07:00</lastmod>
+    <lastmod>2024-10-31T08:58:06+07:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.github.io/tags/</loc>
+    <lastmod>2024-10-31T08:58:06+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/tags/tls/</loc>
+    <lastmod>2024-10-31T08:58:06+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/posts/tls-fingerprint-va-van-de-tls-fingerprint-cua-website-voi-burp-suite/</loc>
+    <lastmod>2024-10-31T08:58:06+07:00</lastmod>
+  </url><url>
+    <loc>https://minhtuanact.github.io/tags/ctf/</loc>
     <lastmod>2024-09-21T16:28:54+07:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.github.io/tags/writeup/</loc>
@@ -343,9 +352,6 @@
   </url><url>
     <loc>https://minhtuanact.github.io/posts/dnsstager-cong-cu-giup-ban-an-payload-trong-dns/</loc>
     <lastmod>2021-08-23T07:24:08+07:00</lastmod>
-  </url><url>
-    <loc>https://minhtuanact.github.io/tags/burpsuite/</loc>
-    <lastmod>2021-06-20T22:04:09+07:00</lastmod>
   </url><url>
     <loc>https://minhtuanact.github.io/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite-phan-2/</loc>
     <lastmod>2021-06-20T22:04:09+07:00</lastmod>

@@ -9,7 +9,18 @@
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 21 Sep 2024 16:28:54 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Oct 2024 08:58:06 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TLS Fingerprint và vấn đề TLS Fingerprint của Website với Burp Suite</title>
+      <link>https://minhtuanact.github.io/posts/tls-fingerprint-va-van-de-tls-fingerprint-cua-website-voi-burp-suite/</link>
+      <pubDate>Thu, 31 Oct 2024 08:58:06 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/posts/tls-fingerprint-va-van-de-tls-fingerprint-cua-website-voi-burp-suite/</guid>
+      <description>Vấn đề Với cài đặt mặc định của BurpSuite, khi proxy traffic và truy cập vào https://search.censys.io sẽ bị chặn lại bởi code 403 này trong khi đó truy cập bình thường (không thông qua Burp) thì không sao
+Vậy nguyên nhân ở đây là gì, chúng ta cùng nhau tìm hiểu nhé
+Xác Định và Mô Phỏng TLS Fingerprint của Website với Burp Suite Trong lĩnh vực an ninh mạng hiện đại, việc hiểu rõ và có khả năng tương tác với các giao thức bảo mật như TLS (Transport Layer Security) là vô cùng quan trọng.</description>
+    </item>
+    
     <item>
       <title>Writeup Patchstack WCUS CTF</title>
       <link>https://minhtuanact.github.io/posts/writeup-patchstack-wcus-ctf/</link>

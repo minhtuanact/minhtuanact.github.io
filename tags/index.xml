@@ -9,13 +9,31 @@
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 21 Sep 2024 16:28:54 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Oct 2024 08:58:06 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BurpSuite</title>
+      <link>https://minhtuanact.github.io/tags/burpsuite/</link>
+      <pubDate>Thu, 31 Oct 2024 08:58:06 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/tags/burpsuite/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ContentCreator</title>
       <link>https://minhtuanact.github.io/tags/contentcreator/</link>
-      <pubDate>Sat, 21 Sep 2024 16:28:54 +0700</pubDate>
+      <pubDate>Thu, 31 Oct 2024 08:58:06 +0700</pubDate>
       
       <guid>https://minhtuanact.github.io/tags/contentcreator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TLS</title>
+      <link>https://minhtuanact.github.io/tags/tls/</link>
+      <pubDate>Thu, 31 Oct 2024 08:58:06 +0700</pubDate>
+      
+      <guid>https://minhtuanact.github.io/tags/tls/</guid>
       <description></description>
     </item>
     
@@ -736,15 +754,6 @@
       <pubDate>Mon, 23 Aug 2021 07:24:08 +0700</pubDate>
       
       <guid>https://minhtuanact.github.io/tags/dnsstager/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BurpSuite</title>
-      <link>https://minhtuanact.github.io/tags/burpsuite/</link>
-      <pubDate>Sun, 20 Jun 2021 22:04:09 +0700</pubDate>
-      
-      <guid>https://minhtuanact.github.io/tags/burpsuite/</guid>
       <description></description>
     </item>
     
