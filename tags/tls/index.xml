@@ -9,6 +9,7 @@
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Thu, 31 Oct 2024 08:58:06 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/tls/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TLS Fingerprint và vấn đề TLS Fingerprint của Website với Burp Suite</title>

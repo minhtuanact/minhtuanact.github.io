@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>picture on minhtuanact|Blog - Keep a flame in the rain!</title>
+    <title>Picture on minhtuanact|Blog - Keep a flame in the rain!</title>
     <link>https://minhtuanact.github.io/tags/picture/</link>
-    <description>Recent content in picture on minhtuanact|Blog - Keep a flame in the rain!</description>
+    <description>Recent content in Picture on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Tue, 02 Jul 2019 12:58:46 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/picture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cách ấn dữ liệu bí mật trong tệp hình ảnh hoặc âm thanh chỉ mất vài giây và vô cùng an toàn</title>
@@ -16,7 +17,7 @@
       <pubDate>Tue, 02 Jul 2019 12:58:46 +0700</pubDate>
       
       <guid>https://minhtuanact.github.io/posts/cach-an-du-lieu-bi-mat-trong-tep-hinh-anh-hoac-am-thanh-chi-mat-vai-giay-va-vo-cung-an-toan/</guid>
-      <description>Mở đầu  Steganography là một nghệ thuật che giấu thông tin trong mắt người bình thường. Ở đây, mình sẽ hướng dẫn chỉ cho bạn cách sử dụng Steghide - một công cụ terminal rất đơn giản được sử dụng để làm việc đó. Mình sẽ giải thích về khái niệm để bạn hiểu về những gì đang xảy ra ở trong tập tin. Đây là một công cụ đơn giản, có thể cấu hình và chỉ mât vài giây để ẩn thông tin trong nhiều loại tệp khác nhau.</description>
+      <description>Mở đầu Steganography là một nghệ thuật che giấu thông tin trong mắt người bình thường. Ở đây, mình sẽ hướng dẫn chỉ cho bạn cách sử dụng Steghide - một công cụ terminal rất đơn giản được sử dụng để làm việc đó. Mình sẽ giải thích về khái niệm để bạn hiểu về những gì đang xảy ra ở trong tập tin. Đây là một công cụ đơn giản, có thể cấu hình và chỉ mât vài giây để ẩn thông tin trong nhiều loại tệp khác nhau.</description>
     </item>
     
   </channel>

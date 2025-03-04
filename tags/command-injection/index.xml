@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>command injection on minhtuanact|Blog - Keep a flame in the rain!</title>
+    <title>Command Injection on minhtuanact|Blog - Keep a flame in the rain!</title>
     <link>https://minhtuanact.github.io/tags/command-injection/</link>
-    <description>Recent content in command injection on minhtuanact|Blog - Keep a flame in the rain!</description>
+    <description>Recent content in Command Injection on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Tue, 06 Aug 2019 10:52:12 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/command-injection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OS Command Injection là gì, Command Injection có nguy hiểm không?, cần cực kỳ thận trọng đối với các lệnh OS gọi từ Website của bạn</title>

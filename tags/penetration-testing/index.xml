@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>penetration testing on minhtuanact|Blog - Keep a flame in the rain!</title>
+    <title>Penetration Testing on minhtuanact|Blog - Keep a flame in the rain!</title>
     <link>https://minhtuanact.github.io/tags/penetration-testing/</link>
-    <description>Recent content in penetration testing on minhtuanact|Blog - Keep a flame in the rain!</description>
+    <description>Recent content in Penetration Testing on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Thu, 23 May 2019 09:48:22 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/penetration-testing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tổng hợp các câu hỏi phỏng vấn pentest - kiến thức chung (P1)</title>
@@ -17,7 +18,7 @@
       
       <guid>https://minhtuanact.github.io/posts/tong-hop-cac-cau-hoi-phong-van-pentest-kien-thuc-chung-p1/</guid>
       <description>Hỏi: What are the phases of a penetration test? Trả lời: Thông thường, pentest được chia ra làm 6 giai đoạn Sáu giai đoạn này rất quan trọng để lập kế hoạch và thực hiện thành công bài pentest. Đối với pentest thì có rất nhiều mảng pentest như Pentest Website, Pentest Network, Pentest Server. Nhưng nhìn chung thì Pentest có các giai đoạn như sau:
- Pre-Engagement Interactions  Đây là bước thống nhất các yêu cầu của bên cần pentest và các chiến lược mà bên thực hiện pentest đề ra.</description>
+Pre-Engagement Interactions Đây là bước thống nhất các yêu cầu của bên cần pentest và các chiến lược mà bên thực hiện pentest đề ra.</description>
     </item>
     
   </channel>

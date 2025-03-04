@@ -9,6 +9,7 @@
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Thu, 24 Sep 2020 15:00:28 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Win-KeX - kéo Windows và Kali hoà làm một</title>
@@ -27,7 +28,7 @@ Có thể thấy rằng việc bạn sử dụng Windows nhưng vẫn muốn hac
       
       <guid>https://minhtuanact.github.io/posts/ban-thich-dung-windows-nhung-lai-muon-co-cam-giac-go-code-tren-linux/</guid>
       <description>Lưu ý: Bài viết có đưa ra nhiều ý kiến cá nhân, mọi người cùng đọc và tham khảo.
- Hiện nay, việc sử dụng Window và Linux (ở đây mình không nói đến macOS) là khá phổ biến đối với các lập trình viên. Và có rất nhiều lập trình viên đam mê khá nhiều game. Như ở công ty mình thì dùng ubuntu (do công ty tiết kiệm vì mua Windows bản quyền khá tốn kém), việc dùng Linux cũng có rất nhiều cái hay, nhưng vấn đề Linux vẫn chưa xử lý tốt đó là chơi game, việc chơi game thì Windows nói số 2 không ai dám đứng nhất từ trước đến nay.</description>
+Hiện nay, việc sử dụng Window và Linux (ở đây mình không nói đến macOS) là khá phổ biến đối với các lập trình viên. Và có rất nhiều lập trình viên đam mê khá nhiều game. Như ở công ty mình thì dùng ubuntu (do công ty tiết kiệm vì mua Windows bản quyền khá tốn kém), việc dùng Linux cũng có rất nhiều cái hay, nhưng vấn đề Linux vẫn chưa xử lý tốt đó là chơi game, việc chơi game thì Windows nói số 2 không ai dám đứng nhất từ trước đến nay.</description>
     </item>
     
   </channel>

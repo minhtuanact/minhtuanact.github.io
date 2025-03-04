@@ -9,6 +9,7 @@
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Sat, 21 Sep 2024 16:28:54 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/writeup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writeup Patchstack WCUS CTF</title>

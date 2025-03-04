@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>reqable on minhtuanact|Blog - Keep a flame in the rain!</title>
+    <title>Reqable on minhtuanact|Blog - Keep a flame in the rain!</title>
     <link>https://minhtuanact.github.io/tags/reqable/</link>
-    <description>Recent content in reqable on minhtuanact|Blog - Keep a flame in the rain!</description>
+    <description>Recent content in Reqable on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Thu, 30 May 2024 21:27:02 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/reqable/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reqable, một giải pháp khác để bắt request trên app mobile</title>

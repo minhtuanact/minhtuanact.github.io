@@ -9,6 +9,7 @@
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Wed, 14 Apr 2021 17:08:10 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Làm mới desktop linux của bạn với tasksel</title>
@@ -28,7 +29,7 @@ Tasksel Cài đặt Trước hết, đối mặt với cái màn hình Ubuntu m�
       <guid>https://minhtuanact.github.io/posts/lam-the-nao-de-rce-tren-windows-tu-linux/</guid>
       <description>Các Pentester có thể họ rất quen thuộc với hệ điều hành Linux với những command line trên terminal, tuy nhiên nếu gặp phải server chạy Windows thì họ lại khá lúng túng trong việc RCE. Bài viết này mình sẽ chỉ ra vài cách có thể RCE trên Windows từ Linux.
 Sử dụng Impacket Impacket là gì?
- Impacket is a collection of Python classes for working with network protocols.</description>
+Impacket is a collection of Python classes for working with network protocols. Impacket is focused on providing low-level programmatic access to the packets and for some protocols (e.</description>
     </item>
     
     <item>
@@ -38,7 +39,7 @@ Sử dụng Impacket Impacket là gì?
       
       <guid>https://minhtuanact.github.io/posts/ban-thich-dung-windows-nhung-lai-muon-co-cam-giac-go-code-tren-linux/</guid>
       <description>Lưu ý: Bài viết có đưa ra nhiều ý kiến cá nhân, mọi người cùng đọc và tham khảo.
- Hiện nay, việc sử dụng Window và Linux (ở đây mình không nói đến macOS) là khá phổ biến đối với các lập trình viên. Và có rất nhiều lập trình viên đam mê khá nhiều game. Như ở công ty mình thì dùng ubuntu (do công ty tiết kiệm vì mua Windows bản quyền khá tốn kém), việc dùng Linux cũng có rất nhiều cái hay, nhưng vấn đề Linux vẫn chưa xử lý tốt đó là chơi game, việc chơi game thì Windows nói số 2 không ai dám đứng nhất từ trước đến nay.</description>
+Hiện nay, việc sử dụng Window và Linux (ở đây mình không nói đến macOS) là khá phổ biến đối với các lập trình viên. Và có rất nhiều lập trình viên đam mê khá nhiều game. Như ở công ty mình thì dùng ubuntu (do công ty tiết kiệm vì mua Windows bản quyền khá tốn kém), việc dùng Linux cũng có rất nhiều cái hay, nhưng vấn đề Linux vẫn chưa xử lý tốt đó là chơi game, việc chơi game thì Windows nói số 2 không ai dám đứng nhất từ trước đến nay.</description>
     </item>
     
     <item>
@@ -66,7 +67,7 @@ About Công cụ này được phát triển bởi Andre Marques và đây là m
       <pubDate>Fri, 26 Jul 2019 09:08:58 +0700</pubDate>
       
       <guid>https://minhtuanact.github.io/posts/linux-broken-permission-and-object-lifetime-handling-for-ptrace-traceme-chiem-quyen-root-hau-het-cac-may-chay-linux/</guid>
-      <description>Mở đầu  Ngày hôm qua, 1 thành viên trong đội của tôi đã gửi cho tôi 1 bài post trên facebook nói về con CVE-2019-13272 này. Sau một hồi tìm hiểu thì con CVE này cực kì nghiêm trọng. Nó có thể chiếm quyền root máy của bạn chỉ sau đúng một nốt nhạc. Bài viết này chỉ mang tính giới thiệu, bạn nào muốn tìm hiểu về cách thức hoạt động của con CVE-2019-13272 thì bạn có thể tìm hiểu trên mạng nhé ^^.</description>
+      <description>Mở đầu Ngày hôm qua, 1 thành viên trong đội của tôi đã gửi cho tôi 1 bài post trên facebook nói về con CVE-2019-13272 này. Sau một hồi tìm hiểu thì con CVE này cực kì nghiêm trọng. Nó có thể chiếm quyền root máy của bạn chỉ sau đúng một nốt nhạc. Bài viết này chỉ mang tính giới thiệu, bạn nào muốn tìm hiểu về cách thức hoạt động của con CVE-2019-13272 thì bạn có thể tìm hiểu trên mạng nhé ^^.</description>
     </item>
     
     <item>
@@ -75,7 +76,7 @@ About Công cụ này được phát triển bởi Andre Marques và đây là m
       <pubDate>Thu, 20 Jun 2019 15:51:23 +0700</pubDate>
       
       <guid>https://minhtuanact.github.io/posts/vulnhub-ctf-raven-2-walkthrough-van-la-chiem-quyen-root-lan-nay-la-mysql/</guid>
-      <description>Mở đầu  Dạo này mình rất có hứng thú với mấy bài lab trên VulnHub.com. Lần này lại là một bài nữa, có thể chọc ngoáy khá nhiều vấn đề ở bài này. Bạn nào muốn build lên làm thử thì qua link này Raven: 2 Thôi thì bắt đầu vào chiến thôi. Bài này có tất cả là 4 cờ. Mình đi theo hướng tìm lần lượt 4 cờ luôn nhé.</description>
+      <description>Mở đầu Dạo này mình rất có hứng thú với mấy bài lab trên VulnHub.com. Lần này lại là một bài nữa, có thể chọc ngoáy khá nhiều vấn đề ở bài này. Bạn nào muốn build lên làm thử thì qua link này Raven: 2 Thôi thì bắt đầu vào chiến thôi. Bài này có tất cả là 4 cờ. Mình đi theo hướng tìm lần lượt 4 cờ luôn nhé.</description>
     </item>
     
     <item>
@@ -84,7 +85,7 @@ About Công cụ này được phát triển bởi Andre Marques và đây là m
       <pubDate>Mon, 17 Jun 2019 08:02:36 +0700</pubDate>
       
       <guid>https://minhtuanact.github.io/posts/vulnhub-ctf-dc-2-cuop-5-flags-va-cai-ket/</guid>
-      <description>Mở đầu  Tiếp tục là mình đây, sau khi viết xong bài DC-3 Walkthrough - Cuộc phiêu lưu kỳ thú thì mình lại build lên lab nữa cho nhóm thử sức xem sao. Cụ thể là lab DC-2. Bài này có tất cả là 5 cờ, tính cả cờ cuối. Chúng ta phải tìm đủ 5 cờ đó mới hoàn thành bài lab này. Mọi người theo mình nhé.  Tấn công   Vẫn như các bài khác, đầu tiên mình phải dùng nmap quét tất cả các IP trong dải mạng của mình để tìm ra IP của lab.</description>
+      <description>Mở đầu Tiếp tục là mình đây, sau khi viết xong bài DC-3 Walkthrough - Cuộc phiêu lưu kỳ thú thì mình lại build lên lab nữa cho nhóm thử sức xem sao. Cụ thể là lab DC-2. Bài này có tất cả là 5 cờ, tính cả cờ cuối. Chúng ta phải tìm đủ 5 cờ đó mới hoàn thành bài lab này. Mọi người theo mình nhé. Tấn công Vẫn như các bài khác, đầu tiên mình phải dùng nmap quét tất cả các IP trong dải mạng của mình để tìm ra IP của lab.</description>
     </item>
     
   </channel>

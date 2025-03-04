@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>bidragon on minhtuanact|Blog - Keep a flame in the rain!</title>
+    <title>Bidragon on minhtuanact|Blog - Keep a flame in the rain!</title>
     <link>https://minhtuanact.github.io/tags/bidragon/</link>
-    <description>Recent content in bidragon on minhtuanact|Blog - Keep a flame in the rain!</description>
+    <description>Recent content in Bidragon on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Sat, 13 Nov 2021 11:44:05 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/bidragon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lại hack game Blockchain, truy cập vào tài khoản bất kỳ trong game</title>
@@ -17,7 +18,7 @@
       
       <guid>https://minhtuanact.github.io/posts/lai-hack-game-blockchain-truy-cap-vao-tai-khoan-bat-ky-trong-game/</guid>
       <description>Kiến thức về Blockchain của mình vẫn đang hạn hẹp, nếu có câu nào hay kiến thức chỗ nào mình hiểu sai thì xin các bạn góp ý ở dưới phần comment nhé
- Dạo gần đây mình cùng homie của mình cũng hay đi xiên các con game Blockchain, do trend NFT game Blockchain đang cực kỳ nổi bây giờ, nhất là Việt Nam mình có con game Axie Infinity vốn hoá hàng tỷ Biden.</description>
+Dạo gần đây mình cùng homie của mình cũng hay đi xiên các con game Blockchain, do trend NFT game Blockchain đang cực kỳ nổi bây giờ, nhất là Việt Nam mình có con game Axie Infinity vốn hoá hàng tỷ Biden.</description>
     </item>
     
   </channel>

@@ -9,6 +9,7 @@
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Tue, 18 Jan 2022 10:53:35 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/gitlab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setup debug Gitlab, tưởng không khó mà cũng không khó lắm</title>

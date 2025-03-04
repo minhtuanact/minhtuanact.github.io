@@ -9,6 +9,7 @@
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Tue, 28 Nov 2023 15:20:42 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/django/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Phòng chống Race Condition trong Django</title>
@@ -17,7 +18,7 @@
       
       <guid>https://minhtuanact.github.io/posts/phong-chong-race-condition-trong-django/</guid>
       <description>Bài viết được viết lại theo ý hiểu của người viết, nội dung chủ yếu được lấy từ bài viết gốc https://mp.weixin.qq.com/s/9f5Hxoyw5ne8IcYx4uwwvQ của tác giả @phith0n
- Lỗ hổng Race Condition là một lỗ hổng bảo mật, xảy ra khi hai hoặc nhiều luồng (threads) hoặc quy trình cùng truy cập và thay đổi dữ liệu chia sẻ mà không có cơ chế kiểm soát. Điều này có thể dẫn đến tình trạng không đồng bộ và gây ra những hậu quả ngoài ý muốn, từ việc mất dữ liệu đến việc thực hiện các hành động không mong muốn.</description>
+Lỗ hổng Race Condition là một lỗ hổng bảo mật, xảy ra khi hai hoặc nhiều luồng (threads) hoặc quy trình cùng truy cập và thay đổi dữ liệu chia sẻ mà không có cơ chế kiểm soát. Điều này có thể dẫn đến tình trạng không đồng bộ và gây ra những hậu quả ngoài ý muốn, từ việc mất dữ liệu đến việc thực hiện các hành động không mong muốn.</description>
     </item>
     
   </channel>

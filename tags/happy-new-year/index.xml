@@ -9,6 +9,7 @@
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Mon, 15 Mar 2021 10:45:23 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/happy-new-year/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Đọc Medium khi bị nhà mạng chặn</title>
@@ -46,7 +47,8 @@ Những ý tưởng ấy tôi chưa lần nào ghi lên giấy, vì hồi ấy t
       
       <guid>https://minhtuanact.github.io/posts/cac-cau-hinh-sai-nginx-pho-bien-khien-web-server-cua-ban-gap-nguy-hiem-part-1/</guid>
       <description>Intro Nginx được sử dụng làm web server, reverse proxy mạnh mẽ, nginx được cài đặt cho khoảng 1/3 số web site trên thế giới này. Trong bài viết này sẽ là một số cấu hình sai Nginx phổ biến mà với các cấu hình như vậy, web server của bạn sẽ dễ dàng bị tấn công
- Bài viết này được tham khảo blog của Detectify Crowdsource tại https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/</description>
+Bài viết này được tham khảo blog của Detectify Crowdsource tại https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/
+Nginx là một trong những web server được sử dụng phổ biến nhất trên Internet do dễ dàng cài đặt, dung lượng nhẹ, tích hợp nhiều module và sử dụng file cấu hình đơn giản, thân thiện với người dùng.</description>
     </item>
     
   </channel>

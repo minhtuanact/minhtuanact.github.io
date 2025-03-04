@@ -9,6 +9,7 @@
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Wed, 18 May 2022 10:55:34 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/reconnection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RCE với Dependency Confusion</title>
@@ -17,8 +18,8 @@
       
       <guid>https://minhtuanact.github.io/posts/rce-voi-dependency-confusion/</guid>
       <description>Bài viết này được dịch và viết theo ý hiểu của người viết thông qua nhiều nguồn
- Kể từ khi bạn mới học code Python, bạn có sử dụng mấy package rất tiện lợi install trên pip không
-1  pip install &amp;lt;package_name&amp;gt;   Như mình thì mình cứ thế install, không cần biết là package đó có đủ tin tưởng hay không, cũng chẳng thèm đọc source của cái package đó nữa, cứ install được việc của mình đã :D, đến khi mình đọc được cái bài viết này, thì mình vẫn cứ tin tưởng package đó thôi, vẫn chẳng mảy may suy nghĩ gì :frowning:</description>
+Kể từ khi bạn mới học code Python, bạn có sử dụng mấy package rất tiện lợi install trên pip không
+1 pip install &amp;lt;package_name&amp;gt; Như mình thì mình cứ thế install, không cần biết là package đó có đủ tin tưởng hay không, cũng chẳng thèm đọc source của cái package đó nữa, cứ install được việc của mình đã :D, đến khi mình đọc được cái bài viết này, thì mình vẫn cứ tin tưởng package đó thôi, vẫn chẳng mảy may suy nghĩ gì :frowning:</description>
     </item>
     
     <item>
@@ -30,7 +31,7 @@
       <description>Nếu có bạn nào đã từng làm lab với Portswigger thì chắc hẳn cũng biết Exploit Server của Portswigger hoạt động như nào.
 Nếu bạn nào chưa biết về Exploit Server này thì mình có thể mô tả nó 1 chút, cũng khá đơn giản thôi :D.
 Đầu tiên Exploit Server có 4 phần
- HTTPS: Sử dụng HTTPS hay không File: nó chính là URI đó Head: Phần đầu của response mà bạn muốn server trả về Body: Phần thân của response mà bạn muốn server trả về  Ví dụ với setting như hình trên, khi truy cập vào URL ta sẽ được response như sau</description>
+HTTPS: Sử dụng HTTPS hay không File: nó chính là URI đó Head: Phần đầu của response mà bạn muốn server trả về Body: Phần thân của response mà bạn muốn server trả về Ví dụ với setting như hình trên, khi truy cập vào URL ta sẽ được response như sau</description>
     </item>
     
   </channel>
