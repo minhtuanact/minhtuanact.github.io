@@ -5,22 +5,25 @@
     <link>https://minhtuanact.github.io/tags/nginx/</link>
     <description>Recent content in Nginx on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
+      <title>minhtuanact|Blog - Keep a flame in the rain!</title>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Jan 2021 10:44:52 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/nginx/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 10:44:52 +0700</lastBuildDate>
+    <atom:link href="https://minhtuanact.github.io/tags/nginx/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Các cấu hình sai Nginx phổ biến khiến web server của bạn gặp nguy hiểm (Part 1)</title>
       <link>https://minhtuanact.github.io/posts/cac-cau-hinh-sai-nginx-pho-bien-khien-web-server-cua-ban-gap-nguy-hiem-part-1/</link>
       <pubDate>Mon, 04 Jan 2021 10:44:52 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/cac-cau-hinh-sai-nginx-pho-bien-khien-web-server-cua-ban-gap-nguy-hiem-part-1/</guid>
-      <description>Intro Nginx được sử dụng làm web server, reverse proxy mạnh mẽ, nginx được cài đặt cho khoảng 1/3 số web site trên thế giới này. Trong bài viết này sẽ là một số cấu hình sai Nginx phổ biến mà với các cấu hình như vậy, web server của bạn sẽ dễ dàng bị tấn công
-Bài viết này được tham khảo blog của Detectify Crowdsource tại https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/
-Nginx là một trong những web server được sử dụng phổ biến nhất trên Internet do dễ dàng cài đặt, dung lượng nhẹ, tích hợp nhiều module và sử dụng file cấu hình đơn giản, thân thiện với người dùng.</description>
+      <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+&lt;p&gt;Nginx được sử dụng làm web server, reverse proxy mạnh mẽ, nginx được cài đặt cho khoảng 1/3 số web site trên thế giới này. Trong bài viết này sẽ là một số cấu hình sai Nginx phổ biến mà với các cấu hình như vậy, web server của bạn sẽ dễ dàng bị tấn công&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bài viết này được tham khảo blog của Detectify Crowdsource tại &lt;a href=&#34;https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/&#34;&gt;https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Nginx là một trong những web server được sử dụng phổ biến nhất trên Internet do dễ dàng cài đặt, dung lượng nhẹ, tích hợp nhiều module và sử dụng file cấu hình đơn giản, thân thiện với người dùng.
+Detectify đã phân tích giúp chúng ta với gần 50.000 file config Nginx được public trên Github, và chỉ ra được 4 lỗi cơ bản người dùng mắc phải khi cấu hình với Nginx như sau:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

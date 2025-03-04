@@ -5,29 +5,28 @@
     <link>https://minhtuanact.github.io/tags/khaibutdauxuan/</link>
     <description>Recent content in KhaiButDauXuan on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
+      <title>minhtuanact|Blog - Keep a flame in the rain!</title>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Feb 2023 09:55:17 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/khaibutdauxuan/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Feb 2023 09:55:17 +0700</lastBuildDate>
+    <atom:link href="https://minhtuanact.github.io/tags/khaibutdauxuan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build ChatGPT Telegram bot, đỡ phải login, daily limits</title>
       <link>https://minhtuanact.github.io/posts/build-chatgpt-telegram-bot-do-phai-login-daily-limits/</link>
       <pubDate>Fri, 03 Feb 2023 09:55:17 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/build-chatgpt-telegram-bot-do-phai-login-daily-limits/</guid>
-      <description>Chắc hẳn có lẽ nhiều bạn sử dụng ChatGPT gặp tình trạng quá tải như thế này trên phiên bản web, cũng đúng vì ChatGPT tăng trưởng quá khủng khiếp, 100 triệu người dùng trong vòng có 60 ngày, mất 30 triệu đô để duy trì hệ thống. Hiện tại sắp tới ChatGPT có ra mắt phiên bản ChatGPT Plus với giá $20/tháng, tương ứng vào khoảng 1,5% người dùng hiện tại sử dụng thì mới đủ bù vào tiền duy trì hệ thống kia.</description>
+      <description>&lt;p&gt;Chắc hẳn có lẽ nhiều bạn sử dụng ChatGPT gặp tình trạng quá tải như thế này trên phiên bản web, cũng đúng vì ChatGPT tăng trưởng quá khủng khiếp, 100 triệu người dùng trong vòng có 60 ngày, mất 30 triệu đô để duy trì hệ thống. Hiện tại sắp tới ChatGPT có ra mắt phiên bản ChatGPT Plus với giá $20/tháng, tương ứng vào khoảng 1,5% người dùng hiện tại sử dụng thì mới đủ bù vào tiền duy trì hệ thống kia.
+&lt;img alt=&#34;image.png&#34; loading=&#34;lazy&#34; src=&#34;https://images.viblo.asia/7c3cdf3a-ecfe-42a6-9e32-518b8a668b83.png&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Phân tích CVE-2021-22941, RCE Citrix Sharefile &lt; 5.11.20</title>
       <link>https://minhtuanact.github.io/posts/phan-tich-cve-2021-22941-rce-citrix-sharefile-51120/</link>
       <pubDate>Fri, 11 Feb 2022 19:20:29 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/phan-tich-cve-2021-22941-rce-citrix-sharefile-51120/</guid>
-      <description>Cái bài này mình định lên từ năm ngoái rồi, mà phân tích xong lại để đấy, thật ra là lười viết lại nên tồn đọng đến bây giờ chưa viết bài phân tích lên blog 🥲. Thôi thì ngồi viết lại vừa để có chỗ lưu lại, vừa để nhớ xem mình đã phân tích những cái gì, biết đâu sau này lại sử dụng lại thì sao :D</description>
+      <description>&lt;p&gt;Cái bài này mình định lên từ năm ngoái rồi, mà phân tích xong lại để đấy, thật ra là lười viết lại nên tồn đọng đến bây giờ chưa viết bài phân tích lên blog 🥲. Thôi thì ngồi viết lại vừa để có chỗ lưu lại, vừa để nhớ xem mình đã phân tích những cái gì, biết đâu sau này lại sử dụng lại thì sao :D&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

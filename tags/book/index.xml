@@ -5,21 +5,25 @@
     <link>https://minhtuanact.github.io/tags/book/</link>
     <description>Recent content in Book on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
+      <title>minhtuanact|Blog - Keep a flame in the rain!</title>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2020 07:30:42 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/book/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jul 2020 07:30:42 +0700</lastBuildDate>
+    <atom:link href="https://minhtuanact.github.io/tags/book/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Hackthebox- Writeup] Book</title>
       <link>https://minhtuanact.github.io/posts/hackthebox-writeup-book/</link>
       <pubDate>Sun, 12 Jul 2020 07:30:42 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/hackthebox-writeup-book/</guid>
-      <description>Mở đầu Trở lại với series Writeup Hackthebox, ngày hôm qua Hackthebox đã cho retired bài Book này, được đánh giá là Medium. Bài này được mình làm từ 24/03 nhưng đến giờ mới được public. Hãy cùng mình tìm hiểu xem bài này chơi thế nào nha.
-Get User Quét nmap thấy server này có trang web tại cổng 80. Thực hiện đăng ký thì vào ổn k có vấn đề gì, thực hiện đăng ký theo mail admin@book.</description>
+      <description>&lt;h1 id=&#34;mở-đầu&#34;&gt;Mở đầu&lt;/h1&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://images.viblo.asia/7b5ccc73-edf0-4896-b641-10e539792f55.png&#34;&gt;
+Trở lại với series Writeup Hackthebox, ngày hôm qua Hackthebox đã cho retired bài Book này, được đánh giá là Medium. Bài này được mình làm từ 24/03 nhưng đến giờ mới được public. Hãy cùng mình tìm hiểu xem bài này chơi thế nào nha.&lt;/p&gt;
+&lt;h1 id=&#34;get-user&#34;&gt;Get User&lt;/h1&gt;
+&lt;p&gt;Quét nmap thấy server này có trang web tại cổng 80.
+Thực hiện đăng ký thì vào ổn k có vấn đề gì, thực hiện đăng ký theo mail &lt;code&gt;admin@book.htb&lt;/code&gt; thì báo tài khoản này đã tồn tại.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

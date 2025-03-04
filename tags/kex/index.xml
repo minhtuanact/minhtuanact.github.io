@@ -5,21 +5,23 @@
     <link>https://minhtuanact.github.io/tags/kex/</link>
     <description>Recent content in Kex on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
+      <title>minhtuanact|Blog - Keep a flame in the rain!</title>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2020 15:00:28 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/kex/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Sep 2020 15:00:28 +0700</lastBuildDate>
+    <atom:link href="https://minhtuanact.github.io/tags/kex/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Win-KeX - kéo Windows và Kali hoà làm một</title>
       <link>https://minhtuanact.github.io/posts/win-kex-keo-windows-va-kali-hoa-lam-mot/</link>
       <pubDate>Thu, 24 Sep 2020 15:00:28 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/win-kex-keo-windows-va-kali-hoa-lam-mot/</guid>
-      <description>Overview Vào ngày 18-08-2020, Kali Linux release phiên bản 2020.3 với nhiều cải tiến như thay thế Bash truyền thống sang ZSH,&amp;hellip; nhưng đối với mình, ấn tượng hơn cả là Win-KeX (Windows + Kali Desktop EXperience) được Kali hỗ trợ để sử dụng giao diện đồ hoạ với WSL2 trên Windows.
-Có thể thấy rằng việc bạn sử dụng Windows nhưng vẫn muốn hacking trên Kali Linux mà không muốn bật VMWare lên hay Dual-boot thì đây chính là giải pháp cho bạn, quá trình khởi động cũng rất nhanh nữa :D.</description>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;Vào ngày 18-08-2020, Kali Linux release phiên bản 2020.3 với nhiều cải tiến như thay thế &lt;strong&gt;Bash&lt;/strong&gt; truyền thống sang &lt;strong&gt;ZSH&lt;/strong&gt;,&amp;hellip; nhưng đối với mình, ấn tượng hơn cả là &lt;strong&gt;Win-KeX (Windows + Kali Desktop EXperience)&lt;/strong&gt; được Kali hỗ trợ để sử dụng giao diện đồ hoạ với WSL2 trên Windows.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://images.viblo.asia/587015e6-7e8c-4878-865d-0ba8ad0cb339.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Có thể thấy rằng việc bạn sử dụng Windows nhưng vẫn muốn hacking trên Kali Linux mà không muốn bật VMWare lên hay Dual-boot thì đây chính là giải pháp cho bạn, quá trình khởi động cũng rất nhanh nữa :D.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

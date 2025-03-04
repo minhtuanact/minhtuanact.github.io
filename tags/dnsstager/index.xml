@@ -5,21 +5,24 @@
     <link>https://minhtuanact.github.io/tags/dnsstager/</link>
     <description>Recent content in DNSStager on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
+      <title>minhtuanact|Blog - Keep a flame in the rain!</title>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Aug 2021 07:24:08 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/dnsstager/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Aug 2021 07:24:08 +0700</lastBuildDate>
+    <atom:link href="https://minhtuanact.github.io/tags/dnsstager/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DNSStager - Công cụ giúp bạn ẩn payload trong DNS</title>
       <link>https://minhtuanact.github.io/posts/dnsstager-cong-cu-giup-ban-an-payload-trong-dns/</link>
       <pubDate>Mon, 23 Aug 2021 07:24:08 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/dnsstager-cong-cu-giup-ban-an-payload-trong-dns/</guid>
-      <description>Ví dụ luôn cho nó uy tín (nguồn https://shells.systems)
-Mở đầu Đối với các bạn redteam, việc đi sâu nhất vào trong hệ thống của khách hàng là điều luôn cần đạt được, để đảm bảo an toàn cho những khách hàng của mình. Hay với 1 bug bounty hunter cần nâng severity của lỗ hổng mình tìm ra lên cao nhất để nhận được số tiền hậu hĩnh. Có thể các bạn redteam/pentester cũng gặp phải trường hợp payload của mình bị AV xoá/chặn như thế nào, công cụ này giúp các bạn có thể ẩn payload của mình và truyền nó với từng phần, giúp AV không phát hiện ra.</description>
+      <description>&lt;p&gt;Ví dụ luôn cho nó uy tín
+&lt;img loading=&#34;lazy&#34; src=&#34;https://shells.systems/wp-content/uploads/2021/05/DNSStagerCSWorked.gif&#34;&gt;
+(nguồn &lt;a href=&#34;https://shells.systems&#34;&gt;https://shells.systems&lt;/a&gt;)&lt;/p&gt;
+&lt;h1 id=&#34;mở-đầu&#34;&gt;Mở đầu&lt;/h1&gt;
+&lt;p&gt;Đối với các bạn redteam, việc đi sâu nhất vào trong hệ thống của khách hàng là điều luôn cần đạt được, để đảm bảo an toàn cho những khách hàng của mình. Hay với 1 bug bounty hunter cần nâng severity của lỗ hổng mình tìm ra lên cao nhất để nhận được số tiền hậu hĩnh. Có thể các bạn redteam/pentester cũng gặp phải trường hợp payload của mình bị AV xoá/chặn như thế nào, công cụ này giúp các bạn có thể ẩn payload của mình và truyền nó với từng phần, giúp AV không phát hiện ra. Đây cũng là một điều mà các AV trên thế giới cần để tâm đến và giúp người dùng của mình an toàn.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

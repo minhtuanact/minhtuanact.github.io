@@ -5,21 +5,22 @@
     <link>https://minhtuanact.github.io/tags/debug/</link>
     <description>Recent content in Debug on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
+      <title>minhtuanact|Blog - Keep a flame in the rain!</title>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Jan 2022 10:53:35 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/debug/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jan 2022 10:53:35 +0700</lastBuildDate>
+    <atom:link href="https://minhtuanact.github.io/tags/debug/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setup debug Gitlab, tưởng không khó mà cũng không khó lắm</title>
       <link>https://minhtuanact.github.io/posts/setup-debug-gitlab-tuong-khong-kho-ma-cung-khong-kho-lam/</link>
       <pubDate>Tue, 18 Jan 2022 10:53:35 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/setup-debug-gitlab-tuong-khong-kho-ma-cung-khong-kho-lam/</guid>
-      <description>Chuyện là gần đây Gitlab có bản Security Release mới, trong đó có một lỗi Arbitrary file read via group import feature	khá là thú vị, ảnh hưởng đến tất cả các phiên bản GitLab CE/EE có đầu là 14.5 trở lên nên mình cùng với anh @vigov5 đã thử setup lên research bug này xem sao :D. Bạn đọc có thể đọc thêm thông tin tại đây https://about.gitlab.com/releases/2022/01/11/security-release-gitlab-14-6-2-released/#arbitrary-file-read-via-group-import-feature
-Mình chưa setup debug Ruby on Rails bao giờ, nên đã mất 2 ngày trời setup.</description>
+      <description>&lt;p&gt;Chuyện là gần đây Gitlab có bản Security Release mới, trong đó có một lỗi &lt;strong&gt;Arbitrary file read via group import feature&lt;/strong&gt;	khá là thú vị, ảnh hưởng đến tất cả các phiên bản GitLab CE/EE có đầu là 14.5 trở lên nên mình cùng với anh @vigov5 đã thử setup lên research bug này xem sao :D. Bạn đọc có thể đọc thêm thông tin tại đây
+&lt;a href=&#34;https://about.gitlab.com/releases/2022/01/11/security-release-gitlab-14-6-2-released/#arbitrary-file-read-via-group-import-feature&#34;&gt;https://about.gitlab.com/releases/2022/01/11/security-release-gitlab-14-6-2-released/#arbitrary-file-read-via-group-import-feature&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mình chưa setup debug Ruby on Rails bao giờ, nên đã mất 2 ngày trời setup. Viết lên đây vừa là chia sẻ cho bạn đọc cũng như là một nơi lưu trữ lỡ mình có lỗi ở đâu đó thì còn có cái vào đọc lại =))&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

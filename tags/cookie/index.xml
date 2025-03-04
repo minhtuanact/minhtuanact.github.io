@@ -5,20 +5,21 @@
     <link>https://minhtuanact.github.io/tags/cookie/</link>
     <description>Recent content in Cookie on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
+      <title>minhtuanact|Blog - Keep a flame in the rain!</title>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jan 2020 09:16:32 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/cookie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jan 2020 09:16:32 +0700</lastBuildDate>
+    <atom:link href="https://minhtuanact.github.io/tags/cookie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tấn công CSRF và các vấn đề xung quanh</title>
       <link>https://minhtuanact.github.io/posts/tan-cong-csrf-va-cac-van-de-xung-quanh/</link>
       <pubDate>Thu, 09 Jan 2020 09:16:32 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/tan-cong-csrf-va-cac-van-de-xung-quanh/</guid>
-      <description>Giới thiệu một chút về Web Cookies Do HTTP là giao thức không trạng thái, các request trước và sau không hề liên quan đến nhau. HTTP không thể phân biệt người dùng này với người dùng khác được. Để giải quyết vấn đề này, cookie được ra đời để phân biệt các người dùng với nhau. Các server sẽ set-cookie cho trình duyệt lưu lại, sau đó mỗi khi gửi request thì trình duyệt sẽ thêm mã cookie này rồi gửi đến server.</description>
+      <description>&lt;h2 id=&#34;giới-thiệu-một-chút-về-web-cookies&#34;&gt;Giới thiệu một chút về Web Cookies&lt;/h2&gt;
+&lt;p&gt;Do HTTP là giao thức không trạng thái, các request trước và sau không hề liên quan đến nhau. HTTP không thể phân biệt người dùng này với người dùng khác được. Để giải quyết vấn đề này, &lt;strong&gt;cookie&lt;/strong&gt; được ra đời để phân biệt các người dùng với nhau. Các server sẽ set-cookie cho trình duyệt lưu lại, sau đó mỗi khi gửi request thì trình duyệt sẽ thêm mã cookie này rồi gửi đến server.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

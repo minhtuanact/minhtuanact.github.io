@@ -5,20 +5,21 @@
     <link>https://minhtuanact.github.io/tags/cyber-security/</link>
     <description>Recent content in Cyber Security on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
+      <title>minhtuanact|Blog - Keep a flame in the rain!</title>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Dec 2023 13:58:30 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/cyber-security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Dec 2023 13:58:30 +0700</lastBuildDate>
+    <atom:link href="https://minhtuanact.github.io/tags/cyber-security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Có hàng ngàn bí mật được giấu trong Docker Hub!</title>
       <link>https://minhtuanact.github.io/posts/co-hang-ngan-bi-mat-duoc-giau-trong-docker-hub/</link>
       <pubDate>Fri, 22 Dec 2023 13:58:30 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/co-hang-ngan-bi-mat-duoc-giau-trong-docker-hub/</guid>
-      <description>Docker Hub là gì? Docker Hub là kho lưu trữ trên cloud dành cho cộng đồng Docker để lưu trữ, chia sẻ và phân phối Docker Image. Các Docker Image này sau khi chạy sẽ trở thành container, bên trong bao gồm tất cả các source code phần mềm cần thiết, thời gian chạy, thư viện, biến môi trường và tệp cấu hình để dễ dàng triển khai một ứng dụng trong Docker.</description>
+      <description>&lt;h1 id=&#34;docker-hub-là-gì&#34;&gt;Docker Hub là gì?&lt;/h1&gt;
+&lt;p&gt;Docker Hub là kho lưu trữ trên cloud dành cho cộng đồng Docker để lưu trữ, chia sẻ và phân phối Docker Image. Các Docker Image này sau khi chạy sẽ trở thành container, bên trong bao gồm tất cả các source code phần mềm cần thiết, thời gian chạy, thư viện, biến môi trường và tệp cấu hình để dễ dàng triển khai một ứng dụng trong Docker. Docker Hub là một registry lớn nhất sử dụng để lưu trữ Docker Image&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

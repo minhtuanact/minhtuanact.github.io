@@ -5,22 +5,31 @@
     <link>https://minhtuanact.github.io/tags/confusion/</link>
     <description>Recent content in Confusion on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
+      <title>minhtuanact|Blog - Keep a flame in the rain!</title>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 May 2022 10:55:34 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/confusion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 May 2022 10:55:34 +0700</lastBuildDate>
+    <atom:link href="https://minhtuanact.github.io/tags/confusion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RCE với Dependency Confusion</title>
       <link>https://minhtuanact.github.io/posts/rce-voi-dependency-confusion/</link>
       <pubDate>Wed, 18 May 2022 10:55:34 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/rce-voi-dependency-confusion/</guid>
-      <description>Bài viết này được dịch và viết theo ý hiểu của người viết thông qua nhiều nguồn
-Kể từ khi bạn mới học code Python, bạn có sử dụng mấy package rất tiện lợi install trên pip không
-1 pip install &amp;lt;package_name&amp;gt; Như mình thì mình cứ thế install, không cần biết là package đó có đủ tin tưởng hay không, cũng chẳng thèm đọc source của cái package đó nữa, cứ install được việc của mình đã :D, đến khi mình đọc được cái bài viết này, thì mình vẫn cứ tin tưởng package đó thôi, vẫn chẳng mảy may suy nghĩ gì :frowning:</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Bài viết này được dịch và viết theo ý hiểu của người viết thông qua nhiều nguồn&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Kể từ khi bạn mới học code Python, bạn có sử dụng mấy package rất tiện lợi install trên &lt;code&gt;pip&lt;/code&gt; không&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;pip install &amp;lt;package_name&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Như mình thì mình cứ thế install, không cần biết là package đó có đủ tin tưởng hay không, cũng chẳng thèm đọc source của cái package đó nữa, cứ install được việc của mình đã :D, đến khi mình đọc được cái bài viết &lt;a href=&#34;https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610&#34;&gt;này&lt;/a&gt;, thì mình vẫn cứ tin tưởng package đó thôi, vẫn chẳng mảy may suy nghĩ gì :frowning:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

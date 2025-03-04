@@ -5,42 +5,46 @@
     <link>https://minhtuanact.github.io/tags/burpsuite/</link>
     <description>Recent content in BurpSuite on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
+      <title>minhtuanact|Blog - Keep a flame in the rain!</title>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Oct 2024 08:58:06 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/burpsuite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Oct 2024 08:58:06 +0700</lastBuildDate>
+    <atom:link href="https://minhtuanact.github.io/tags/burpsuite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TLS Fingerprint và vấn đề TLS Fingerprint của Website với Burp Suite</title>
       <link>https://minhtuanact.github.io/posts/tls-fingerprint-va-van-de-tls-fingerprint-cua-website-voi-burp-suite/</link>
       <pubDate>Thu, 31 Oct 2024 08:58:06 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/tls-fingerprint-va-van-de-tls-fingerprint-cua-website-voi-burp-suite/</guid>
-      <description>Vấn đề Với cài đặt mặc định của BurpSuite, khi proxy traffic và truy cập vào https://search.censys.io sẽ bị chặn lại bởi code 403 này trong khi đó truy cập bình thường (không thông qua Burp) thì không sao
-Vậy nguyên nhân ở đây là gì, chúng ta cùng nhau tìm hiểu nhé
-Xác Định và Mô Phỏng TLS Fingerprint của Website với Burp Suite Trong lĩnh vực an ninh mạng hiện đại, việc hiểu rõ và có khả năng tương tác với các giao thức bảo mật như TLS (Transport Layer Security) là vô cùng quan trọng.</description>
+      <description>&lt;h1 id=&#34;vấn-đề&#34;&gt;Vấn đề&lt;/h1&gt;
+&lt;p&gt;Với cài đặt mặc định của BurpSuite, khi proxy traffic và truy cập vào &lt;a href=&#34;https://search.censys.io&#34;&gt;https://search.censys.io&lt;/a&gt; sẽ bị chặn lại bởi code 403 này trong khi đó truy cập bình thường (không thông qua Burp) thì không sao&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image.png&#34; loading=&#34;lazy&#34; src=&#34;https://images.viblo.asia/f225f5ff-9e1f-41a4-8c42-403b4b816ee3.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Vậy nguyên nhân ở đây là gì, chúng ta cùng nhau tìm hiểu nhé&lt;/p&gt;
+&lt;h1 id=&#34;xác-định-và-mô-phỏng-tls-fingerprint-của-website-với-burp-suite&#34;&gt;Xác Định và Mô Phỏng TLS Fingerprint của Website với Burp Suite&lt;/h1&gt;
+&lt;p&gt;Trong lĩnh vực an ninh mạng hiện đại, việc hiểu rõ và có khả năng tương tác với các giao thức bảo mật như TLS (Transport Layer Security) là vô cùng quan trọng. Khi một trang web sử dụng TLS fingerprinting để bảo vệ mình, việc cấu hình Burp Suite để bắt chước đúng fingerprint của một client hợp lệ là cần thiết để có thể proxy traffic và phân tích một cách hiệu quả. Trong bài viết này, chúng ta sẽ tìm hiểu cách xác định các thông số TLS mà trang web sử dụng và cách cấu hình Burp Suite để bắt chước fingerprint đó, cụ thể là với trang &lt;a href=&#34;https://search.censys.io/&#34;&gt;https://search.censys.io/&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Một vài mẹo mà mình sử dụng với Burp Suite (phần 2)</title>
       <link>https://minhtuanact.github.io/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite-phan-2/</link>
       <pubDate>Sun, 20 Jun 2021 22:04:09 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite-phan-2/</guid>
-      <description>Bài này là bài nối tiếp về một bài mà mình đã viết tại Một vài mẹo mà mình sử dụng với Burp Suite. Bài đầu tiên mình đã viết về một vài tips và trick mình hay sử dụng với Burp Suite mặc định rồi, bài này mình sẽ viết về một vài extensions của Burp Suite mà mình hay dùng nhé ;)
-Burp Extensions Đây là một hình chụp nhanh các extension trong Burp Suite của mình, hiện tại thì vài cái thì hay dùng, vài cái thì xài rồi thôi không xài nữa, mình chỉ điểm qua những cái mà mình cảm thấy hay và mọi người có thể dùng nó nhé :D</description>
+      <description>&lt;p&gt;Bài này là bài nối tiếp về một bài mà mình đã viết tại &lt;a href=&#34;https://viblo.asia/p/mot-vai-meo-ma-minh-su-dung-voi-burp-suite-GrLZDGowKk0&#34;&gt;Một vài mẹo mà mình sử dụng với Burp Suite&lt;/a&gt;. Bài đầu tiên mình đã viết về một vài tips và trick mình hay sử dụng với Burp Suite mặc định rồi, bài này mình sẽ viết về một vài extensions của Burp Suite mà mình hay dùng nhé ;)&lt;/p&gt;
+&lt;h2 id=&#34;burp-extensions&#34;&gt;Burp Extensions&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;image.png&#34; loading=&#34;lazy&#34; src=&#34;https://images.viblo.asia/3bff8390-4cc6-4510-aec5-b8710c4a88ca.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Đây là một hình chụp nhanh các extension trong Burp Suite của mình, hiện tại thì vài cái thì hay dùng, vài cái thì xài rồi thôi không xài nữa, mình chỉ điểm qua những cái mà mình cảm thấy hay và mọi người có thể dùng nó nhé :D&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Một vài mẹo mà mình sử dụng với Burp Suite</title>
       <link>https://minhtuanact.github.io/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite/</link>
       <pubDate>Fri, 21 May 2021 11:11:40 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/mot-vai-meo-ma-minh-su-dung-voi-burp-suite/</guid>
-      <description>Tự sự Chuyện là có mấy thằng em hỏi mình về cách sử dụng Burp Suite như thế nào, rồi có tips and tricks nào hay hay không cho chúng nó học, tiện đây mình cũng chia sẻ kinh nghiệm của một người sử dụng BurpSuite cũng được một khoảng thời gian rồi. Hi vọng những chia sẻ này sẽ giúp ích được cho bạn đọc :v:
-Burp Suite là gì?</description>
+      <description>&lt;h1 id=&#34;tự-sự&#34;&gt;Tự sự&lt;/h1&gt;
+&lt;p&gt;Chuyện là có mấy thằng em hỏi mình về cách sử dụng Burp Suite như thế nào, rồi có tips and tricks nào hay hay không cho chúng nó học, tiện đây mình cũng chia sẻ kinh nghiệm của một người sử dụng BurpSuite cũng được một khoảng thời gian rồi. Hi vọng những chia sẻ này sẽ giúp ích được cho bạn đọc :v:&lt;/p&gt;
+&lt;h1 id=&#34;burp-suite-là-gì&#34;&gt;Burp Suite là gì?&lt;/h1&gt;
+&lt;p&gt;Đối với những bạn làm pentester hay một số bạn QA (và cả những người anh đang làm AI ở công ty mình nữa :kissing_heart:) khéo cũng đã quá quen với Burp Suite rồi, mình chỉ chia sẻ lại một chút để cho những bạn chưa biết đến phần mềm cực kỳ nổi tiếng được viết bằng Java này hiểu thêm về nó nhé.&lt;br&gt;
+Burp Suite được khai sinh bởi &lt;strong&gt;Dafydd Stuttard&lt;/strong&gt; (PortSwigger founder and CEO), và hiện tại Burp Suite vẫn đang được liên tục phát triển bởi PortSwigger. Trải qua rất nhiều phiên bản, BurpSuite đã đỡ &amp;ldquo;xấu&amp;rdquo; hơn và xịn hơn ngày xưa và có một diện mạo như bây giờ.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

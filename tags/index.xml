@@ -5,1424 +5,1112 @@
     <link>https://minhtuanact.github.io/tags/</link>
     <description>Recent content in Tags on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
+      <title>minhtuanact|Blog - Keep a flame in the rain!</title>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Oct 2024 08:58:06 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Oct 2024 08:58:06 +0700</lastBuildDate>
+    <atom:link href="https://minhtuanact.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BurpSuite</title>
       <link>https://minhtuanact.github.io/tags/burpsuite/</link>
       <pubDate>Thu, 31 Oct 2024 08:58:06 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/burpsuite/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ContentCreator</title>
       <link>https://minhtuanact.github.io/tags/contentcreator/</link>
       <pubDate>Thu, 31 Oct 2024 08:58:06 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/contentcreator/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>TLS</title>
       <link>https://minhtuanact.github.io/tags/tls/</link>
       <pubDate>Thu, 31 Oct 2024 08:58:06 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/tls/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CTF</title>
       <link>https://minhtuanact.github.io/tags/ctf/</link>
       <pubDate>Sat, 21 Sep 2024 16:28:54 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/ctf/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>WriteUp</title>
       <link>https://minhtuanact.github.io/tags/writeup/</link>
       <pubDate>Sat, 21 Sep 2024 16:28:54 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/writeup/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CVE</title>
       <link>https://minhtuanact.github.io/tags/cve/</link>
       <pubDate>Wed, 31 Jul 2024 15:50:57 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/cve/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Note</title>
       <link>https://minhtuanact.github.io/tags/note/</link>
       <pubDate>Wed, 31 Jul 2024 15:50:57 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/note/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MayFest2024</title>
       <link>https://minhtuanact.github.io/tags/mayfest2024/</link>
       <pubDate>Thu, 30 May 2024 21:27:02 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/mayfest2024/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Proxy</title>
       <link>https://minhtuanact.github.io/tags/proxy/</link>
       <pubDate>Thu, 30 May 2024 21:27:02 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/proxy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Reqable</title>
       <link>https://minhtuanact.github.io/tags/reqable/</link>
       <pubDate>Thu, 30 May 2024 21:27:02 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/reqable/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>VPN</title>
       <link>https://minhtuanact.github.io/tags/vpn/</link>
       <pubDate>Thu, 30 May 2024 21:27:02 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/vpn/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cloudflare</title>
       <link>https://minhtuanact.github.io/tags/cloudflare/</link>
       <pubDate>Thu, 02 May 2024 16:04:24 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/cloudflare/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Tunnels</title>
       <link>https://minhtuanact.github.io/tags/tunnels/</link>
       <pubDate>Thu, 02 May 2024 16:04:24 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/tunnels/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Wireguard</title>
       <link>https://minhtuanact.github.io/tags/wireguard/</link>
       <pubDate>Thu, 02 May 2024 16:04:24 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/wireguard/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Flask</title>
       <link>https://minhtuanact.github.io/tags/flask/</link>
       <pubDate>Fri, 29 Mar 2024 14:34:10 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/flask/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>HackTheBox</title>
       <link>https://minhtuanact.github.io/tags/hackthebox/</link>
       <pubDate>Fri, 29 Mar 2024 14:34:10 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/hackthebox/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Memcached</title>
       <link>https://minhtuanact.github.io/tags/memcached/</link>
       <pubDate>Fri, 29 Mar 2024 14:34:10 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/memcached/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>AI</title>
       <link>https://minhtuanact.github.io/tags/ai/</link>
       <pubDate>Fri, 19 Jan 2024 15:14:33 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/ai/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ChatBot</title>
       <link>https://minhtuanact.github.io/tags/chatbot/</link>
       <pubDate>Fri, 19 Jan 2024 15:14:33 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/chatbot/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>LLM</title>
       <link>https://minhtuanact.github.io/tags/llm/</link>
       <pubDate>Fri, 19 Jan 2024 15:14:33 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/llm/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cyber Security</title>
       <link>https://minhtuanact.github.io/tags/cyber-security/</link>
       <pubDate>Fri, 22 Dec 2023 13:58:30 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/cyber-security/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Docker</title>
       <link>https://minhtuanact.github.io/tags/docker/</link>
       <pubDate>Fri, 22 Dec 2023 13:58:30 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/docker/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Secret</title>
       <link>https://minhtuanact.github.io/tags/secret/</link>
       <pubDate>Fri, 22 Dec 2023 13:58:30 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/secret/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Django</title>
       <link>https://minhtuanact.github.io/tags/django/</link>
       <pubDate>Tue, 28 Nov 2023 15:20:42 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/django/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Phòng Chống</title>
       <link>https://minhtuanact.github.io/tags/ph%C3%B2ng-ch%E1%BB%91ng/</link>
       <pubDate>Tue, 28 Nov 2023 15:20:42 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/ph%C3%B2ng-ch%E1%BB%91ng/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Race Condition</title>
       <link>https://minhtuanact.github.io/tags/race-condition/</link>
       <pubDate>Tue, 28 Nov 2023 15:20:42 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/race-condition/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CyberSecurity</title>
       <link>https://minhtuanact.github.io/tags/cybersecurity/</link>
       <pubDate>Tue, 20 Jun 2023 10:46:00 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/cybersecurity/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Pentest</title>
       <link>https://minhtuanact.github.io/tags/pentest/</link>
       <pubDate>Tue, 20 Jun 2023 10:46:00 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/pentest/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Saml</title>
       <link>https://minhtuanact.github.io/tags/saml/</link>
       <pubDate>Tue, 20 Jun 2023 10:46:00 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/saml/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hacking</title>
       <link>https://minhtuanact.github.io/tags/hacking/</link>
       <pubDate>Wed, 17 May 2023 15:58:26 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/hacking/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MayFest2023</title>
       <link>https://minhtuanact.github.io/tags/mayfest2023/</link>
       <pubDate>Wed, 17 May 2023 15:58:26 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/mayfest2023/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Automation</title>
       <link>https://minhtuanact.github.io/tags/automation/</link>
       <pubDate>Fri, 05 May 2023 14:51:32 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/automation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ignition</title>
       <link>https://minhtuanact.github.io/tags/ignition/</link>
       <pubDate>Fri, 05 May 2023 14:51:32 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/ignition/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>RCE</title>
       <link>https://minhtuanact.github.io/tags/rce/</link>
       <pubDate>Fri, 05 May 2023 14:51:32 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/rce/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CVE-2023-23488</title>
       <link>https://minhtuanact.github.io/tags/cve-2023-23488/</link>
       <pubDate>Tue, 07 Mar 2023 21:24:08 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/cve-2023-23488/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Paid Memberships Pro</title>
       <link>https://minhtuanact.github.io/tags/paid-memberships-pro/</link>
       <pubDate>Tue, 07 Mar 2023 21:24:08 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/paid-memberships-pro/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Wordpress</title>
       <link>https://minhtuanact.github.io/tags/wordpress/</link>
       <pubDate>Tue, 07 Mar 2023 21:24:08 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/wordpress/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ChatGPT</title>
       <link>https://minhtuanact.github.io/tags/chatgpt/</link>
       <pubDate>Fri, 03 Feb 2023 09:55:17 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/chatgpt/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>KhaiButDauXuan</title>
       <link>https://minhtuanact.github.io/tags/khaibutdauxuan/</link>
       <pubDate>Fri, 03 Feb 2023 09:55:17 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/khaibutdauxuan/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Telegram</title>
       <link>https://minhtuanact.github.io/tags/telegram/</link>
       <pubDate>Fri, 03 Feb 2023 09:55:17 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/telegram/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Clone</title>
       <link>https://minhtuanact.github.io/tags/clone/</link>
       <pubDate>Thu, 15 Dec 2022 16:06:05 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/clone/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Conan</title>
       <link>https://minhtuanact.github.io/tags/conan/</link>
       <pubDate>Thu, 15 Dec 2022 16:06:05 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/conan/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Express</title>
       <link>https://minhtuanact.github.io/tags/express/</link>
       <pubDate>Thu, 03 Nov 2022 14:55:27 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/express/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>XSS</title>
       <link>https://minhtuanact.github.io/tags/xss/</link>
       <pubDate>Thu, 03 Nov 2022 14:55:27 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/xss/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>XSSHunter</title>
       <link>https://minhtuanact.github.io/tags/xsshunter/</link>
       <pubDate>Thu, 03 Nov 2022 14:55:27 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/xsshunter/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ETC</title>
       <link>https://minhtuanact.github.io/tags/etc/</link>
       <pubDate>Thu, 22 Sep 2022 14:02:12 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/etc/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Flipper Zero</title>
       <link>https://minhtuanact.github.io/tags/flipper-zero/</link>
       <pubDate>Thu, 22 Sep 2022 14:02:12 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/flipper-zero/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>RFID</title>
       <link>https://minhtuanact.github.io/tags/rfid/</link>
       <pubDate>Thu, 22 Sep 2022 14:02:12 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/rfid/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>FlipperZero</title>
       <link>https://minhtuanact.github.io/tags/flipperzero/</link>
       <pubDate>Mon, 01 Aug 2022 10:13:27 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/flipperzero/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Multi-Tool</title>
       <link>https://minhtuanact.github.io/tags/multi-tool/</link>
       <pubDate>Mon, 01 Aug 2022 10:13:27 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/multi-tool/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Transceiver</title>
       <link>https://minhtuanact.github.io/tags/transceiver/</link>
       <pubDate>Mon, 01 Aug 2022 10:13:27 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/transceiver/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Confusion</title>
       <link>https://minhtuanact.github.io/tags/confusion/</link>
       <pubDate>Wed, 18 May 2022 10:55:34 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/confusion/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Dependency</title>
       <link>https://minhtuanact.github.io/tags/dependency/</link>
       <pubDate>Wed, 18 May 2022 10:55:34 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/dependency/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MayFest2022</title>
       <link>https://minhtuanact.github.io/tags/mayfest2022/</link>
       <pubDate>Wed, 18 May 2022 10:55:34 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/mayfest2022/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Reconnection</title>
       <link>https://minhtuanact.github.io/tags/reconnection/</link>
       <pubDate>Wed, 18 May 2022 10:55:34 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/reconnection/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Exploit Server</title>
       <link>https://minhtuanact.github.io/tags/exploit-server/</link>
       <pubDate>Tue, 10 May 2022 11:00:29 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/exploit-server/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Portswigger</title>
       <link>https://minhtuanact.github.io/tags/portswigger/</link>
       <pubDate>Tue, 10 May 2022 11:00:29 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/portswigger/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Android</title>
       <link>https://minhtuanact.github.io/tags/android/</link>
       <pubDate>Fri, 08 Apr 2022 08:20:21 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/android/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Emulator</title>
       <link>https://minhtuanact.github.io/tags/emulator/</link>
       <pubDate>Fri, 08 Apr 2022 08:20:21 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/emulator/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Wsa</title>
       <link>https://minhtuanact.github.io/tags/wsa/</link>
       <pubDate>Fri, 08 Apr 2022 08:20:21 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/wsa/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Not Available</title>
       <link>https://minhtuanact.github.io/tags/not-available/</link>
       <pubDate>Fri, 25 Mar 2022 16:45:17 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/not-available/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Port</title>
       <link>https://minhtuanact.github.io/tags/port/</link>
       <pubDate>Fri, 25 Mar 2022 16:45:17 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/port/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Powershell</title>
       <link>https://minhtuanact.github.io/tags/powershell/</link>
       <pubDate>Fri, 25 Mar 2022 16:45:17 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/powershell/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Citrix Sharefile</title>
       <link>https://minhtuanact.github.io/tags/citrix-sharefile/</link>
       <pubDate>Fri, 11 Feb 2022 19:20:29 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/citrix-sharefile/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CVE-2021-22941</title>
       <link>https://minhtuanact.github.io/tags/cve-2021-22941/</link>
       <pubDate>Fri, 11 Feb 2022 19:20:29 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/cve-2021-22941/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Debug</title>
       <link>https://minhtuanact.github.io/tags/debug/</link>
       <pubDate>Tue, 18 Jan 2022 10:53:35 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/debug/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>GitLab</title>
       <link>https://minhtuanact.github.io/tags/gitlab/</link>
       <pubDate>Tue, 18 Jan 2022 10:53:35 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/gitlab/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Setup</title>
       <link>https://minhtuanact.github.io/tags/setup/</link>
       <pubDate>Tue, 18 Jan 2022 10:53:35 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/setup/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Metamask</title>
       <link>https://minhtuanact.github.io/tags/metamask/</link>
       <pubDate>Wed, 24 Nov 2021 17:06:59 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/metamask/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Nft Game</title>
       <link>https://minhtuanact.github.io/tags/nft-game/</link>
       <pubDate>Wed, 24 Nov 2021 17:06:59 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/nft-game/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Signature</title>
       <link>https://minhtuanact.github.io/tags/signature/</link>
       <pubDate>Wed, 24 Nov 2021 17:06:59 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/signature/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Bidragon</title>
       <link>https://minhtuanact.github.io/tags/bidragon/</link>
       <pubDate>Sat, 13 Nov 2021 11:44:05 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/bidragon/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Blockchain</title>
       <link>https://minhtuanact.github.io/tags/blockchain/</link>
       <pubDate>Sat, 13 Nov 2021 11:44:05 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/blockchain/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hack Game</title>
       <link>https://minhtuanact.github.io/tags/hack-game/</link>
       <pubDate>Sat, 13 Nov 2021 11:44:05 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/hack-game/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Game</title>
       <link>https://minhtuanact.github.io/tags/game/</link>
       <pubDate>Fri, 05 Nov 2021 18:04:05 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/game/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hack</title>
       <link>https://minhtuanact.github.io/tags/hack/</link>
       <pubDate>Fri, 05 Nov 2021 18:04:05 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/hack/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Application</title>
       <link>https://minhtuanact.github.io/tags/application/</link>
       <pubDate>Fri, 22 Oct 2021 14:22:04 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/application/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Proxifier</title>
       <link>https://minhtuanact.github.io/tags/proxifier/</link>
       <pubDate>Fri, 22 Oct 2021 14:22:04 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/proxifier/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Desktop Partition</title>
       <link>https://minhtuanact.github.io/tags/desktop-partition/</link>
       <pubDate>Tue, 19 Oct 2021 16:28:46 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/desktop-partition/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>PowerToys</title>
       <link>https://minhtuanact.github.io/tags/powertoys/</link>
       <pubDate>Tue, 19 Oct 2021 16:28:46 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/powertoys/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Workspace</title>
       <link>https://minhtuanact.github.io/tags/workspace/</link>
       <pubDate>Tue, 19 Oct 2021 16:28:46 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/workspace/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Apache</title>
       <link>https://minhtuanact.github.io/tags/apache/</link>
       <pubDate>Tue, 14 Sep 2021 14:38:55 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/apache/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DNSStager</title>
       <link>https://minhtuanact.github.io/tags/dnsstager/</link>
       <pubDate>Mon, 23 Aug 2021 07:24:08 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/dnsstager/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>May Fest</title>
       <link>https://minhtuanact.github.io/tags/may-fest/</link>
       <pubDate>Fri, 21 May 2021 11:11:40 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/may-fest/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Port Already</title>
       <link>https://minhtuanact.github.io/tags/port-already/</link>
       <pubDate>Wed, 12 May 2021 10:04:30 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/port-already/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Windows</title>
       <link>https://minhtuanact.github.io/tags/windows/</link>
       <pubDate>Wed, 12 May 2021 10:04:30 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/windows/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Raspberrypi</title>
       <link>https://minhtuanact.github.io/tags/raspberrypi/</link>
       <pubDate>Fri, 07 May 2021 13:59:56 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/raspberrypi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Desktop</title>
       <link>https://minhtuanact.github.io/tags/desktop/</link>
       <pubDate>Wed, 14 Apr 2021 17:08:10 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/desktop/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Kubuntu</title>
       <link>https://minhtuanact.github.io/tags/kubuntu/</link>
       <pubDate>Wed, 14 Apr 2021 17:08:10 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/kubuntu/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Linux</title>
       <link>https://minhtuanact.github.io/tags/linux/</link>
       <pubDate>Wed, 14 Apr 2021 17:08:10 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/linux/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Tasksel</title>
       <link>https://minhtuanact.github.io/tags/tasksel/</link>
       <pubDate>Wed, 14 Apr 2021 17:08:10 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/tasksel/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ubuntu</title>
       <link>https://minhtuanact.github.io/tags/ubuntu/</link>
       <pubDate>Wed, 14 Apr 2021 17:08:10 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/ubuntu/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Happy New Year</title>
       <link>https://minhtuanact.github.io/tags/happy-new-year/</link>
       <pubDate>Mon, 15 Mar 2021 10:45:23 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/happy-new-year/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Medium</title>
       <link>https://minhtuanact.github.io/tags/medium/</link>
       <pubDate>Mon, 15 Mar 2021 10:45:23 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/medium/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Switchy Omega</title>
       <link>https://minhtuanact.github.io/tags/switchy-omega/</link>
       <pubDate>Mon, 15 Mar 2021 10:45:23 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/switchy-omega/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Amazon Web Services (AWS)</title>
       <link>https://minhtuanact.github.io/tags/amazon-web-services-aws/</link>
       <pubDate>Mon, 22 Feb 2021 10:02:43 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/amazon-web-services-aws/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Aws</title>
       <link>https://minhtuanact.github.io/tags/aws/</link>
       <pubDate>Mon, 22 Feb 2021 10:02:43 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/aws/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>LFI</title>
       <link>https://minhtuanact.github.io/tags/lfi/</link>
       <pubDate>Mon, 22 Feb 2021 10:02:43 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/lfi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Laravel</title>
       <link>https://minhtuanact.github.io/tags/laravel/</link>
       <pubDate>Thu, 14 Jan 2021 08:59:20 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/laravel/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>PHP</title>
       <link>https://minhtuanact.github.io/tags/php/</link>
       <pubDate>Thu, 14 Jan 2021 08:59:20 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/php/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Location</title>
       <link>https://minhtuanact.github.io/tags/location/</link>
       <pubDate>Mon, 04 Jan 2021 10:44:52 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/location/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Nginx</title>
       <link>https://minhtuanact.github.io/tags/nginx/</link>
       <pubDate>Mon, 04 Jan 2021 10:44:52 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/nginx/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Unsafe</title>
       <link>https://minhtuanact.github.io/tags/unsafe/</link>
       <pubDate>Mon, 04 Jan 2021 10:44:52 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/unsafe/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Fuzzing</title>
       <link>https://minhtuanact.github.io/tags/fuzzing/</link>
       <pubDate>Fri, 04 Dec 2020 08:08:43 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/fuzzing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Tool</title>
       <link>https://minhtuanact.github.io/tags/tool/</link>
       <pubDate>Fri, 04 Dec 2020 08:08:43 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/tool/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Android Emulator</title>
       <link>https://minhtuanact.github.io/tags/android-emulator/</link>
       <pubDate>Mon, 26 Oct 2020 11:14:55 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/android-emulator/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Android Studio</title>
       <link>https://minhtuanact.github.io/tags/android-studio/</link>
       <pubDate>Mon, 26 Oct 2020 11:14:55 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/android-studio/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Kernel</title>
       <link>https://minhtuanact.github.io/tags/kernel/</link>
       <pubDate>Fri, 09 Oct 2020 16:32:00 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/kernel/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Kali</title>
       <link>https://minhtuanact.github.io/tags/kali/</link>
       <pubDate>Thu, 24 Sep 2020 15:00:28 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/kali/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Kex</title>
       <link>https://minhtuanact.github.io/tags/kex/</link>
       <pubDate>Thu, 24 Sep 2020 15:00:28 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/kex/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>WSL</title>
       <link>https://minhtuanact.github.io/tags/wsl/</link>
       <pubDate>Thu, 24 Sep 2020 15:00:28 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/wsl/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Labs</title>
       <link>https://minhtuanact.github.io/tags/labs/</link>
       <pubDate>Sun, 06 Sep 2020 17:08:05 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/labs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Windows Exploit</title>
       <link>https://minhtuanact.github.io/tags/windows-exploit/</link>
       <pubDate>Sun, 06 Sep 2020 17:08:05 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/windows-exploit/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hot Potato</title>
       <link>https://minhtuanact.github.io/tags/hot-potato/</link>
       <pubDate>Mon, 03 Aug 2020 09:01:12 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/hot-potato/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Kernel Exploits</title>
       <link>https://minhtuanact.github.io/tags/kernel-exploits/</link>
       <pubDate>Mon, 03 Aug 2020 09:01:12 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/kernel-exploits/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Privilege Escalation</title>
       <link>https://minhtuanact.github.io/tags/privilege-escalation/</link>
       <pubDate>Mon, 03 Aug 2020 09:01:12 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/privilege-escalation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Stored Credentials</title>
       <link>https://minhtuanact.github.io/tags/stored-credentials/</link>
       <pubDate>Mon, 03 Aug 2020 09:01:12 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/stored-credentials/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cascade</title>
       <link>https://minhtuanact.github.io/tags/cascade/</link>
       <pubDate>Mon, 27 Jul 2020 10:16:19 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/cascade/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Book</title>
       <link>https://minhtuanact.github.io/tags/book/</link>
       <pubDate>Sun, 12 Jul 2020 07:30:42 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/book/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Exploits</title>
       <link>https://minhtuanact.github.io/tags/exploits/</link>
       <pubDate>Thu, 09 Jul 2020 08:10:29 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/exploits/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service</title>
       <link>https://minhtuanact.github.io/tags/service/</link>
       <pubDate>Thu, 09 Jul 2020 08:10:29 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/service/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Switch User</title>
       <link>https://minhtuanact.github.io/tags/switch-user/</link>
       <pubDate>Wed, 06 May 2020 13:50:16 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/switch-user/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Local Port Forwarding</title>
       <link>https://minhtuanact.github.io/tags/local-port-forwarding/</link>
       <pubDate>Fri, 01 May 2020 06:22:04 +0000</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/local-port-forwarding/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Remote Port Forwarding</title>
       <link>https://minhtuanact.github.io/tags/remote-port-forwarding/</link>
       <pubDate>Fri, 01 May 2020 06:22:04 +0000</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/remote-port-forwarding/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SSH</title>
       <link>https://minhtuanact.github.io/tags/ssh/</link>
       <pubDate>Fri, 01 May 2020 06:22:04 +0000</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/ssh/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ssh Tunnel</title>
       <link>https://minhtuanact.github.io/tags/ssh-tunnel/</link>
       <pubDate>Fri, 01 May 2020 06:22:04 +0000</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/ssh-tunnel/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Registry</title>
       <link>https://minhtuanact.github.io/tags/registry/</link>
       <pubDate>Fri, 01 May 2020 06:55:47 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/registry/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Vscode</title>
       <link>https://minhtuanact.github.io/tags/vscode/</link>
       <pubDate>Tue, 31 Mar 2020 09:04:55 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/vscode/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Outline</title>
       <link>https://minhtuanact.github.io/tags/outline/</link>
       <pubDate>Thu, 06 Feb 2020 14:32:50 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/outline/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>VPS</title>
       <link>https://minhtuanact.github.io/tags/vps/</link>
       <pubDate>Thu, 06 Feb 2020 14:32:50 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/vps/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cookie</title>
       <link>https://minhtuanact.github.io/tags/cookie/</link>
       <pubDate>Thu, 09 Jan 2020 09:16:32 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/cookie/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CSRF</title>
       <link>https://minhtuanact.github.io/tags/csrf/</link>
       <pubDate>Thu, 09 Jan 2020 09:16:32 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/csrf/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Burp Suite</title>
       <link>https://minhtuanact.github.io/tags/burp-suite/</link>
       <pubDate>Mon, 16 Dec 2019 11:14:13 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/burp-suite/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>IDOR</title>
       <link>https://minhtuanact.github.io/tags/idor/</link>
       <pubDate>Mon, 16 Dec 2019 11:14:13 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/idor/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Zip</title>
       <link>https://minhtuanact.github.io/tags/zip/</link>
       <pubDate>Sat, 07 Dec 2019 16:35:41 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/zip/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cmd</title>
       <link>https://minhtuanact.github.io/tags/cmd/</link>
       <pubDate>Sun, 17 Nov 2019 20:41:33 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/cmd/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Linux Terminal</title>
       <link>https://minhtuanact.github.io/tags/linux-terminal/</link>
       <pubDate>Sun, 17 Nov 2019 20:41:33 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/linux-terminal/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CVE-2019-11043</title>
       <link>https://minhtuanact.github.io/tags/cve-2019-11043/</link>
       <pubDate>Fri, 01 Nov 2019 09:15:42 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/cve-2019-11043/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Command Injection</title>
       <link>https://minhtuanact.github.io/tags/command-injection/</link>
       <pubDate>Tue, 06 Aug 2019 10:52:12 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/command-injection/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Shell</title>
       <link>https://minhtuanact.github.io/tags/shell/</link>
       <pubDate>Mon, 05 Aug 2019 10:06:41 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/shell/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Root Privileges</title>
       <link>https://minhtuanact.github.io/tags/root-privileges/</link>
       <pubDate>Fri, 26 Jul 2019 09:08:58 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/root-privileges/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Local File Inclusion</title>
       <link>https://minhtuanact.github.io/tags/local-file-inclusion/</link>
       <pubDate>Thu, 11 Jul 2019 10:25:07 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/local-file-inclusion/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Bypass</title>
       <link>https://minhtuanact.github.io/tags/bypass/</link>
       <pubDate>Tue, 09 Jul 2019 14:46:26 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/bypass/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Picture</title>
       <link>https://minhtuanact.github.io/tags/picture/</link>
       <pubDate>Tue, 02 Jul 2019 12:58:46 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/picture/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Steganography</title>
       <link>https://minhtuanact.github.io/tags/steganography/</link>
       <pubDate>Tue, 02 Jul 2019 12:58:46 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/steganography/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MySql</title>
       <link>https://minhtuanact.github.io/tags/mysql/</link>
       <pubDate>Thu, 20 Jun 2019 15:51:23 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/mysql/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>OverFlow</title>
       <link>https://minhtuanact.github.io/tags/overflow/</link>
       <pubDate>Tue, 18 Jun 2019 11:21:04 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/overflow/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Terminal</title>
       <link>https://minhtuanact.github.io/tags/terminal/</link>
       <pubDate>Mon, 17 Jun 2019 08:02:36 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/terminal/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Web</title>
       <link>https://minhtuanact.github.io/tags/web/</link>
       <pubDate>Mon, 17 Jun 2019 08:02:36 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/web/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Injection</title>
       <link>https://minhtuanact.github.io/tags/injection/</link>
       <pubDate>Thu, 30 May 2019 14:19:51 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/injection/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL</title>
       <link>https://minhtuanact.github.io/tags/sql/</link>
       <pubDate>Thu, 30 May 2019 14:19:51 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/sql/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sql Injection</title>
       <link>https://minhtuanact.github.io/tags/sql-injection/</link>
       <pubDate>Thu, 30 May 2019 14:19:51 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/sql-injection/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>HTML</title>
       <link>https://minhtuanact.github.io/tags/html/</link>
       <pubDate>Wed, 29 May 2019 10:34:02 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/html/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hijack</title>
       <link>https://minhtuanact.github.io/tags/hijack/</link>
       <pubDate>Fri, 24 May 2019 10:48:44 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/hijack/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Networking</title>
       <link>https://minhtuanact.github.io/tags/networking/</link>
       <pubDate>Fri, 24 May 2019 10:48:44 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/networking/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Penetration Testing</title>
       <link>https://minhtuanact.github.io/tags/penetration-testing/</link>
       <pubDate>Thu, 23 May 2019 09:48:22 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/penetration-testing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Security</title>
       <link>https://minhtuanact.github.io/tags/security/</link>
       <pubDate>Thu, 23 May 2019 09:48:22 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/tags/security/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -5,21 +5,22 @@
     <link>https://minhtuanact.github.io/tags/hacking/</link>
     <description>Recent content in Hacking on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
+      <title>minhtuanact|Blog - Keep a flame in the rain!</title>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 May 2023 15:58:26 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/hacking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 May 2023 15:58:26 +0700</lastBuildDate>
+    <atom:link href="https://minhtuanact.github.io/tags/hacking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SAML Hacking (phần 1) - Giới thiệu về SAML</title>
       <link>https://minhtuanact.github.io/posts/saml-hacking-phan-1-gioi-thieu-ve-saml/</link>
       <pubDate>Wed, 17 May 2023 15:58:26 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/saml-hacking-phan-1-gioi-thieu-ve-saml/</guid>
-      <description>Đây là bài mở đầu của series SAML Hacking mà mình tìm hiểu được trong thời gian vừa qua, bài đầu tiên sẽ giới thiệu về SAML và cách thức hoạt động của nó.
-SAML là gì? SAML (Security Assertion Markup Language) là một chuẩn giao thức được sử dụng rộng rãi trong việc truyền tải thông tin xác thực và phân quyền giữa các hệ thống khác nhau. Được áp dụng chủ yếu trong các ứng dụng web, SAML cho phép xác thực người dùng và đối tác bằng cách sử dụng chứng chỉ số và các thông tin khác để xác nhận danh tính.</description>
+      <description>&lt;p&gt;Đây là bài mở đầu của series SAML Hacking mà mình tìm hiểu được trong thời gian vừa qua, bài đầu tiên sẽ giới thiệu về SAML và cách thức hoạt động của nó.&lt;/p&gt;
+&lt;h1 id=&#34;saml-là-gì&#34;&gt;SAML là gì?&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;SAML&lt;/strong&gt; (Security Assertion Markup Language) là một chuẩn giao thức được sử dụng rộng rãi trong việc truyền tải thông tin xác thực và phân quyền giữa các hệ thống khác nhau. Được áp dụng chủ yếu trong các ứng dụng web, SAML cho phép xác thực người dùng và đối tác bằng cách sử dụng chứng chỉ số và các thông tin khác để xác nhận danh tính.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -5,40 +5,39 @@
     <link>https://minhtuanact.github.io/tags/vpn/</link>
     <description>Recent content in VPN on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
+      <title>minhtuanact|Blog - Keep a flame in the rain!</title>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 May 2024 21:27:02 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/vpn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 May 2024 21:27:02 +0700</lastBuildDate>
+    <atom:link href="https://minhtuanact.github.io/tags/vpn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reqable, một giải pháp khác để bắt request trên app mobile</title>
       <link>https://minhtuanact.github.io/posts/reqable-mot-giai-phap-khac-de-bat-request-tren-app-mobile/</link>
       <pubDate>Thu, 30 May 2024 21:27:02 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/reqable-mot-giai-phap-khac-de-bat-request-tren-app-mobile/</guid>
-      <description>Việc bắt request để phân tích lưu lượng mạng là một phần rất quan trọng trong pentest di động và phân tích malware. Thông thường, mình hay sử dụng ProxyDroid để bắt các traffic này đi qua Burp Suite nhằm phân tích và thực hiện pentest. ProxyDroid giúp chặn và phân tích hầu hết các loại traffic, hỗ trợ người dùng xác định các lỗ hổng bảo mật và kiểm tra các ứng dụng di động một cách hiệu quả.</description>
+      <description>&lt;p&gt;Việc bắt request để phân tích lưu lượng mạng là một phần rất quan trọng trong pentest di động và phân tích malware. Thông thường, mình hay sử dụng ProxyDroid để bắt các traffic này đi qua Burp Suite nhằm phân tích và thực hiện pentest. &lt;a href=&#34;https://viblo.asia/p/cai-dat-wsa-windows-subsystem-for-android-de-su-dung-android-tren-windows-cai-dat-android-emulator-sao-cho-ngau-part-2-OeVKBr3JKkW#_cai-dat-proxydroid-7&#34;&gt;ProxyDroid&lt;/a&gt; giúp chặn và phân tích hầu hết các loại traffic, hỗ trợ người dùng xác định các lỗ hổng bảo mật và kiểm tra các ứng dụng di động một cách hiệu quả.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Wireguard, một tác phẩm nghệ thuật</title>
       <link>https://minhtuanact.github.io/posts/wireguard-mot-tac-pham-nghe-thuat/</link>
       <pubDate>Fri, 09 Oct 2020 16:32:00 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/wireguard-mot-tac-pham-nghe-thuat/</guid>
-      <description>Giới thiệu Nếu bạn đã từng sử dụng Facebook vào những năm thứ 10 của thế kỷ 21, bạn đã trải qua khoảng thời gian khó khăn của những dân chơi Facebook hồi đó - sử dụng VPN, vì nhà mạng của Việt Nam chặn IP của Facebook. Vậy VPN là gì mà nó lại có thể bypass được rule của nhà mạng như vậy nhỉ :scream:
-VPN (Virtual Private Network - mạng riêng ảo) cho phép người dùng tạo một đường hầm (tunnel) để kết nối với một mạng khác trên Internet.</description>
+      <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;
+&lt;p&gt;Nếu bạn đã từng sử dụng Facebook vào những năm thứ 10 của thế kỷ 21, bạn đã trải qua khoảng thời gian khó khăn của những dân chơi Facebook hồi đó - sử dụng VPN, vì nhà mạng của Việt Nam chặn IP của Facebook. Vậy VPN là gì mà nó lại có thể bypass được rule của nhà mạng như vậy nhỉ :scream:&lt;/p&gt;
+&lt;p&gt;VPN (Virtual Private Network - mạng riêng ảo) cho phép người dùng tạo một đường hầm (tunnel) để kết nối với một mạng khác trên Internet. VPN rất thích hợp khi các bạn muốn sử dụng Internet với mục đích riêng tư, ngăn chặn việc kiểm tra truy cập của ISP - nhà cung cấp dịch vụ mạng, hay là bạn truy cập Wifi trong quán cafe mà vẫn muốn riêng tư, hay với một điều khác là bạn ngồi tại công ty nhưng muốn lấy dữ liệu từ ổ cứng ở nhà bạn.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Hướng dẫn cài đặt VPN cho VPS - Outline VPN</title>
       <link>https://minhtuanact.github.io/posts/huong-dan-cai-dat-vpn-cho-vps-outline-vpn/</link>
       <pubDate>Thu, 06 Feb 2020 14:32:50 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/huong-dan-cai-dat-vpn-cho-vps-outline-vpn/</guid>
-      <description>Giới thiệu Chắc hẳn mọi người cũng có nghe nói qua về VPN rồi. VPN (Virtual Private Network) là một mạng riêng ảo, sử dụng internet để kết nối 2 địa điểm từ xa hoặc người dùng với một mạng LAN.
-Vậy sử dụng VPN có mục đích gì? Tùy theo mục đích của người sử dụng VPN, có thể kết nối tới server từ xa, truy cập các trang web bị chặn, hay là đơn giản đảm bảo tính riêng tư của bản thân khi kết nối với các mạng công cộng.</description>
+      <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;
+&lt;p&gt;Chắc hẳn mọi người cũng có nghe nói qua về VPN rồi. &lt;strong&gt;VPN (Virtual Private Network)&lt;/strong&gt; là một mạng riêng ảo, sử dụng internet để kết nối 2 địa điểm từ xa hoặc người dùng với một mạng LAN.&lt;/p&gt;
+&lt;h4 id=&#34;vậy-sử-dụng-vpn-có-mục-đích-gì&#34;&gt;Vậy sử dụng VPN có mục đích gì?&lt;/h4&gt;
+&lt;p&gt;Tùy theo mục đích của người sử dụng VPN, có thể kết nối tới server từ xa, truy cập các trang web bị chặn, hay là đơn giản đảm bảo tính riêng tư của bản thân khi kết nối với các mạng công cộng.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

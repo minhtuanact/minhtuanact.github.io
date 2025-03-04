@@ -5,21 +5,21 @@
     <link>https://minhtuanact.github.io/tags/express/</link>
     <description>Recent content in Express on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
+      <title>minhtuanact|Blog - Keep a flame in the rain!</title>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Nov 2022 14:55:27 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/express/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Nov 2022 14:55:27 +0700</lastBuildDate>
+    <atom:link href="https://minhtuanact.github.io/tags/express/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setup XSS Hunter Express (self-hosted) để khai thác XSS</title>
       <link>https://minhtuanact.github.io/posts/setup-xss-hunter-express-self-hosted-de-khai-thac-xss/</link>
       <pubDate>Thu, 03 Nov 2022 14:55:27 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/setup-xss-hunter-express-self-hosted-de-khai-thac-xss/</guid>
-      <description>Chẳng là ai là bug bounty hunter, pentester, researcher security cũng đã từng biết đến công cụ khai thác lỗ hổng XSS XSSHunter. Công cụ này giúp cho các bạn có thể test, khai thác các lỗ hổng XSS (nhưng chủ yếu là blind XSS), hoặc dùng để PoC cho các Triager của các Platform Bug bounty verify cho nó nhanh :joy:
-Tuy nhiên, @IAmMandatory đã thông báo rằng XSS Hunter sắp được shutdown :cry:</description>
+      <description>&lt;p&gt;Chẳng là ai là bug bounty hunter, pentester, researcher security cũng đã từng biết đến công cụ khai thác lỗ hổng XSS &lt;a href=&#34;https://xsshunter.com/&#34;&gt;XSSHunter&lt;/a&gt;. Công cụ này giúp cho các bạn có thể test, khai thác các lỗ hổng XSS (nhưng chủ yếu là blind XSS), hoặc dùng để PoC cho các Triager của các Platform Bug bounty verify cho nó nhanh :joy:&lt;/p&gt;
+&lt;p&gt;Tuy nhiên, @IAmMandatory đã thông báo rằng XSS Hunter sắp được shutdown :cry:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

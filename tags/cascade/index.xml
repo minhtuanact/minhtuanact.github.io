@@ -5,20 +5,21 @@
     <link>https://minhtuanact.github.io/tags/cascade/</link>
     <description>Recent content in Cascade on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
+      <title>minhtuanact|Blog - Keep a flame in the rain!</title>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2020 10:16:19 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/cascade/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jul 2020 10:16:19 +0700</lastBuildDate>
+    <atom:link href="https://minhtuanact.github.io/tags/cascade/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Hackthebox - Writeup] Cascade</title>
       <link>https://minhtuanact.github.io/posts/hackthebox-writeup-cascade/</link>
       <pubDate>Mon, 27 Jul 2020 10:16:19 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/hackthebox-writeup-cascade/</guid>
-      <description>Cascade là bài thứ mấy mình chơi với machine Windows trên hackthebox cũng không nhớ nữa, chỉ nhớ là bài này mình làm vào đúng tối sinh nhật năm nay của mình. Là một bài khá hay với LDAP, mình đã học hỏi được rất nhiều thứ từ bài này. Nhìn lượt vote cũng thấy được bài này chủ yếu sử dụng kỹ thuật Enumeration. Hi vọng writeup này giúp ích gì được cho các bạn đọc bài này :P.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://images.viblo.asia/a1eb482a-a177-4c69-864f-844be6b8516b.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Cascade là bài thứ mấy mình chơi với machine Windows trên hackthebox cũng không nhớ nữa, chỉ nhớ là bài này mình làm vào đúng tối sinh nhật năm nay của mình. Là một bài khá hay với LDAP, mình đã học hỏi được rất nhiều thứ từ bài này. Nhìn lượt vote cũng thấy được bài này chủ yếu sử dụng kỹ thuật Enumeration. Hi vọng writeup này giúp ích gì được cho các bạn đọc bài này :P.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

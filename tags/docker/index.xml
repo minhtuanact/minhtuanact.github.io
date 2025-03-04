@@ -5,29 +5,30 @@
     <link>https://minhtuanact.github.io/tags/docker/</link>
     <description>Recent content in Docker on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
+      <title>minhtuanact|Blog - Keep a flame in the rain!</title>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Dec 2023 13:58:30 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Dec 2023 13:58:30 +0700</lastBuildDate>
+    <atom:link href="https://minhtuanact.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Có hàng ngàn bí mật được giấu trong Docker Hub!</title>
       <link>https://minhtuanact.github.io/posts/co-hang-ngan-bi-mat-duoc-giau-trong-docker-hub/</link>
       <pubDate>Fri, 22 Dec 2023 13:58:30 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/co-hang-ngan-bi-mat-duoc-giau-trong-docker-hub/</guid>
-      <description>Docker Hub là gì? Docker Hub là kho lưu trữ trên cloud dành cho cộng đồng Docker để lưu trữ, chia sẻ và phân phối Docker Image. Các Docker Image này sau khi chạy sẽ trở thành container, bên trong bao gồm tất cả các source code phần mềm cần thiết, thời gian chạy, thư viện, biến môi trường và tệp cấu hình để dễ dàng triển khai một ứng dụng trong Docker.</description>
+      <description>&lt;h1 id=&#34;docker-hub-là-gì&#34;&gt;Docker Hub là gì?&lt;/h1&gt;
+&lt;p&gt;Docker Hub là kho lưu trữ trên cloud dành cho cộng đồng Docker để lưu trữ, chia sẻ và phân phối Docker Image. Các Docker Image này sau khi chạy sẽ trở thành container, bên trong bao gồm tất cả các source code phần mềm cần thiết, thời gian chạy, thư viện, biến môi trường và tệp cấu hình để dễ dàng triển khai một ứng dụng trong Docker. Docker Hub là một registry lớn nhất sử dụng để lưu trữ Docker Image&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Phải làm gì khi &#34;Ports are not available&#34; trên Docker/các service khác 🤧</title>
       <link>https://minhtuanact.github.io/posts/phai-lam-gi-khi-ports-are-not-available-tren-dockercac-service-khac/</link>
       <pubDate>Fri, 25 Mar 2022 16:45:17 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/phai-lam-gi-khi-ports-are-not-available-tren-dockercac-service-khac/</guid>
-      <description>Mở đầu Chào các bạn, sau cái bài Xử lý vấn đề &amp;ldquo;Port Already in Use&amp;rdquo; trên Linux và Windows thì mình lại gặp 1 trường hợp nữa, cái trường hợp này nó xảy ra quá lâu rồi và do mình lười fix nên nó vẫn còn đó, cách đây khoảng 10 ngày thì mình fix được rồi. Chính vì thế mình viết lên đây vừa là chia sẻ, vừa là note lại cho bản thân để sau này lỡ bị lại thì có lệnh xài luôn cho nhanh :joy:</description>
+      <description>&lt;h1 id=&#34;mở-đầu&#34;&gt;Mở đầu&lt;/h1&gt;
+&lt;p&gt;Chào các bạn, sau cái bài &lt;a href=&#34;https://viblo.asia/p/xu-ly-van-de-port-already-in-use-tren-linux-va-windows-Qbq5QENz5D8&#34;&gt;Xử lý vấn đề &amp;ldquo;Port Already in Use&amp;rdquo; trên Linux và Windows
+&lt;/a&gt; thì mình lại gặp 1 trường hợp nữa, cái trường hợp này nó xảy ra quá lâu rồi và do mình lười fix nên nó vẫn còn đó, cách đây khoảng 10 ngày thì mình fix được rồi. Chính vì thế mình viết lên đây vừa là chia sẻ, vừa là note lại cho bản thân để sau này lỡ bị lại thì có lệnh xài luôn cho nhanh :joy:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

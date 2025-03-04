@@ -5,21 +5,22 @@
     <link>https://minhtuanact.github.io/tags/vscode/</link>
     <description>Recent content in Vscode on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
+      <title>minhtuanact|Blog - Keep a flame in the rain!</title>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2020 09:04:55 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Mar 2020 09:04:55 +0700</lastBuildDate>
+    <atom:link href="https://minhtuanact.github.io/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bạn thích dùng Windows nhưng lại muốn có cảm giác gõ code trên Linux</title>
       <link>https://minhtuanact.github.io/posts/ban-thich-dung-windows-nhung-lai-muon-co-cam-giac-go-code-tren-linux/</link>
       <pubDate>Tue, 31 Mar 2020 09:04:55 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/ban-thich-dung-windows-nhung-lai-muon-co-cam-giac-go-code-tren-linux/</guid>
-      <description>Lưu ý: Bài viết có đưa ra nhiều ý kiến cá nhân, mọi người cùng đọc và tham khảo.
-Hiện nay, việc sử dụng Window và Linux (ở đây mình không nói đến macOS) là khá phổ biến đối với các lập trình viên. Và có rất nhiều lập trình viên đam mê khá nhiều game. Như ở công ty mình thì dùng ubuntu (do công ty tiết kiệm vì mua Windows bản quyền khá tốn kém), việc dùng Linux cũng có rất nhiều cái hay, nhưng vấn đề Linux vẫn chưa xử lý tốt đó là chơi game, việc chơi game thì Windows nói số 2 không ai dám đứng nhất từ trước đến nay.</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Lưu ý: Bài viết có đưa ra nhiều ý kiến cá nhân, mọi người cùng đọc và tham khảo.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Hiện nay, việc sử dụng &lt;strong&gt;Window&lt;/strong&gt; và &lt;strong&gt;Linux&lt;/strong&gt; (ở đây mình không nói đến &lt;strong&gt;macOS&lt;/strong&gt;) là khá phổ biến đối với các lập trình viên. Và  có rất nhiều lập trình viên đam mê khá nhiều game. Như ở công ty mình thì dùng ubuntu (do công ty tiết kiệm vì mua Windows bản quyền khá tốn kém), việc dùng Linux cũng có rất nhiều cái hay, nhưng vấn đề Linux vẫn chưa xử lý tốt đó là chơi game, việc chơi game thì Windows nói số 2 không ai dám đứng nhất từ trước đến nay. Tuy nhiên việc gõ code ở trên Linux lại đem cảm giác tốt hơn là so với Windows. Nhiều lập trình viên ở công ty sử dụng Ubuntu, về nhà lại dùng Windows, cảm giác gõ trên Win lại không được &amp;ldquo;thuận tay&amp;rdquo; cho lắm.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -5,20 +5,30 @@
     <link>https://minhtuanact.github.io/tags/mysql/</link>
     <description>Recent content in MySql on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
+      <title>minhtuanact|Blog - Keep a flame in the rain!</title>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Jun 2019 15:51:23 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jun 2019 15:51:23 +0700</lastBuildDate>
+    <atom:link href="https://minhtuanact.github.io/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>VulnHub CTF - Raven 2 Walkthrough - Vẫn là chiếm quyền root, lần này là Mysql</title>
       <link>https://minhtuanact.github.io/posts/vulnhub-ctf-raven-2-walkthrough-van-la-chiem-quyen-root-lan-nay-la-mysql/</link>
       <pubDate>Thu, 20 Jun 2019 15:51:23 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/vulnhub-ctf-raven-2-walkthrough-van-la-chiem-quyen-root-lan-nay-la-mysql/</guid>
-      <description>Mở đầu Dạo này mình rất có hứng thú với mấy bài lab trên VulnHub.com. Lần này lại là một bài nữa, có thể chọc ngoáy khá nhiều vấn đề ở bài này. Bạn nào muốn build lên làm thử thì qua link này Raven: 2 Thôi thì bắt đầu vào chiến thôi. Bài này có tất cả là 4 cờ. Mình đi theo hướng tìm lần lượt 4 cờ luôn nhé.</description>
+      <description>&lt;h2 id=&#34;mở-đầu&#34;&gt;Mở đầu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dạo này mình rất có hứng thú với mấy bài lab trên VulnHub.com. Lần này lại là một bài nữa, có thể chọc ngoáy khá nhiều vấn đề ở bài này. Bạn nào muốn build lên làm thử thì qua link này &lt;a href=&#34;https://www.vulnhub.com/entry/raven-2,269/&#34;&gt;Raven: 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Thôi thì bắt đầu vào chiến thôi. Bài này có tất cả là 4 cờ. Mình đi theo hướng tìm lần lượt 4 cờ luôn nhé.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tấn-công&#34;&gt;Tấn công&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bắt đầu thì vẫn công việc quen thuộc quét &lt;code&gt;nmap&lt;/code&gt; các thứ thì giống các bài lab trước đó của mình nhé.&lt;/li&gt;
+&lt;li&gt;Quét được địa chỉ ip của nó là &lt;code&gt;http://192.168.19.17/&lt;/code&gt;, mở ra xem có gì không nào.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://images.viblo.asia/9cebd111-6d0c-492f-b24d-8488d87cdb8d.png&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

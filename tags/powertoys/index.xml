@@ -5,20 +5,21 @@
     <link>https://minhtuanact.github.io/tags/powertoys/</link>
     <description>Recent content in PowerToys on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
+      <title>minhtuanact|Blog - Keep a flame in the rain!</title>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Oct 2021 16:28:46 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/powertoys/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Oct 2021 16:28:46 +0700</lastBuildDate>
+    <atom:link href="https://minhtuanact.github.io/tags/powertoys/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chia màn hình Workspace và đủ trò khác với PowerToys</title>
       <link>https://minhtuanact.github.io/posts/chia-man-hinh-workspace-va-du-tro-khac-voi-powertoys/</link>
       <pubDate>Tue, 19 Oct 2021 16:28:46 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/chia-man-hinh-workspace-va-du-tro-khac-voi-powertoys/</guid>
-      <description>Root case Hi, dạo gần đây chắc hẳn các bạn, anh em đang làm việc tại nhà do dịch (chắc cũng có các bạn đã làm offline rồi). Mình thì cũng vẫn đang làm việc tại nhà, cũng dành 1 ít để upgrade cái workspace của mình lên một tý. Mình thấy có 1 vấn đề là khi mình nâng cấp sử dụng màn hình FHD lên màn hình QHD (2K), do cái màn 2K nó to hơn, và nhiều không gian hiển thị hơn nên mình không thể nhìn thấy hết toàn bộ nội dung hiển thị trên màn hình được (mở trình duyệt full màn hình là không thể nhìn hết hoặc có những phần bị thừa, rất phí)</description>
+      <description>&lt;h1 id=&#34;root-case&#34;&gt;Root case&lt;/h1&gt;
+&lt;p&gt;Hi, dạo gần đây chắc hẳn các bạn, anh em đang làm việc tại nhà do dịch (chắc cũng có các bạn đã làm offline rồi). Mình thì cũng vẫn đang làm việc tại nhà, cũng dành 1 ít để upgrade cái workspace của mình lên một tý. Mình thấy có 1 vấn đề là khi mình nâng cấp sử dụng màn hình FHD lên màn hình QHD (2K), do cái màn 2K nó to hơn, và nhiều không gian hiển thị hơn nên mình không thể nhìn thấy hết toàn bộ nội dung hiển thị trên màn hình được (mở trình duyệt full màn hình là không thể nhìn hết hoặc có những phần bị thừa, rất phí)&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

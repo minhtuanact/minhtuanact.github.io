@@ -5,20 +5,29 @@
     <link>https://minhtuanact.github.io/tags/overflow/</link>
     <description>Recent content in OverFlow on minhtuanact|Blog - Keep a flame in the rain!</description>
     <image>
+      <title>minhtuanact|Blog - Keep a flame in the rain!</title>
       <url>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://minhtuanact.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Jun 2019 11:21:04 +0700</lastBuildDate><atom:link href="https://minhtuanact.github.io/tags/overflow/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jun 2019 11:21:04 +0700</lastBuildDate>
+    <atom:link href="https://minhtuanact.github.io/tags/overflow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>VulnHub CTF - Silky-CTF: 0x02 - Lỗi Buffer OverFlow</title>
       <link>https://minhtuanact.github.io/posts/vulnhub-ctf-silky-ctf-0x02-loi-buffer-overflow/</link>
       <pubDate>Tue, 18 Jun 2019 11:21:04 +0700</pubDate>
-      
       <guid>https://minhtuanact.github.io/posts/vulnhub-ctf-silky-ctf-0x02-loi-buffer-overflow/</guid>
-      <description>Mở đầu Lại là mình đây, vẫn là cái serie vào /root để lấy cờ :joy_cat::joy_cat::joy_cat:. Vẫn là mấy bài lab trên VulnHub.com. Lần này sẽ là một bài khá đơn giản về lỗi Buffer OverFlow. Silky-CTF: 0x02, Link bài lab, các bạn có thể tải về và build nó lên rồi làm thử nhé. Nếu mà chưa làm được hay bí bách chỗ nào thì kéo xuống dưới nè. Mình hint cho :D Tấn công Vẫn như thường lệ, build lab lên rồi phải dò IP của bài lab bằng nmap thôi.</description>
+      <description>&lt;h2 id=&#34;mở-đầu&#34;&gt;Mở đầu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Lại là mình đây, vẫn là cái serie vào &lt;code&gt;/root&lt;/code&gt; để lấy cờ :joy_cat::joy_cat::joy_cat:. Vẫn là mấy bài lab trên VulnHub.com. Lần này sẽ là một bài khá đơn giản về lỗi Buffer OverFlow.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vulnhub.com/entry/silky-ctf-0x02,307/&#34;&gt;Silky-CTF: 0x02&lt;/a&gt;, Link bài lab, các bạn có thể tải về và build nó lên rồi làm thử nhé. Nếu mà chưa làm được hay bí bách chỗ nào thì kéo xuống dưới nè. Mình hint cho :D&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tấn-công&#34;&gt;Tấn công&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Vẫn như thường lệ, build lab lên rồi phải dò IP của bài lab bằng &lt;code&gt;nmap&lt;/code&gt; thôi. Quét ra địa chỉ &lt;code&gt;192.168.19.107&lt;/code&gt; rồi. Vào trang thì thấy như này.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://images.viblo.asia/0de479a0-a77e-4db2-a3c3-bd4092b4608e.png&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
